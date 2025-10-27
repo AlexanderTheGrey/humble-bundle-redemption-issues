@@ -150,7 +150,7 @@ If you're affected by any purchase listed here, please send a kindly-worded mess
 | Breathedge | 2026-10-15 | Survive or Die | Steam | [Hypetrain Digital](https://hypetraindigital.com) | [publishing@hypetraindigital.com](mailto:publishing@hypetraindigital.com) / [@HypeTrainD](https://x.com/HypeTrainD) | - | - | - |
 | Chernobylite Premium Edition | 2026-10-15 | Survival Instinct | Steam | [The Farm 51](https://www.thefarm51.com) | [contact@thefarm51.com](mailto:contact@thefarm51.com) / [@TheFarm51](https://x.com/TheFarm51) | - | - | - |
 | Conan Exiles | 2026-10-15 | Survival Instinct | Steam | [Funcom](https://www.funcom.com) | [support@funcom.com](mailto:support@funcom.com) / [@Funcom](https://x.com/Funcom) | - | - | - |
-| DUCKSIDE | 2026-10-15 | Survival Instinct | Steam | [tinyBuild](https://www.tinybuild.com) | [hello@tinybuild.com](mailto:hello@tinybuild.com) / [@tinyBuild](https://x.com/tinyBuild) | - | - | - |
+| DUCKSIDE | 2026-10-15 | Survival Instinct | Steam | [tinyBuild](https://www.tinybuild.com) | [contact@tinybuild.com](mailto:contact@tinybuild.com) / [@tinyBuild](https://x.com/tinyBuild) | - | - | - |
 | Force of Nature 2: Ghost Keeper | 2026-10-15 | Survival Instinct | Steam | [Crytivo](https://www.crytivo.com) | [contact@crytivo.com](mailto:contact@crytivo.com) / [@Crytivo](https://x.com/Crytivo) | - | - | - |
 | Starsand | 2026-10-15 | Survival Instinct | Steam | [Toplitz Productions](https://www.toplitz-productions.com) | [support@toplitz-productions.com](mailto:support@toplitz-productions.com) / [@Toplitz_Prod](https://x.com/Toplitz_Prod) | - | - | - |
 | Atomic Heart | 2026-11-04 | October 2025 Humble Choice | Steam | [Focus Entertainment](https://www.focus-entmt.com) | [support@focusent.com](mailto:support@focusent.com) / [@Focus_entmt](https://x.com/Focus_entmt) | - | - | - |
@@ -193,7 +193,7 @@ If you're affected by any purchase listed here, please send a kindly-worded mess
 
 | Game | Expiration | Bundle | Platform | Publisher | Publisher Contact |
 |---|---|---|---|---|---|
-| Potion Craft: Alchemist Simulator | - | IGN Live 2025 | Steam | [tinyBuild](https://www.tinybuild.com) | [alex@tinybuild.com](mailto:alex@tinybuild.com) / [@tinyBuild](https://x.com/tinyBuild) |
+| Potion Craft: Alchemist Simulator | - | IGN Live 2025 | Steam | [tinyBuild](https://www.tinybuild.com) | [contact@tinybuild.com](mailto:contact@tinybuild.com) / [@tinyBuild](https://x.com/tinyBuild) |
 | Homeworld 3 | - | March 2025 Humble Choice | Steam | [Gearbox Publishing](https://www.gearboxpublishing.com) | [support@gearboxpublishing.com](mailto:support@gearboxpublishing.com) / [@GBXPublishing](https://x.com/GearboxOfficial) |
 | Racine | - | March 2025 Humble Choice | Steam | [Raw Fury](https://rawfury.com) | [press@rawfury.com](mailto:press@rawfury.com) / [@RawFury](https://x.com/RawFury) |
 | Boxes: Lost Fragments | - | January 2025 Humble Choice | Steam | [QubicGames](https://qubicgames.com) | [support@qubicgames.com](mailto:support@qubicgames.com) / [@QubicGames](https://x.com/QubicGames) |
@@ -203,7 +203,7 @@ If you're affected by any purchase listed here, please send a kindly-worded mess
 | Dordogne | 2026-02-01 | January 2025 Humble Choice | Steam | [Focus Entertainment](https://www.focus-entmt.com/en) | [support@focusent.com](mailto:support@focusent.com) / [@Focus_entmt](https://x.com/Focus_entmt) |
 | Atlas Fallen: Reign of Sand | - | December 2024 Humble Choice | Steam | [Focus Entertainment](https://www.focus-entmt.com/en) | [support@focusent.com](mailto:support@focusent.com) / [@Focus_entmt](https://x.com/Focus_entmt) |
 | Bomb Rush Cyberfunk | - | December 2024 Humble Choice | Steam | [Team Reptile](https://team-reptile.com) | [contact@team-reptile.com](mailto:contact@team-reptile.com) / [@ReptileGames](https://x.com/ReptileGames) |
-| The Bookwalker: Thief of Tales | - | November 2024 Humble Choice | Steam | [tinyBuild](https://www.tinybuild.com) | [alex@tinybuild.com](mailto:alex@tinybuild.com) / [@tinyBuild](https://x.com/tinyBuild) |
+| The Bookwalker: Thief of Tales | - | November 2024 Humble Choice | Steam | [tinyBuild](https://www.tinybuild.com) | [contact@tinybuild.com](mailto:contact@tinybuild.com) / [@tinyBuild](https://x.com/tinyBuild) |
 | Cassette Beasts | 2026-10-08 | November 2024 Humble Choice | Steam | [Raw Fury](https://rawfury.com) | [press@rawfury.com](mailto:press@rawfury.com) / [@RawFury](https://x.com/RawFury) |
 | Garden Life: A Cozy Simulator | - | November 2024 Humble Choice | Steam | [Nacon](https://www.nacongaming.com/en-US/) | [assistance.nacon@games.fr](mailto:assistance.nacon@games.fr) / [@NACON](https://x.com/NACON) |
 | Hexarchy | 2025-12-05 | November 2024 Humble Choice | Steam | [Yogscast Games](https://www.yogscast.games) | [contact@yogscast.com](mailto:contact@yogscast.com) / [@YogscastGames](https://x.com/YogscastGames) |
@@ -275,7 +275,7 @@ If you're affected by any purchase listed here, please send a kindly-worded mess
 | Yakuza 3 Remastered | - | July 2021 Humble Choice | Steam | [SEGA](https://www.sega.com) | [dpo@sega.co.uk](mailto:dpo@sega.co.uk) / [@SEGA](https://x.com/SEGA) |
 | Desolate | - | June 2021 Humble Choice | Steam | [Hypetrain Digital](https://www.hypetraindigital.com) | [publishing@hypetraindigital.com](mailto:publishing@hypetraindigital.com) / [@HypeTrainD](https://x.com/HypeTrainD) |
 | Milky Way Prince – The Vampire Star | - | June 2021 Humble Choice | Steam | [Santa Ragione](https://www.santaragione.com) | [info@santaragione.com](mailto:info@santaragione.com) / [@santaragione](https://x.com/santaragione) |
-| Secret Neighbor | - | June 2021 Humble Choice | Steam | [tinyBuild](https://www.tinybuild.com) | [alex@tinybuild.com](mailto:alex@tinybuild.com) / [@tinyBuild](https://x.com/tinyBuild) |
+| Secret Neighbor | - | June 2021 Humble Choice | Steam | [tinyBuild](https://www.tinybuild.com) | [contact@tinybuild.com](mailto:contact@tinybuild.com) / [@tinyBuild](https://x.com/tinyBuild) |
 | Sid Meier's Civilization VI : Platinum Edition | - | June 2021 Humble Choice | Steam | [2K](https://2k.com) | [support.2k.com](https://support.2k.com) / [@2K](https://x.com/2K) |
 | Stubbs the Zombie in Rebel Without a Pulse | - | June 2021 Humble Choice | Steam | [Aspyr](https://www.aspyr.com) | [support@aspyr.com](mailto:support@aspyr.com) / [@AspyrMedia](https://x.com/AspyrMedia) |
 | Family Man | - | May 2021 Humble Choice | Steam | [Broken Arms Games](https://brokenarmsgames.com) | [support@brokenarmsgames.com](mailto:support@brokenarmsgames.com) / [@BrokenArmsGames](https://x.com/BrokenArmsGames) |
@@ -291,7 +291,7 @@ If you're affected by any purchase listed here, please send a kindly-worded mess
 | Yakuza Kiwami 2 | - | November 2020 Humble Choice | Steam | [SEGA](https://www.sega.com) | [dpo@sega.co.uk](mailto:dpo@sega.co.uk) / [@SEGA](https://x.com/SEGA) |
 | Call of Cthulhu | - | August 2020 Humble Choice | Steam | [Focus Entertainment](https://www.focus-entmt.com/en) | [support@focusent.com](mailto:support@focusent.com) / [@Focus_entmt](https://x.com/Focus_entmt) |
 | The Coma 2: Vicious Sisters | - | August 2020 Humble Choice | Steam | [Headup](https://www.headupgames.com) | [support@headupgames.com](mailto:support@headupgames.com) / [@headupgames](https://x.com/headupgames) |
-| Hello Neighbor | - | August 2020 Humble Choice | Steam | [tinyBuild](https://www.tinybuild.com) | [alex@tinybuild.com](mailto:alex@tinybuild.com) / [@tinyBuild](https://x.com/tinyBuild) |
+| Hello Neighbor | - | August 2020 Humble Choice | Steam | [tinyBuild](https://www.tinybuild.com) | [contact@tinybuild.com](mailto:contact@tinybuild.com) / [@tinyBuild](https://x.com/tinyBuild) |
 | Vampyr | - | August 2020 Humble Choice | Steam | [Focus Entertainment](https://www.focus-entmt.com/en) | [support@focusent.com](mailto:support@focusent.com) / [@Focus_entmt](https://x.com/Focus_entmt) |
 | Project Warlock | - | February 2020 Humble Choice | Steam | [Gaming Company](https://www.gamingcompany.pl) | [support@gamingcompany.pl](mailto:support@gamingcompany.pl) / [@GameCompanyGC](https://x.com/GameCompanyGC) |
 | SOULCALIBUR VI | - | December 2019 Humble Monthly | Steam | [BANDAI NAMCO Entertainment](https://www.bandainamcoent.com) | [support.bandainamcoent.com](https://support.bandainamcoent.com) / [@BandaiNamcoUS](https://x.com/BandaiNamcoUS) |
