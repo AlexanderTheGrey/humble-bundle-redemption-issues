@@ -125,6 +125,7 @@ If you're affected by any purchase listed here, please send a kindly-worded mess
 | State of Decay 2: Juggernaut Edition | 2026-04-15 | Survival Instinct | Steam | [Xbox Game Studios](https://www.xbox.com/games/xbox-game-studios) | [support.xbox.com](https://support.xbox.com) / [@Xbox](https://x.com/Xbox) | - | - | Yes | - |
 | State of Decay 2: Juggernaut Edition | 2026-04-15 | Lone Survivor Bundle | Steam | [Xbox Game Studios](https://www.xbox.com/en-US/xbox-game-studios) | [support.xbox.com](https://support.xbox.com) / [@XboxGameStudios](https://x.com/XboxGameStudios) | - | - | - | - |
 | Forager | 2026-04-15 | Lone Survivor Bundle | Steam | [Humble Games](https://www.humblegames.com) | [support@humblegames.com](mailto:support@humblegames.com) / [@HumbleGames](https://x.com/HumbleGames) | - | - | - | - |
+| Train Sim World 6: Add Ons | 2026-05-03 | IGN Fan Fest 2025: Fall Edition | Steam | [Dovetail Games](https://dovetailgames.com) | [Support](https://support.dovetailgames.com) / [enquiries@dovetailgames.com](mailto:enquiries@dovetailgames.com) / [Discord](https://discord.gg/Db7JFEJgCn) / [Support Forum](https://forums.dovetailgames.com) / [@DovetailGames](https://x.com/dovetailgames) | - | - | - | - |
 | Warhammer 40,000: Rogue Trader | 2026-07-01 | July 2025 Humble Choice | Steam | [Meta Publishing](https://meta.pub) | [support@meta.pub](mailto:support@meta.pub) / [@metapublishing](https://x.com/metapublishing) | - | - | - | - |
 | Death's Door | 2026-07-01 | July 2025 Humble Choice | Steam | [Devolver Digital](https://www.devolverdigital.com) | [support@devolverdigital.com](mailto:support@devolverdigital.com) / [@devolverdigital](https://x.com/devolverdigital) | - | - | - | - |
 | DAEMON X MACHINA | 2026-07-01 | July 2025 Humble Choice | Steam | [Marvelous Inc.](https://www.marvelousgames.com) | [support@marvelousgames.com](mailto:support@marvelousgames.com) / [@marveloususa](https://x.com/marveloususa) | - | - | - | - |
@@ -173,6 +174,7 @@ If you're affected by any purchase listed here, please send a kindly-worded mess
 | Shogun Showdown | 2026-11-04 | October 2025 Humble Choice | Steam | [Roboatino](https://www.roboatino.com) | [contact@roboatino.com](mailto:contact@roboatino.com) / [@roboatino](https://x.com/roboatino) | - | - | - | - |
 | Hotel Renovator | 2026-11-04 | October 2025 Humble Choice | Steam | [Focus Entertainment](https://www.focus-entmt.com) | [support@focusent.com](mailto:support@focusent.com) / [@Focus_entmt](https://x.com/Focus_entmt) | - | - | - | - |
 | Caravan SandWitch | 2026-11-04 | October 2025 Humble Choice | Steam | [Dear Villagers](https://www.dearvillagers.com) | [contact@dearvillagers.com](mailto:contact@dearvillagers.com) / [@DearVillagers](https://x.com/DearVillagers) | - | - | - | - |
+| The Last Stand: Aftermath | 2026-11-21 | Twin Stick 'Em Up | Steam | [Armor Games Studios](https://www.armorgamesstudios.com) | [Discord](https://discord.gg/zZzgJKn) / [Support Forum](https://armorgames.com/community/forum/34/support-forum) / [presskits@armorgames.com](mailto:PressKits@ArmorGames.com) / [@ArmorGameStudio](https://x.com/ArmorGameStudio) | - | - | Yes | - |
 | Disjunction | 2031-05-25 | June 2021 Humble Choice | GOG | [Fireshine Games](https://www.fireshinegames.co.uk) | [@FireshineGames](https://x.com/FireshineGames) | - | - | - | - |
 | Encodya | 2031-07-28 | August 2021 Humble Choice | GOG | [Assemble Entertainment](https://assemble-entertainment.com) | [info@assemble-entertainment.com](mailto:info@assemble-entertainment.com) / [@assembleGAMES](https://x.com/assembleGAMES) | - | - | - | - |
 | ~~Universe For Sale~~ | ~~2025-10-16~~ | ~~August 2024 Humble Choice~~ | ~~Epic (was Steam)~~ | ~~[Akupara Games](https://www.akuparagames.com)~~ | ~~[team@akuparagames.com](mailto:team@akuparagames.com) / [@AkuparaGames](https://x.com/AkuparaGames)~~ | ~~-~~ | ~~-~~ | ~~Yes~~ | ~~-~~ |
@@ -330,7 +332,7 @@ If you're affected by any purchase listed here, please send a kindly-worded mess
 | DeadCore | - | - | Humble BANDAI NAMCO Bundle | Steam | [BANDAI NAMCO Entertainment](https://www.bandainamcoent.com) | [support.bandainamcoent.com](https://support.bandainamcoent.com) / [@BandaiNamcoUS](https://x.com/BandaiNamcoUS) | - |
 | Velocity 2X | - | - | Humble Sierra Bundle | Steam | [Sierra Entertainment](https://www.sierra.com) | [support@sierra.com](mailto:support@sierra.com) / [@SierraGamers](https://x.com/SierraGamers) | - |
 | Savage Lands (Early Access) | - | - | Humble Survive This Bundle | Steam | [Signal Studios](https://www.signalstudios.net) | [support@signalstudios.net](mailto:support@signalstudios.net) / [@SignalStudios](https://x.com/SignalStudios) | - |
-| Beat Hazard 3 | - | - | Feel the Rhythm | Steam | [Cold Beam Games](https://coldbeamgames.com) | [support@coldbeamgames.com](mailto:support@coldbeamgames.com) / [@ColdBeamGames](https://x.com/ColdBeamGames) | - |
+| Beat Hazard 3 | 2025-11-04 | - | Feel the Rhythm | Steam | [Cold Beam Games](https://coldbeamgames.com) | [Discord](https://discord.gg/beathazard) / [support@coldbeamgames.com](mailto:support@coldbeamgames.com) / [@ColdBeamGames](https://x.com/ColdBeamGames) | Good publisher; they restocked shortly after being notified of the issue |
 | Amberial Dreams | - | - | Play Pink With Twin Sails | Steam | [Twin Sails Interactive](https://twinsails.com) | [support@twinsails.com](mailto:support@twinsails.com) / [@TwinSails](https://x.com/TwinSails) | - |
 | Builder Simulator VR | - | - | House Flipper and Friends Bundle | Steam | [FreeMind S.A.](https://www.freemindsa.com) | [contact@freemindsa.com](mailto:contact@freemindsa.com) / [@FreeMindSA](https://x.com/FreeMindSA) | - |
 | Amberial Dreams | - | - | Play for Miracles with Twin Sails Interactive | Steam | [Twin Sails Interactive](https://twinsails.com) | [support@twinsails.com](mailto:support@twinsails.com) / [@TwinSails](https://x.com/TwinSails) | - |
@@ -343,11 +345,11 @@ If you're affected by any purchase listed here, please send a kindly-worded mess
 
 # Humble Bundle Steam Keys Replaced with Other DRM (Without Notice)
 
-| Game | Replacement Platform | Expiration | Bundle | Publisher | Publisher Contact |
-|---|---|---|---|---|---|
-| Diplomacy is Not an Option | Epic | - | April 2025 Humble Choice | [Door 407](https://door407.com) | [support@door407.com](mailto:support@door407.com) / [@Door407Games](https://x.com/Door407Games) |
-| Diluvian Ultra | Epic | - | August 2024 Humble Choice | [Fulqrum Publishing](https://fulqrumpublishing.com) | [info@fulqrumpublishing.com](mailto:info@fulqrumpublishing.com) / [@FulqrumGames](https://x.com/FulqrumGames) |
-| Universe For Sale | Epic | 2025-10-16 | August 2024 Humble Choice | [Akupara Games](https://akuparagames.com) | [team@akuparagames.com](mailto:team@akuparagames.com) / [@AkuparaGames](https://x.com/AkuparaGames) |
-| Death Stranding Director's Cut | Epic | 2025-12-31 | April 2023 Humble Choice | [505 Games](https://505games.com) | [support.505games.com](https://support.505games.com) / [@505_Games](https://x.com/505_Games) |
-| Family Man | Epic | - | May 2021 Humble Choice | [No More Robots](https://nomorerobots.io) | [info@nomorerobots.io](mailto:info@nomorerobots.io) / [@NoMoreRobots](https://x.com/NoMoreRobots) |
-| Lovecraft's Untold Stories | Epic | - | February 2021 Humble Choice | [Fulqrum Publishing](https://fulqrumpublishing.com) | [info@fulqrumpublishing.com](mailto:info@fulqrumpublishing.com) / [@FulqrumGames](https://x.com/FulqrumGames) |
+| Game | Replacement Platform | Expiration | Bundle | Publisher | Publisher Contact | Notes |
+|---|---|---|---|---|---|---|
+| Diplomacy is Not an Option | Epic | - | April 2025 Humble Choice | [Door 407](https://door407.com) | [support@door407.com](mailto:support@door407.com) / [@Door407Games](https://x.com/Door407Games) | - |
+| Diluvian Ultra | Epic | - | August 2024 Humble Choice | [Fulqrum Publishing](https://fulqrumpublishing.com) | [info@fulqrumpublishing.com](mailto:info@fulqrumpublishing.com) / [@FulqrumGames](https://x.com/FulqrumGames) | - |
+| Universe For Sale | Epic | 2025-10-16 | August 2024 Humble Choice | [Akupara Games](https://akuparagames.com) | [team@akuparagames.com](mailto:team@akuparagames.com) / [@AkuparaGames](https://x.com/AkuparaGames) | - |
+| Death Stranding Director's Cut | Epic | 2025-12-31 | April 2023 Humble Choice | [505 Games](https://505games.com) | [support.505games.com](https://support.505games.com) / [@505_Games](https://x.com/505_Games) | - |
+| Family Man | Epic | - | May 2021 Humble Choice | [No More Robots](https://nomorerobots.io) | [info@nomorerobots.io](mailto:info@nomorerobots.io) / [@NoMoreRobots](https://x.com/NoMoreRobots) | - |
+| Lovecraft's Untold Stories | Epic | - | February 2021 Humble Choice | [Fulqrum Publishing](https://fulqrumpublishing.com) | [info@fulqrumpublishing.com](mailto:info@fulqrumpublishing.com) / [@FulqrumGames](https://x.com/FulqrumGames) | - |
