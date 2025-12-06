@@ -9,19 +9,43 @@ There are 3 tables that keep track of:
 - [Humble Bundle Exhausted Keys](#humble-bundle-exhausted-keys)
 - [Humble Bundle Steam Keys Replaced with Other DRM (Without Notice)](#humble-bundle-steam-keys-replaced-with-other-drm-without-notice)
 
+[There's also a tutorial on how to export all revealed Humble Bundle keys (and other account data).](#export-your-humble-bundle-game-keys) (credit to HommeCrabe for [their Steam Gifts post](https://www.steamgifts.com/discussion/UKk9R/humble-bundle-previous-choice-games-redeemable-on-epic-games-store))
+
 If you're affected by any purchase listed here, please send a kindly-worded message to both [Humble Support](https://support.humblebundle.com) *and* the publisher to request the key/compensation and let them know your disastification with their bad practices of not giving customers what they paid for/adding expiration dates to keys after purchase.
 
 **Many of these game titles are not out of stock, as they are still being sold on the Humble Store and in other bundles. The publishers are just arguably fraudulently refusing to provide the keys people paid for to increase the value of their games.**
 
 **Some titles were also given an expiration after purchase (retroactive expiration), i.e. the game wasn't marketed with an expiration at the point of sale, *with no notification to customers*, which is a dishonest publisher practice.**
 
-> **Note:** If you revealed and archived an expired key, it may stil work, since publishers have to manually revoke unredeemed keys.
+> **Note:** If you revealed and archived/[retrieved](#export-your-humble-bundle-game-keys) an expired/other DRM replacement key, it may stil work, since publishers have to manually revoke unredeemed keys.
 
 **Since keys expire at varying times on the day of expiration (Pacific Time), you should assume they expire at 11:59:59 PM PT the day before.**
 
 **Restocked keys may become exhausted again at a later date.**
 
 *Please help keep this list updated/correct by recommending updates and corrections, or submitting PRs.*
+
+# Export Your Humble Bundle Game Keys
+
+This tutorial shows how to export all your revealed game keys from Humble Bundle. This is useful for general record-keeping or for recovering keys that were previously revealed but later removed from your account (e.g., Steam keys replaced with Epic DRM).
+
+**Important:** Only revealed keys will be exported. Unrevealed keys will not appear in the data, since they were never allocated to you.
+
+## Steps
+
+1. Go to https://dsar.humblebundle.com/
+2. Click "Access My Information"
+3. Enter the email address associated with your Humble Bundle account
+4. Select your location
+5. Check all three boxes
+6. Click "Submit"
+7. Check your email and click "Confirm Email"
+8. Wait approximately 24 hours for a second email
+9. Click "Open request" in the second email
+10. Follow the steps to download your data
+11. Download and extract the ZIP file
+12. Open `redemptions-1.csv`
+13. Filter column B ("product") by bundle name or use `Ctrl+F` to find specific keys
 
 # Humble Bundle Keys with Expiration Dates
 
