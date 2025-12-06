@@ -378,3 +378,9 @@ If you're affected by any purchase listed here, please send a kindly-worded mess
 | Death Stranding Director's Cut | Epic | 2025-12-31 | April 2023 Humble Choice | [505 Games](https://505games.com) | [support.505games.com](https://support.505games.com) / [@505_Games](https://x.com/505_Games) | - |
 | Family Man | Epic | - | May 2021 Humble Choice | [No More Robots](https://nomorerobots.io) | [info@nomorerobots.io](mailto:info@nomorerobots.io) / [@NoMoreRobots](https://x.com/NoMoreRobots) | - |
 | Lovecraft's Untold Stories | Epic | - | February 2021 Humble Choice | [Fulqrum Publishing](https://fulqrumpublishing.com) | [info@fulqrumpublishing.com](mailto:info@fulqrumpublishing.com) / [@FulqrumGames](https://x.com/FulqrumGames) | - |
+| Pegasus Expedition | Epic | - | Janauary 2025 Humble Choice | [Fulqrum Publishing](https://fulqrumpublishing.com) | [info@fulqrumpublishing.com](mailto:info@fulqrumpublishing.com) / [@FulqrumGames](https://x.com/FulqrumGames) | - |
+| Moonstone Island | GOG | January 6, 2026 at 10:00:00 AM PST | December 2024 Humble Choice | [Raw Fury](https://rawfury.com/) | https://rawfury.atlassian.net/servicedesk/customer/portal/1 / | - |
+| Jack Move | Epic | - | October 2024 Humble Choice | - | - | - |
+| Fashion Police Squad | Epic | - | April 2024 Humble Choice | - | - | - |
+| Arcade Paradise | Epic | - | August 2023 Humble Choiec | - | - | - |
+
