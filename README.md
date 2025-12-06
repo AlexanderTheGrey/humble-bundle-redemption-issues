@@ -249,16 +249,16 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Encodya | 2031-07-28 | August 2021 Humble Choice | GOG | [Assemble Entertainment](https://assemble-entertainment.com) | - | - | - | - |
 | ~~Ultros~~ | ~~2025-12-02~~ | ~~May 2025 Humble Choice~~ | ~~Steam~~ | ~~[Kepler Interactive](https://kepler-interactive.com)~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
 | ~~Warhammer 40,000: Darktide~~ | ~~2025-12-05~~ | ~~November 2024 Humble Choice~~ | ~~Steam~~ | ~~[Fatshark](https://www.fatshark.se)~~ | ~~Previously~~ | ~~Yes~~ | ~~-~~ | ~~-~~ |
-| ~~Hexarchy~~ | ~~2025-12-05~~ | ~~November 2024 Humble Choice~~ | ~~Steam~~ | ~~[Yogscast Games](https://www.yogscast.games)~~ | ~~Yes~~ | ~~No~~ | ~~-~~ | ~~-~~ |
+| ~~Hexarchy~~ | ~~2025-12-05~~ | ~~November 2024 Humble Choice~~ | ~~Steam~~ | ~~[Yogscast Games](https://www.yogscast.games)~~ | ~~Permanent~~ | ~~No~~ | ~~-~~ | ~~-~~ |
 | ~~McPixel 3~~ | ~~2025-11-04~~ | ~~October 2024 Humble Choice~~ | ~~Steam~~ | ~~[Devolver Digital](https://www.devolverdigital.com)~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
 | ~~Remnant II~~ | ~~2025-11-04~~ | ~~October 2024 Humble Choice~~ | ~~Steam~~ | ~~[Arc Games](https://www.arcgames.com)~~ | ~~Previously~~ | ~~Yes~~ | ~~-~~ | ~~-~~ |
 | ~~Universe For Sale~~ | ~~2025-10-16~~ | ~~August 2024 Humble Choice~~ | ~~Epic (was Steam)~~ | ~~[Akupara Games](https://www.akuparagames.com)~~ | ~~Switched DRM~~ | ~~No~~ | ~~Yes~~ | ~~-~~ |
 | ~~Tales of Kenzera: ZAU~~ | ~~2025-10-03~~ | ~~March 2025 Humble Choice~~ | ~~Origin/EA~~ | ~~[EA/Electronic Arts](https://www.ea.com)~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
 | ~~Wild Hearts~~ | ~~2025-10-03~~ | ~~March 2025 Humble Choice~~ | ~~Origin/EA~~ | ~~[EA/Electronic Arts](https://www.ea.com)~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
-| ~~Pacific Drive~~ | ~~2025-10-03~~ | ~~March 2025 Humble Choice~~ | ~~Steam~~ | ~~[Kepler Interactive](https://kepler-interactive.com)~~ | ~~Yes~~ | ~~No~~ | ~~-~~ | ~~Replacement keys were given for those who contacted Humble Support~~ |
+| ~~Pacific Drive~~ | ~~2025-10-03~~ | ~~March 2025 Humble Choice~~ | ~~Steam~~ | ~~[Kepler Interactive](https://kepler-interactive.com)~~ | ~~Permanent~~ | ~~No~~ | ~~-~~ | ~~Replacement keys were given for those who contacted Humble Support~~ |
 | ~~Immortals of Aveum~~ | ~~2025-09-03~~ | ~~February 2025 Humble Choice~~ | ~~Origin/EA~~ | ~~[EA/Electronic Arts](https://www.ea.com)~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
 | ~~Demon Turf~~ | ~~2025-08-05~~ | ~~March 2023 Humble Choice~~ | ~~Steam~~ | ~~[Playtonic Friends](https://www.playtonic.games)~~ | ~~-~~ | ~~-~~ | ~~Yes (No Expiration Date Was Shown)~~ | ~~-~~ |
-| ~~Hero's Hour~~ | ~~2025-06-03~~ | ~~March 2023 Humble Choice~~ | ~~Steam~~ | ~~[Goblinz Publishing](https://goblinzstudio.com)~~ | ~~Yes~~ | ~~No~~ | ~~Yes~~ | ~~-~~ |
+| ~~Hero's Hour~~ | ~~2025-06-03~~ | ~~March 2023 Humble Choice~~ | ~~Steam~~ | ~~[Goblinz Publishing](https://goblinzstudio.com)~~ | ~~Permanent~~ | ~~No~~ | ~~Yes~~ | ~~-~~ |
 | ~~Hi-Fi RUSH~~ | ~~2025-06-03~~ | ~~May 2024 Humble Choice~~ | ~~Steam~~ | ~~[Bethesda Softworks](https://bethesda.net)~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
 | ~~Cat Quest II~~ | ~~2025-05-31~~ | ~~Better With a Friend: Co-op Adventures~~ | ~~Steam~~ | ~~[Kepler Interactive](https://kepler-interactive.com)~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
 | ~~Deadlink~~ | ~~2025-03-15~~ | ~~Back with a Vengeance: The Best of Boomer Shooters~~ | ~~Steam~~ | ~~[SuperGG.com](https://www.supergg.com)~~ | ~~-~~ | ~~-~~ | ~~Yes~~ | ~~-~~ |
@@ -284,25 +284,25 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Game | Last Restock Date | Exhaustion Type | Expiration | Bundle | Platform | Publisher | Notes |
 |---|---|---|---|---|---|---|---|
 | Potion Craft: Alchemist Simulator | 2025-10-20 | - | - | IGN Live 2025 | Steam | [tinyBuild](https://www.tinybuild.com) | - |
-| Diplomacy is Not an Option | - | - | - | April 2025 Humble Choice | Steam | [Door 407](https://door407.com) | - |
+| Diplomacy is Not an Option | - | Switched DRM | - | April 2025 Humble Choice | Steam | [Door 407](https://door407.com) | - |
 | Homeworld 3 | 2025-10-10 | - | - | March 2025 Humble Choice | Steam | [Gearbox Publishing](https://www.gearboxpublishing.com) | - |
 | Racine | - | - | - | March 2025 Humble Choice | Steam | [Raw Fury](https://rawfury.com) | - |
-| Pacific Drive | - | - | 2025-10-03 | March 2025 Humble Choice | Steam | [Kepler Interactive](https://kepler-interactive.com) | Never restocked before expiration, but replacement keys were given for those who contacted Humble Support |
-| Lovecraft's Untold Stories | - | - | - | February 2021 Humble Choice | Steam | [Fulqrum Publishing](https://fulqrumpublishing.com) | - |
+| Pacific Drive | - | Permanent | 2025-10-03 | March 2025 Humble Choice | Steam | [Kepler Interactive](https://kepler-interactive.com) | Never restocked before expiration, but replacement keys were given for those who contacted Humble Support |
+| Lovecraft's Untold Stories | - | Switched DRM | - | February 2021 Humble Choice | Steam | [Fulqrum Publishing](https://fulqrumpublishing.com) | - |
 | Boxes: Lost Fragments | - | - | - | January 2025 Humble Choice | Steam | [QubicGames](https://qubicgames.com) | - |
 | Fort Solis | 2025-12-03 | - | - | January 2025 Humble Choice | Steam | [Dear Villagers](https://dearvillagers.com) | - |
 | Jagged Alliance 3 | 2025-10-23 | - | - | January 2025 Humble Choice | Steam | [THQ Nordic](https://www.thqnordic.com) | - |
-| Pegasus Expedition | 2025-10-27 | - | - | January 2025 Humble Choice | Steam | [Raw Fury](https://rawfury.com) | - |
+| Pegasus Expedition | 2025-10-27 | Switched DRM | - | January 2025 Humble Choice | Steam | [Raw Fury](https://rawfury.com) | - |
 | Dordogne | - | - | 2026-02-01 | January 2025 Humble Choice | Steam | [Focus Entertainment](https://www.focus-entmt.com/en) | - |
 | Atlas Fallen: Reign of Sand | - | - | - | December 2024 Humble Choice | Steam | [Focus Entertainment](https://www.focus-entmt.com/en) | - |
 | Bomb Rush Cyberfunk | 2025-10-28 | - | - | December 2024 Humble Choice | Steam | [Team Reptile](https://team-reptile.com) | - |
 | The Bookwalker: Thief of Tales | 2025-10-22 | - | - | November 2024 Humble Choice | Steam | [tinyBuild](https://www.tinybuild.com) | - |
 | Cassette Beasts | - | - | 2026-10-08 | November 2024 Humble Choice | Steam | [Raw Fury](https://rawfury.com) | - |
 | Garden Life: A Cozy Simulator | - | - | - | November 2024 Humble Choice | Steam | [Nacon](https://www.nacongaming.com/en-US) | - |
-| Hexarchy | - | - | 2025-12-05 | November 2024 Humble Choice | Steam | [Yogscast Games](https://www.yogscast.games) | Never restocked before expiration, and no replacement keys have been issued |
+| Hexarchy | - | Permanent | 2025-12-05 | November 2024 Humble Choice | Steam | [Yogscast Games](https://www.yogscast.games) | Never restocked before expiration, and no replacement keys have been issued |
 | The Lamplighters League | - | - | - | November 2024 Humble Choice | Steam | [Paradox Interactive](https://www.paradoxinteractive.com) | - |
 | Warhammer 40,000: Darktide | 2025-10-20 | - | 2025-12-05 | November 2024 Humble Choice | Steam | [Fatshark](https://www.fatshark.se) | - |
-| Jack Move | - | - | - | October 2024 Humble Choice | Steam | [Hypetrain Digital](https://www.hypetraindigital.com) | - |
+| Jack Move | - | Switched DRM | - | October 2024 Humble Choice | Steam | [Hypetrain Digital](https://www.hypetraindigital.com) | - |
 | Remnant II | 2025-10-23 | - | 2025-11-04 | October 2024 Humble Choice | Steam | [Arc Games](https://www.arcgames.com) | - |
 | Astrea: Six-Sided Oracles | - | - | - | September 2024 Humble Choice | Steam | [Akupara Games](https://www.akuparagames.com) | - |
 | Coral Island | - | - | - | September 2024 Humble Choice | Steam | [Humble Games](https://www.humblegames.com) | - |
@@ -312,11 +312,11 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | You Suck at Parking - Complete Edition | 2025-10-24 | - | - | September 2024 Humble Choice | Steam | [Curve Games](https://www.curvegames.com) | - |
 | Who Pressed Mute on Uncle Marcus | 2025-10-24 | - | - | September 2023 Humble Choice | Steam | [Wales Interactive](https://www.walesinteractive.com) | - |
 | Astral Ascent | - | - | - | August 2024 Humble Choice | Steam | [Maple Whispering Limited](https://www.maplewhispering.com) | - |
-| Diluvian Ultra | - | - | - | August 2024 Humble Choice | Steam | [Fulqrum Publishing](https://fulqrumpublishing.com) | - |
+| Diluvian Ultra | - | Switched DRM | - | August 2024 Humble Choice | Steam | [Fulqrum Publishing](https://fulqrumpublishing.com) | - |
 | Gotham Knights |  2025-10-17 | - | 2026-02-27 | August 2024 Humble Choice | Steam | [WB Games](https://www.wbgames.com) | - |
 | Sifu | - | - | - | August 2024 Humble Choice | Steam | [Sloclap](https://www.sloclap.com) | - |
 | This Means Warp | - | - | - | August 2024 Humble Choice | Steam | [Outlier Games](https://outlier.games) | - |
-| Universe For Sale | - | - | 2025-10-16 | August 2024 Humble Choice | Steam | [Akupara Games](https://akuparagames.com) | - |
+| Universe For Sale | - | Switched DRM | 2025-10-16 | August 2024 Humble Choice | Steam | [Akupara Games](https://akuparagames.com) | - |
 | Ghostrunner 2 | - | - | - | July 2024 Humble Choice | Steam | [505 Games](https://505games.com) | - |
 | Plague Tale: Requiem | 2025-10-10 | - | - | July 2024 Humble Choice | Steam | [Focus Entertainment](https://www.focus-entmt.com/en) | - |
 | Starship Troopers Terran Command | - | - | - | July 2024 Humble Choice | Steam | [Slitherine Ltd.](https://www.slitherine.com) | - |
@@ -330,7 +330,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Steelrising | - | - | - | May 2024 Humble Choice | Steam | [Nacon](https://www.nacongaming.com/en-US) | - |
 | Yakuza Like a Dragon | - | - | - | May 2024 Humble Choice | Steam | [SEGA](https://www.sega.com) | - |
 | The Callisto Protocol | - | - | - | April 2024 Humble Choice | Steam | [Krafton](https://www.krafton.com) | - |
-| Fashion Police Squad | - | - | - | April 2024 Humble Choice | Steam | [No More Robots](https://nomorerobots.io) | - |
+| Fashion Police Squad | - | Switched DRM | - | April 2024 Humble Choice | Steam | [No More Robots](https://nomorerobots.io) | - |
 | Terraformers | - | - | - | April 2024 Humble Choice | Steam | [Goblinz Publishing](https://goblinzstudio.com) | - |
 | Afterimage | - | - | - | March 2024 Humble Choice | Steam | [Modus Games](https://modusgames.com) | - |
 | Destroyer: The U-Boat Hunter | - | - | - | March 2024 Humble Choice | Steam | [Toplitz Productions](https://www.toplitz-productions.com) | - |
@@ -342,7 +342,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | WWE 2K23 | - | - | - | November 2023 Humble Choice | Steam | [2K](https://2k.com) | - |
 | Metal Hellsinger | 2025-10-30 | - | - | October 2023 Humble Choice | Steam | [Funcom](https://www.funcom.com) | - |
 | Spirit of the Island | - | - | - | October 2023 Humble Choice | Steam | [Merge Games](https://mergegames.com) | - |
-| Arcade Paradise | - | - | - | August 2023 Humble Choice | Steam | [Wired Productions](https://www.wiredproductions.com) | - |
+| Arcade Paradise | - | Switched DRM | - | August 2023 Humble Choice | Steam | [Wired Productions](https://www.wiredproductions.com) | - |
 | Road 96 | - | - | - | August 2023 Humble Choice | Steam | [Ravenscourt](https://www.ravenscourt.com) | - |
 | Trek to Yomi | - | - | - | August 2023 Humble Choice | Steam | [Devolver Digital](https://www.devolverdigital.com) | - |
 | Merchant of the Skies | - | - | - | July 2023 Humble Choice | Steam | [Coldwild Games](https://coldwild.com) | - |
@@ -351,10 +351,10 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Temtem | - | - | 2026-04-08 | July 2023 Humble Choice | Steam | [Humble Games](https://www.humblegames.com) | - |
 | Remnant From the Ashes Complete Edition | - | - | - | June 2023 Humble Choice | Steam | [Gearbox Publishing](https://www.gearboxpublishing.com) | - |
 | Aliens: Fireteam Elite | - | - | - | April 2023 Humble Choice | Steam | [Focus Entertainment](https://www.focus-entmt.com/en) | - |
-| Death Stranding Director's Cut | - | - | - | April 2023 Humble Choice | Steam | [505 Games](https://505games.com) | - | - | Yes | - |
+| Death Stranding Director's Cut | - | Switched DRM | - | April 2023 Humble Choice | Steam | [505 Games](https://505games.com) | - | - | Yes | - |
 | Revita | - | - | - | April 2023 Humble Choice | Steam | [Dear Villagers](https://dearvillagers.com) | - |
 | Golden Light | 2025-10-17 | - | - | March 2023 Humble Choice | Steam | [Feardemic](https://feardemic.com) | - |
-| Hero's Hour | - | - | - | March 2023 Humble Choice | Steam | [Goblinz Publishing](https://goblinzstudio.com) | - |
+| Hero's Hour | - | Permanent | - | March 2023 Humble Choice | Steam | [Goblinz Publishing](https://goblinzstudio.com) | - |
 | OlliOlli World - Rad Edition | - | - | - | January 2023 Humble Choice | Steam | [Private Division](https://www.privatedivision.com) | - |
 | First Class Trouble | - | - | - | December 2022 Humble Choice | Steam | [Versus Evil](https://www.versusevil.com) | - |
 | Morbid: The Seven Acolytes | - | - | - | November 2022 Humble Choice | Steam | [Merge Games](https://mergegames.com) | - |
@@ -375,7 +375,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Secret Neighbor | 2025-10-23 | - | - | June 2021 Humble Choice | Steam | [tinyBuild](https://www.tinybuild.com) | - |
 | Sid Meier's Civilization VI : Platinum Edition | - | - | - | June 2021 Humble Choice | Steam | [2K](https://2k.com) | - |
 | Stubbs the Zombie in Rebel Without a Pulse | - | - | - | June 2021 Humble Choice | Steam | [Aspyr](https://www.aspyr.com) | - |
-| Family Man | - | - | - | May 2021 Humble Choice | Steam | [Broken Arms Games](https://brokenarmsgames.com) | - |
+| Family Man | - | Switched DRM | - | May 2021 Humble Choice | Steam | [Broken Arms Games](https://brokenarmsgames.com) | - |
 | Morkredd | - | - | - | May 2021 Humble Choice | Steam | [Aspyr](https://www.aspyr.com) | - |
 | Boomerang Fu | - | - | - | February 2021 Humble Choice | Steam | [Cranky Watermelon](https://crankywatermelon.com) | - |
 | Werewolf: The Apocalypse – Heart of the Forest | - | - | - | February 2021 Humble Choice | Steam | [Walkabout Games](https://walkaboutgames.com) | - |
