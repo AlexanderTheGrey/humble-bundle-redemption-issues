@@ -45,7 +45,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 
 ## Steps
 
-1. Go to https://dsar.humblebundle.com/
+1. Go to https://dsar.humblebundle.com
 2. Click "Access My Information"
 3. Enter the email address associated with your Humble Bundle account
 4. Select your location
@@ -61,223 +61,223 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 
 # Humble Bundle Keys with Expiration Dates
 
-| Game | Expiration | Bundle | Platform | Publisher | Exhausted | Restocked Before Expiration | Expiration Added Post-Purchase (Retroactive) | Notes |
+| Game | Expiration | Bundle | Exhausted | Restocked Before Expiration | Expiration Added Post-Purchase (Retroactive) | Platform | Publisher | Notes |
 |---|---|---|---|---|---|---|---|---|
-| Dredge | 2025-12-31 | April 2025 Humble Choice | Steam | [Team17](https://www.team17.com) | - | - | - | - |
-| Death Stranding Director's Cut | 2025-12-31 | April 2023 Humble Choice | Epic (was Steam) | [505 Games](https://505games.com) | Switched DRM | - | Yes | - |
-| Tchia | 2026-01-05 | June 2025 Humble Choice | Steam | [Kepler Interactive](https://kepler-interactive.com) | - | - | - | - |
-| Bomb Rush Cyberfunk | 2026-01-06 | December 2024 Humble Choice | Steam | [Team Reptile](https://team-reptile.com) | Previously | Yes | - | - |
-| Crime Boss: Rockay City - First Month Edition | 2026-01-06 | December 2024 Humble Choice | Steam | [505 Games](https://505games.com) | - | - | - | - |
-| The Invincible | 2026-01-06 | December 2024 Humble Choice | Steam | [11 bit studios](https://11bitstudios.com) | - | - | - | - |
-| Moonstone Island | 2026-01-06 | December 2024 Humble Choice | Steam | [Raw Fury](https://rawfury.com) | - | - | - | - |
-| Beneath Oresa | 2026-02-01 | January 2025 Humble Choice | Steam | [Goblinz Publishing](https://goblinzstudio.com) | - | - | - | - |
-| Dordogne | 2026-02-01 | January 2025 Humble Choice | Steam | [Focus Entertainment](https://www.focus-entmt.com) | Yes | - | - | - |
-| Al-Qadim: The Genie's Curse | 2026-02-07 | Dungeons & Dragons: Classics Collection | Steam | [SNEG](https://www.snegdev.io) | - | - | - | - |
-| DeathKeep | 2026-02-07 | Dungeons & Dragons: Classics Collection | Steam | [SNEG](https://www.snegdev.io) | - | - | - | - |
-| DragonStrike | 2026-02-07 | Dungeons & Dragons: Classics Collection | Steam | [SNEG](https://www.snegdev.io) | - | - | - | - |
-| Dungeons & Dragons: Dark Sun Series | 2026-02-07 | Dungeons & Dragons: Classics Collection | Steam | [SNEG](https://www.snegdev.io) | - | - | - | - |
-| Dungeons & Dragons: Krynn Series | 2026-02-07 | Dungeons & Dragons: Classics Collection | Steam | [SNEG](https://www.snegdev.io) | - | - | - | - |
-| Dungeons & Dragons: Ravenloft Series | 2026-02-07 | Dungeons & Dragons: Classics Collection | Steam | [SNEG](https://www.snegdev.io) | - | - | - | - |
-| Dungeons & Dragons - Stronghold: Kingdom Simulator | 2026-02-07 | Dungeons & Dragons: Classics Collection | Steam | [SNEG](https://www.snegdev.io) | - | - | - | - |
-| Fantasy Empires | 2026-02-07 | Dungeons & Dragons: Classics Collection | Steam | [SNEG](https://www.snegdev.io) | - | - | - | - |
-| Forgotten Realms: The Archives - Collection One | 2026-02-07 | Dungeons & Dragons: Classics Collection | Steam | [SNEG](https://www.snegdev.io) | - | - | - | - |
-| Forgotten Realms: The Archives - Collection Two | 2026-02-07 | Dungeons & Dragons: Classics Collection | Steam | [SNEG](https://www.snegdev.io) | - | - | - | - |
-| Forgotten Realms: The Archives - Collection Three | 2026-02-07 | Dungeons & Dragons: Classics Collection | Steam | [SNEG](https://www.snegdev.io) | - | - | - | - |
-| Silver Box Classics | 2026-02-07 | Dungeons & Dragons: Classics Collection | Steam | [SNEG](https://www.snegdev.io) | - | - | - | - |
-| Spelljammer: Pirates of Realmspace | 2026-02-07 | Dungeons & Dragons: Classics Collection | Steam | [SNEG](https://www.snegdev.io) | - | - | - | - |
-| Gotham Knights | 2026-02-27 | August 2024 Humble Choice | Steam | [WB Games](https://warnerbrosgames.com) | Previously | Yes | Yes | - |
-| Back 4 Blood | 2026-02-27 | Best of Humble Bundle: WB Play the Legends | Steam | [WB Games](https://warnerbrosgames.com) | - | - | - | - |
-| Back 4 Blood | 2026-02-27 | Humble Bundle: WB 100 Play the Legends | Steam | [WB Games](https://warnerbrosgames.com) | - | - | Yes | - |
-| Batman: Arkham Origins | 2026-02-27 | The WB Batman Collection | Steam | [WB Games](https://warnerbrosgames.com) | - | - | Yes | - |
-| Batman: Arkham Asylum Game of the Year Edition | 2026-02-27 | The WB Batman Collection | Steam | [WB Games](https://warnerbrosgames.com) | - | - | Yes | - |
-| Batman: Arkham City - Game of the Year Edition | 2026-02-27 | The WB Batman Collection | Steam | [WB Games](https://warnerbrosgames.com) | - | - | Yes | - |
-| Batman: Arkham Knight Premium Edition | 2026-02-27 | Best of Humble Bundle: WB Play the Legends | Steam | [WB Games](https://warnerbrosgames.com) | - | - | - | - |
-| Batman: Arkham Knight Premium Edition | 2026-02-27 | Humble Bundle: WB 100 Play the Legends | Steam | [WB Games](https://warnerbrosgames.com) | - | - | Yes | - |
-| FEAR: Ultimate Shooter Edition | 2026-02-27 | Best of Humble Bundle: WB Play the Legends | Steam | [WB Games](https://warnerbrosgames.com) | - | - | - | - |
-| FEAR: Ultimate Shooter Edition | 2026-02-27 | Humble Bundle: WB 100 Play the Legends | Steam | [WB Games](https://warnerbrosgames.com) | - | - | Yes | - |
-| Gotham Knights | 2026-02-27 | Best of Humble Bundle: WB Play the Legends | Steam | [WB Games](https://warnerbrosgames.com) | - | - | - | - |
-| Gotham Knights | 2026-02-27 | Humble Bundle: WB 100 Play the Legends | Steam | [WB Games](https://warnerbrosgames.com) | - | - | Yes | - |
-| Injustice Gods Among Us Ultimate Edition | 2026-02-27 | Best of Humble Bundle: WB Play the Legends | Steam | [WB Games](https://warnerbrosgames.com) | - | - | - | - |
-| Injustice 2 Legendary Edition | 2026-02-27 | Fighting Juggernauts Bundle | Steam | [WB Games](https://warnerbrosgames.com) | - | - | Yes | - |
-| Mad Max | 2026-02-27 | Best of Humble Bundle: WB Play the Legends | Steam | [WB Games](https://warnerbrosgames.com) | - | - | - | - |
-| Middle-Earth: Shadow of War Definitive Edition | 2026-02-27 | Fantastic Journeys: Middle-earth and Beyond | Steam | [WB Games](https://warnerbrosgames.com) | - | - | Yes | - |
-| Middle-earth: Shadow of Mordor Game of the Year Edition | 2026-02-27 | Best of Humble Bundle: WB Play the Legends | Steam | [WB Games](https://warnerbrosgames.com) | - | - | - | - |
-| Middle-earth: Shadow of Mordor Game of the Year Edition | 2026-02-27 | Humble Bundle: WB 100 Play the Legends | Steam | [WB Games](https://warnerbrosgames.com) | - | - | Yes | - |
-| MORTAL KOMBAT XL | 2026-02-27 | Fighting Juggernauts Bundle | Steam | [WB Games](https://warnerbrosgames.com) | - | - | Yes | - |
-| Mortal Kombat 11: Ultimate Edition | 2026-02-27 | Best of Humble Bundle: WB Play the Legends | Steam | [WB Games](https://warnerbrosgames.com) | - | - | - | - |
-| Mortal Kombat 11: Ultimate Edition | 2026-02-27 | Humble Bundle: WB 100 Play the Legends | Steam | [WB Games](https://warnerbrosgames.com) | - | - | Yes | - |
-| Suicide Squad: Kill the Justice League | 2026-02-27 | Best of Humble Bundle: WB Play the Legends | Steam | [WB Games](https://warnerbrosgames.com) | - | - | - | - |
-| Watchmen: The End is Nigh Part 1 and 2 Bundle | 2026-02-27 | Best of Humble Bundle: WB Play the Legends | Steam | [WB Games](https://warnerbrosgames.com) | - | - | - | - |
-| Tales & Tactics | 2026-03-01 | February 2025 Humble Choice | Steam | [Yogscast Games](https://www.yogscast.games) | - | - | - | - |
-| Tiny Terry's Turbo Trip | 2026-03-02 | August 2025 Humble Choice | Steam | [Super Rare Games](https://superraregames.com) | - | - | - | - |
-| LEGO Ninjago Movie Video Game | 2026-03-24 | Humble LEGO Built To Bundle | Steam | [WB Games](https://warnerbrosgames.com) | - | - | Yes | - |
-| LEGO Worlds | 2026-03-24 | Humble LEGO Built To Bundle | Steam | [WB Games](https://warnerbrosgames.com) | - | - | Yes | - |
-| LEGO Batman 2 DC Super Heroes™ | 2026-03-24 | Humble LEGO Built To Bundle | Steam | [WB Games](https://warnerbrosgames.com) | - | - | Yes | - |
-| LEGO Batman 3: Beyond Gotham Premium Edition | 2026-03-24 | Humble LEGO Built To Bundle | Steam | [WB Games](https://warnerbrosgames.com) | - | - | Yes | - |
-| LEGO The Hobbit | 2026-03-24 | Fantastic Journeys: Middle-earth and Beyond | Steam | [WB Games](https://warnerbrosgames.com) | - | - | Yes | - |
-| LEGO The Lord of the Rings | 2026-03-24 | Fantastic Journeys: Middle-earth and Beyond | Steam | [WB Games](https://warnerbrosgames.com) | - | - | Yes | - |
-| The LEGO Movie - Videogame | 2026-03-24 | LEGO: At the Movies | Steam | [WB Games](https://warnerbrosgames.com) | - | - | Yes | - |
-| LEGO Jurassic World | 2026-03-24 | LEGO: At the Movies | Steam | [WB Games](https://warnerbrosgames.com) | - | - | Yes | - |
-| LEGO Ninjago Movie Video Game | 2026-03-24 | LEGO: At the Movies | Steam | [WB Games](https://warnerbrosgames.com) | - | - | Yes | - |
-| LEGO Batman | 2026-03-24 | LEGO Worlds Collide: The Ultimate Assembly | Steam | [WB Games](https://warnerbrosgames.com) | - | - | Yes | - |
-| LEGO The Lord of the Rings | 2026-03-24 | LEGO Worlds Collide: The Ultimate Assembly | Steam | [WB Games](https://warnerbrosgames.com) | - | - | Yes | - |
-| The LEGO Movie - Videogame | 2026-03-24 | LEGO Worlds Collide: The Ultimate Assembly | Steam | [WB Games](https://warnerbrosgames.com) | - | - | Yes | - |
-| LEGO Batman 2 DC Super Heroes™ | 2026-03-24 | LEGO Worlds Collide: The Ultimate Assembly | Steam | [WB Games](https://warnerbrosgames.com) | - | - | Yes | - |
-| LEGO The Hobbit | 2026-03-24 | LEGO Worlds Collide: The Ultimate Assembly | Steam | [WB Games](https://warnerbrosgames.com) | - | - | Yes | - |
-| LEGO Ninjago Movie Video Game | 2026-03-24 | LEGO Worlds Collide: The Ultimate Assembly | Steam | [WB Games](https://warnerbrosgames.com) | - | - | Yes | - |
-| LEGO Jurassic World | 2026-03-24 | LEGO Worlds Collide: The Ultimate Assembly | Steam | [WB Games](https://warnerbrosgames.com) | - | - | Yes | - |
-| LEGO Worlds | 2026-03-24 | LEGO Worlds Collide: The Ultimate Assembly | Steam | [WB Games](https://warnerbrosgames.com) | - | - | Yes | - |
-| LEGO Batman | 2026-03-24 | The WB Batman Collection | Steam | [WB Games](https://warnerbrosgames.com) | - | - | Yes | - |
-| LEGO Batman 2 DC Super Heroes™ | 2026-03-24 | The WB Batman Collection | Steam | [WB Games](https://warnerbrosgames.com) | - | - | Yes | - |
-| LEGO Batman | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | Steam | [WB Games](https://warnerbrosgames.com) | - | - | - | - |
-| LEGO Batman 2 DC Super Heroes™ | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | Steam | [WB Games](https://warnerbrosgames.com) | - | - | - | - |
-| LEGO Batman 3: Beyond Gotham Premium Edition | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | Steam | [WB Games](https://warnerbrosgames.com) | - | - | - | - |
-| LEGO The Hobbit | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | Steam | [WB Games](https://warnerbrosgames.com) | - | - | - | - |
-| LEGO Marvel™ Super Heroes | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | Steam | [WB Games](https://warnerbrosgames.com) | - | - | - | - |
-| The LEGO Movie - Videogame | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | Steam | [WB Games](https://warnerbrosgames.com) | - | - | - | - |
-| LEGO MARVEL's Avengers (DELUXE EDITION) | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | Steam | [WB Games](https://warnerbrosgames.com) | - | - | - | - |
-| LEGO Ninjago Movie Video Game | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | Steam | [WB Games](https://warnerbrosgames.com) | - | - | - | - |
-| LEGO The Lord of the Rings | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | Steam | [WB Games](https://warnerbrosgames.com) | - | - | - | - |
-| LEGO Star Wars™: The Skywalker Saga (Deluxe) | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | Steam | [WB Games](https://warnerbrosgames.com) | - | - | - | - |
-| LEGO Marvel Super Heroes 2 (DELUXE EDITION) | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | Steam | [WB Games](https://warnerbrosgames.com) | - | - | - | - |
-| LEGO DC Super-Villains (DELUXE EDITION) | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | Steam | [WB Games](https://warnerbrosgames.com) | - | - | - | - |
-| LEGO Star Wars™: The Force Awakens (DELUXE EDITION) | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | Steam | [WB Games](https://warnerbrosgames.com) | - | - | - | - |
-| LEGO Jurassic World | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | Steam | [WB Games](https://warnerbrosgames.com) | - | - | - | - |
-| LEGO Worlds | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | Steam | [WB Games](https://warnerbrosgames.com) | - | - | - | - |
-| LEGO The Incredibles | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | Steam | [WB Games](https://warnerbrosgames.com) | - | - | - | - |
-| The LEGO Movie 2 Videogame | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | Steam | [WB Games](https://warnerbrosgames.com) | - | - | - | - |
-| Enotria: The Last Song | 2026-04-04 | Humbling Soulslike Bundle | Steam | [Jyamma Games](https://www.jyammagames.com) | - | - | - | - |
-| Flintlock: the Siege of Dawn - Deluxe Edition | 2026-04-04 | Humbling Soulslike Bundle | Steam | [Kepler Interactive](https://kepler-interactive.com) | - | - | - | - |
-| Paleo Pines | 2026-04-04 | November 2025 Humble Choice | Steam | [Maximum Entertainment](https://maximument.com) | - | - | - | - |
-| Temtem | 2026-04-08 | Critter Chaos Bundle | Steam | [Humble Games](https://www.humblegames.com) | - | - | - | - |
-| Farewell North | 2026-04-08 | Critter Chaos Bundle | Steam | [Mooneye Studios](https://www.mooneyestudios.com) | - | - | - | - |
-| Deadlink | 2026-04-11 | Best of Boomer Shooters 4: Badda Bing Badda Boom | Steam | [SuperGG.com](https://www.supergg.com) | - | - | - | - |
-| Forager | 2026-04-15 | Fighting Farmers | Steam | [Humble Games](https://www.humblegames.com) | - | - | Yes | - |
-| State of Decay 2: Juggernaut Edition | 2026-04-15 | Dangerous Worlds | Steam | [Xbox Game Studios](https://www.xbox.com/games/xbox-game-studios) | - | - | Yes | - |
-| State of Decay 2: Juggernaut Edition | 2026-04-15 | Survival Instinct | Steam | [Xbox Game Studios](https://www.xbox.com/games/xbox-game-studios) | - | - | Yes | - |
-| State of Decay 2: Juggernaut Edition | 2026-04-15 | Lone Survivor Bundle | Steam | [Xbox Game Studios](https://www.xbox.com/en-US/xbox-game-studios) | - | - | - | - |
-| Forager | 2026-04-15 | Lone Survivor Bundle | Steam | [Humble Games](https://www.humblegames.com) | - | - | - | - |
-| Train Sim World 6: Add Ons | 2026-05-03 | IGN Fan Fest 2025: Fall Edition | Steam | [Dovetail Games](https://dovetailgames.com) | - | - | - | - |
-| Scorn | 2026-05-20 | Horror Icons Showcase | Steam | [Kepler Interactive](https://kepler-interactive.com) | - | - | - | - |
-| Ring of Pain | 2026-06-12 | Awesome Indies from Humble Games | Steam | [Humble Games](https://www.humblegames.com) | - | - | Yes | - |
-| American Arcadia | 2026-06-24 | Future Games Show Discovery | Steam | [Out of the Blue Games](https://outbluegames.com) | - | - | Yes | - |
-| SKALD: Against the Black Priory | 2026-06-24 | Rawcember to Remember | Steam | [Raw Fury](https://rawfury.com) | - | - | Yes | - |
-| Townscaper | 2026-06-24 | Sim-ple Life | Steam | [Raw Fury](https://rawfury.com) | - | - | Yes | - |
-| Double Dragon Gaiden: Rise of the Dragons | 2026-06-26 | Brutal Beat 'Em Ups | Steam | [Secret Base](https://secretbase.sg) | - | - | Yes | - |
-| Warhammer 40,000: Rogue Trader | 2026-07-01 | July 2025 Humble Choice | Steam | [Meta Publishing](https://meta.pub) | - | - | - | - |
-| Death's Door | 2026-07-01 | July 2025 Humble Choice | Steam | [Devolver Digital](https://www.devolverdigital.com) | - | - | - | - |
-| DAEMON X MACHINA | 2026-07-01 | July 2025 Humble Choice | Steam | [Marvelous Inc.](https://www.marvelousgames.com) | - | - | - | - |
-| Wizard with a Gun | 2026-07-01 | July 2025 Humble Choice | Steam | [Devolver Digital](https://www.devolverdigital.com) | - | - | - | - |
-| Neo Cab | 2026-07-01 | July 2025 Humble Choice | Steam | [Fellow Traveller](https://www.fellowtraveller.games) | - | - | - | - |
-| Everafter Falls | 2026-07-01 | July 2025 Humble Choice | Steam | [Akupara Games](https://www.akuparagames.com) | - | - | - | - |
-| Blanc | 2026-07-01 | July 2025 Humble Choice | Steam | [Gearbox Publishing](https://www.gearboxpublishing.com) | - | - | - | - |
-| Cat Quest III | 2026-09-01 | July 2025 Humble Choice | Steam | [Kepler Interactive](https://kepler-interactive.com) | - | - | - | - |
-| Persona 5 Royal | 2026-09-02 | August 2025 Humble Choice | Steam | [SEGA](https://www.sega.com) | - | - | - | - |
-| Banishers: Ghosts of New Eden | 2026-09-02 | August 2025 Humble Choice | Steam | [Focus Entertainment](https://www.focus-entmt.com) | - | - | - | - |
-| My Time at Sandrock | 2026-09-02 | August 2025 Humble Choice | Steam | [Pathea Games](https://www.pathea.net) | - | - | - | - |
-| Let's School | 2026-09-02 | August 2025 Humble Choice | Steam | [Pathea Games](https://www.pathea.net) | - | - | - | - |
-| Lil Gator Game | 2026-09-02 | August 2025 Humble Choice | Steam | [Playtonic Friends](https://www.playtonic.games) | - | - | - | - |
-| Wildmender | 2026-09-02 | August 2025 Humble Choice | Steam | [Muse Games](https://www.musegames.com) | - | - | - | - |
-| Warpips | 2026-09-02 | August 2025 Humble Choice | Steam | [Skirmish Mode Games](https://www.skirmishmodegames.com) | - | - | - | - |
-| WWE 2K25 | 2026-10-07 | September 2025 Humble Choice | Steam | [2K](https://www.2k.com) | - | - | - | - |
-| Destiny 2: Legacy Collection (2025) | 2026-10-07 | September 2025 Humble Choice | Steam | [Bungie](https://www.bungie.net) | - | - | - | - |
-| The Plucky Squire | 2026-10-07 | September 2025 Humble Choice | Steam | [Devolver Digital](https://www.devolverdigital.com) | - | - | - | - |
-| Spellforce: Conquest of Eo | 2026-10-07 | September 2025 Humble Choice | Steam | [THQ Nordic](https://www.thqnordic.com) | - | - | - | - |
-| Return to Monkey Island | 2026-10-07 | September 2025 Humble Choice | Steam | [Devolver Digital](https://www.devolverdigital.com) | - | - | - | - |
-| Eastern Exorcist | 2026-10-07 | September 2025 Humble Choice | Steam | [Wildfire Game](https://www.wildfire-games.com) | - | - | - | - |
-| Warhammer 40,000: Speed Freeks | 2026-10-07 | September 2025 Humble Choice | Steam | [Caged Element Inc.](https://www.cagedelement.com) | - | - | - | - |
-| Grapple Dog | 2026-10-07 | September 2025 Humble Choice | Steam | [Super Rare Originals](https://superraregames.com) | - | - | - | - |
-| Copycat | 2026-10-08 | Critter Chaos Bundle | Steam | [Neverland Entertainment](https://www.neverlandentertainment.com) | - | - | - | - |
-| Coromon | 2026-10-08 | Critter Chaos Bundle | Steam | [indie.io](https://www.indie.io) | - | - | - | - |
-| Moonstone Island | 2026-10-08 | Critter Chaos Bundle | Steam | [Raw Fury](https://rawfury.com) | - | - | - | - |
-| Cassette Beasts | 2026-10-08 | Critter Chaos Bundle | Steam | [Raw Fury](https://rawfury.com) | - | - | - | - |
-| Meg's Monster | 2026-10-08 | Critter Chaos Bundle | Steam | [Odencat](https://www.odencat.com) | - | - | - | - |
-| Fruitbus | 2026-10-08 | Critter Chaos Bundle | Steam | [Krillbite Studio](https://www.krillbite.com) | - | - | - | No expiration listed on keys page, but bundle purchase page said all keys expire |
-| Above Snakes | 2026-10-15 | The Creative Sandbox | Steam | [Crytivo](https://www.crytivo.com) | - | - | - | - |
-| Breathedge | 2026-10-15 | Survive or Die | Steam | [Hypetrain Digital](https://hypetraindigital.com) | - | - | Yes | - |
-| Breathedge | 2026-10-15 | Spaced Out | Steam | [Hypetrain Digital](https://hypetraindigital.com) | - | - | Yes | - |
-| Starsand | 2026-10-15 | Survival Instinct | Steam | [Toplitz Productions](https://www.toplitz-productions.com) | - | - | Yes | - |
-| Breathedge | 2026-10-15 | Lone Survivor Bundle | Steam | [HypeTrain Digital](https://hypetraindigital.com) | - | - | - | - |
-| Above Snakes | 2026-10-15 | Lone Survivor Bundle | Steam | [Crytivo](https://www.crytivo.com) | - | - | - | - |
-| Force of Nature 2: Ghost Keeper | 2026-10-15 | Lone Survivor Bundle | Steam | [Crytivo](https://www.crytivo.com) | - | - | - | - |
-| DUCKSIDE | 2026-10-15 | Lone Survivor Bundle | Steam | [tinyBuild](https://www.tinybuild.com) | - | - | - | - |
-| Starsand | 2026-10-15 | Lone Survivor Bundle | Steam | [Toplitz Productions](https://www.toplitz-productions.com) | - | - | - | - |
-| Chernobylite Premium Edition | 2026-10-15 | Lone Survivor Bundle | Steam | [All in! Games](https://www.allingames.com) | - | - | - | - |
-| Conan Exiles | 2026-10-15 | Lone Survivor Bundle | Steam | [Funcom](https://www.funcom.com) | - | - | - | - |
-| Atomic Heart | 2026-11-04 | October 2025 Humble Choice | Steam | [Focus Entertainment](https://www.focus-entmt.com) | - | - | - | - |
-| V Rising | 2026-11-04 | October 2025 Humble Choice | Steam | [Stunlock Studios](https://www.stunlockstudios.com) | - | - | - | - |
-| System Shock | 2026-11-04 | October 2025 Humble Choice | Steam | [Atari](https://www.atari.com) | - | - | - | - |
-| Story of Seasons: Pioneers of Olive Town | 2026-11-04 | October 2025 Humble Choice | Steam | [XSEED Games](https://www.xseedgames.com) | - | - | - | - |
-| Cryptmaster | 2026-11-04 | October 2025 Humble Choice | Steam | [Akupara Games](https://www.akuparagames.com) | - | - | - | - |
-| Shogun Showdown | 2026-11-04 | October 2025 Humble Choice | Steam | [Roboatino](https://www.roboatino.com) | - | - | - | - |
-| Hotel Renovator | 2026-11-04 | October 2025 Humble Choice | Steam | [Focus Entertainment](https://www.focus-entmt.com) | - | - | - | - |
-| Caravan SandWitch | 2026-11-04 | October 2025 Humble Choice | Steam | [Dear Villagers](https://www.dearvillagers.com) | - | - | - | - |
-| The Spirit and the Mouse | 2026-11-21 | Masterful Modern 3D Platformers | Steam | [Armor Games Studios](https://armorgamesstudios.com) | - | - | Yes | - |
-| The Last Stand: Aftermath | 2026-11-21 | Twin Stick 'Em Up | Steam | [Armor Games Studios](https://www.armorgamesstudios.com) | - | - | Yes | - |
-| The Last Stand: Aftermath | 2026-11-21 | Armor Games: The Retro & Reborn Collection | Steam | [Armor Games Studios](https://www.armorgamesstudios.com) | - | - | - | - |
-| Bilkins' Folly | 2026-11-21 | Armor Games: The Retro & Reborn Collection | Steam | [Armor Games Studios](https://www.armorgamesstudios.com) | - | - | - | - |
-| Crush the Castle Legacy Collection | 2026-11-21 | Armor Games: The Retro & Reborn Collection | Steam | [Armor Games Studios](https://www.armorgamesstudios.com) | - | - | - | - |
-| Decision Legacy Collection | 2026-11-21 | Armor Games: The Retro & Reborn Collection | Steam | [Armor Games Studios](https://www.armorgamesstudios.com) | - | - | - | - |
-| Deep Sleep Trilogy | 2026-11-21 | Armor Games: The Retro & Reborn Collection | Steam | [Armor Games Studios](https://www.armorgamesstudios.com) | - | - | - | - |
-| Defender's Quest 2: Mists of Ruin | 2026-11-21 | Armor Games: The Retro & Reborn Collection | Steam | [Armor Games Studios](https://www.armorgamesstudios.com) | - | - | - | - |
-| Don't Escape Trilogy | 2026-11-21 | Armor Games: The Retro & Reborn Collection | Steam | [Armor Games Studios](https://www.armorgamesstudios.com) | - | - | - | - |
-| The Elephant Collection | 2026-11-21 | Armor Games: The Retro & Reborn Collection | Steam | [Armor Games Studios](https://www.armorgamesstudios.com) | - | - | - | - |
-| GemCraft - Chasing Shadows | 2026-11-21 | Armor Games: The Retro & Reborn Collection | Steam | [Armor Games Studios](https://www.armorgamesstudios.com) | - | - | - | - |
-| Infectonator 3: Apocalypse | 2026-11-21 | Armor Games: The Retro & Reborn Collection | Steam | [Armor Games Studios](https://www.armorgamesstudios.com) | - | - | - | - |
-| ITTA | 2026-11-21 | Armor Games: The Retro & Reborn Collection | Steam | [Armor Games Studios](https://www.armorgamesstudios.com) | - | - | - | - |
-| Nauticrawl | 2026-11-21 | Armor Games: The Retro & Reborn Collection | Steam | [Armor Games Studios](https://www.armorgamesstudios.com) | - | - | - | - |
-| The Spirit and the Mouse | 2026-11-21 | Armor Games: The Retro & Reborn Collection | Steam | [Armor Games Studios](https://www.armorgamesstudios.com) | - | - | - | - |
-| Swords & Souls Legacy Collection | 2026-11-21 | Armor Games: The Retro & Reborn Collection | Steam | [Armor Games Studios](https://www.armorgamesstudios.com) | - | - | - | - |
-| Total War: Warhammer III | 2026-12-02 | November 2025 Humble Choice | Steam | [SEGA](https://www.sega.com) | - | - | - | - |
-| Etrian Odyssey HD | 2026-12-02 | November 2025 Humble Choice | Steam | [SEGA](https://www.sega.com) | - | - | - | - |
-| Another Crab's Treasure | 2026-12-02 | November 2025 Humble Choice | Steam | [Aggro Crab](https://aggrocrab.com) | - | - | - | - |
-| No More Heroes 3 | 2026-12-02 | November 2025 Humble Choice | Steam | [Marvelous](https://marvelousgames.com) | - | - | - | - |
-| Synergy | 2026-12-02 | November 2025 Humble Choice | Steam | [Goblinz Publishing](https://goblinzstudio.com) | - | - | - | - |
-| Spin Hero | 2026-12-02 | November 2025 Humble Choice | Steam | [Goblinz Publishing](https://goblinzstudio.com) | - | - | - | - |
-| Creaks | 2026-12-03 | Unparalleled Puzzlers | Steam | [Amanita Design](https://amanita-design.net) | - | - | Yes | - |
-| One Hand Clapping | 2026-12-03 | Adventures in the 2nd Dimension: Positively Playful Platformers | Steam | [HandyGames](https://handy-games.com) | - | - | Yes | - |
-| Endling - Extinction is Forever | 2026-12-03 | Exceptional Indie Allies | Steam | [HandyGames](https://handy-games.com) | - | - | Yes | - |
-| Soulslinger: Envoy of Death | 2026-12-10 | IGN Live at Home | Steam | [Headup](https://headupgames.com) | - | - | Yes | - |
-| Pumpkin Jack | 2026-12-10 | Masterful Modern 3D Platformers | Steam | [Headup](https://headupgames.com) | - | - | Yes | - |
-| Hell Pie | 2026-12-10 | Masterful Modern 3D Platformers | Steam | [Headup](https://headupgames.com) | - | - | Yes | - |
-| The Textorcist: The Story of Ray Bibbia | 2026-12-10 | 9 Circles of Bullet Hell: A Survivors Bundle | Steam | [Headup](https://headupgames.com) | - | - | Yes | - |
-| Sherlock Holmes: Crimes and Punishment | 2026-12-11 | Case & Consequence Collection | Steam | [Frogwares](https://frogwares.com) | - | - | Yes | - |
-| Sherlock Holmes: Crimes and Punishment | 2026-12-11 | Frogwares: Lovecraft and Sherlock Classics | Steam | [Frogwares](https://frogwares.com) | - | - | Yes | Retroactive expiration added shortly after bundle was extended |
-| Worms W.M.D | 2026-12-17 | Team17: From Golf Greens to Battle Scenes | Steam | [Team17](https://team17.com) | - | - | Yes | - |
-| Worms W.M.D | 2026-12-17 | Flashback Classics | Steam | [Team17](https://team17.com) | - | - | Yes | - |
-| Disjunction | 2031-05-25 | June 2021 Humble Choice | GOG | [Fireshine Games](https://www.fireshinegames.co.uk) | - | - | - | - |
-| Encodya | 2031-07-28 | August 2021 Humble Choice | GOG | [Assemble Entertainment](https://assemble-entertainment.com) | - | - | - | - |
-| ~~Ultros~~ | ~~2025-12-02~~ | ~~May 2025 Humble Choice~~ | ~~Steam~~ | ~~[Kepler Interactive](https://kepler-interactive.com)~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
-| ~~Warhammer 40,000: Darktide~~ | ~~2025-12-05~~ | ~~November 2024 Humble Choice~~ | ~~Steam~~ | ~~[Fatshark](https://www.fatshark.se)~~ | ~~Previously~~ | ~~Yes~~ | ~~-~~ | ~~-~~ |
-| ~~Hexarchy~~ | ~~2025-12-05~~ | ~~November 2024 Humble Choice~~ | ~~Steam~~ | ~~[Yogscast Games](https://www.yogscast.games)~~ | ~~Permanent~~ | ~~No~~ | ~~-~~ | ~~-~~ |
-| ~~McPixel 3~~ | ~~2025-11-04~~ | ~~October 2024 Humble Choice~~ | ~~Steam~~ | ~~[Devolver Digital](https://www.devolverdigital.com)~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
-| ~~Remnant II~~ | ~~2025-11-04~~ | ~~October 2024 Humble Choice~~ | ~~Steam~~ | ~~[Arc Games](https://www.arcgames.com)~~ | ~~Previously~~ | ~~Yes~~ | ~~-~~ | ~~-~~ |
-| ~~Universe For Sale~~ | ~~2025-10-16~~ | ~~August 2024 Humble Choice~~ | ~~Epic (was Steam)~~ | ~~[Akupara Games](https://www.akuparagames.com)~~ | ~~Switched DRM~~ | ~~No~~ | ~~Yes~~ | ~~-~~ |
-| ~~Tales of Kenzera: ZAU~~ | ~~2025-10-03~~ | ~~March 2025 Humble Choice~~ | ~~Origin/EA~~ | ~~[EA/Electronic Arts](https://www.ea.com)~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
-| ~~Wild Hearts~~ | ~~2025-10-03~~ | ~~March 2025 Humble Choice~~ | ~~Origin/EA~~ | ~~[EA/Electronic Arts](https://www.ea.com)~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
-| ~~Pacific Drive~~ | ~~2025-10-03~~ | ~~March 2025 Humble Choice~~ | ~~Steam~~ | ~~[Kepler Interactive](https://kepler-interactive.com)~~ | ~~Permanent~~ | ~~No~~ | ~~-~~ | ~~Replacement keys were given for those who contacted Humble Support~~ |
-| ~~Immortals of Aveum~~ | ~~2025-09-03~~ | ~~February 2025 Humble Choice~~ | ~~Origin/EA~~ | ~~[EA/Electronic Arts](https://www.ea.com)~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
-| ~~Demon Turf~~ | ~~2025-08-05~~ | ~~March 2023 Humble Choice~~ | ~~Steam~~ | ~~[Playtonic Friends](https://www.playtonic.games)~~ | ~~-~~ | ~~-~~ | ~~Yes (No Expiration Date Was Shown)~~ | ~~-~~ |
-| ~~Hero's Hour~~ | ~~2025-06-03~~ | ~~March 2023 Humble Choice~~ | ~~Steam~~ | ~~[Goblinz Publishing](https://goblinzstudio.com)~~ | ~~Permanent~~ | ~~No~~ | ~~Yes~~ | ~~-~~ |
-| ~~Hi-Fi RUSH~~ | ~~2025-06-03~~ | ~~May 2024 Humble Choice~~ | ~~Steam~~ | ~~[Bethesda Softworks](https://bethesda.net)~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
-| ~~Cat Quest II~~ | ~~2025-05-31~~ | ~~Better With a Friend: Co-op Adventures~~ | ~~Steam~~ | ~~[Kepler Interactive](https://kepler-interactive.com)~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
-| ~~Deadlink~~ | ~~2025-03-15~~ | ~~Back with a Vengeance: The Best of Boomer Shooters~~ | ~~Steam~~ | ~~[SuperGG.com](https://www.supergg.com)~~ | ~~-~~ | ~~-~~ | ~~Yes~~ | ~~-~~ |
-| ~~Deadlink~~ | ~~2025-03-15~~ | ~~Best of Boomer Shooters: Bigger and Boomier~~ | ~~Steam~~ | ~~[SuperGG.com](https://www.supergg.com)~~ | ~~-~~ | ~~-~~ | ~~Yes~~ | ~~-~~ |
-| ~~Railroad Corporation~~ | ~~2024-12-22~~ | ~~October 2022 Humble Choice~~ | ~~Steam~~ | ~~[Iceberg Interactive](https://www.iceberg-games.com)~~ | ~~-~~ | ~~-~~ | ~~Yes~~ | ~~-~~ |
-| ~~Friends vs Friends~~ | ~~2024-12-03~~ | ~~November 2023 Humble Choice~~ | ~~Steam~~ | ~~[Raw Fury](https://rawfury.com)~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
-| ~~Town of Salem~~ | ~~2024-10-29~~ | ~~September 2016 Humble Monthly~~ | ~~Steam~~ | ~~[BlankMediaGames](https://blankmediagames.com)~~ | ~~-~~ | ~~-~~ | ~~Yes~~ | ~~-~~ |
-| ~~Ghostwire: Tokyo~~ | ~~2024-06-30~~ | ~~June 2023 Humble Choice~~ | ~~Steam~~ | ~~[Bethesda Softworks](https://bethesda.net)~~ | ~~-~~ | ~~-~~ | ~~Yes~~ | ~~-~~ |
-| ~~Fallout: A Post Nuclear Role Playing Game~~ | ~~2024-03-05~~ | ~~February 2023 Humble Choice~~ | ~~Steam~~ | ~~[Bethesda Softworks](https://bethesda.net)~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
-| ~~Fallout 76~~ | ~~2024-03-05~~ | ~~February 2023 Humble Choice~~ | ~~Steam~~ | ~~[Bethesda Softworks](https://bethesda.net)~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
-| ~~DOOM Eternal~~ | ~~2024-01-31~~ | ~~January 2023 Humble Choice~~ | ~~Steam~~ | ~~[Bethesda Softworks](https://bethesda.net)~~ | ~~-~~ | ~~-~~ | ~~Yes~~ | ~~-~~ |
-| ~~DEATHLOOP~~ | ~~2024-01-02~~ | ~~October 2022 Humble Choice~~ | ~~Steam~~ | ~~[Bethesda Softworks](https://bethesda.net)~~ | ~~-~~ | ~~-~~ | ~~Yes~~ | ~~-~~ |
-| ~~STAR WARS: Squadrons~~ | ~~2023-01-05~~ | ~~June 2022 Humble Choice~~ | ~~Origin/EA~~ | ~~[EA/Electronic Arts](https://www.ea.com)~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
-| ~~Mass Effect Legendary Edition~~ | ~~2023-03-01~~ | ~~March 2022 Humble Choice~~ | ~~Origin/EA~~ | ~~[EA/Electronic Arts](https://www.ea.com)~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
-| ~~Command & Conquer Remastered Collection~~ | ~~2023-06-07~~ | ~~May 2022 Humble Choice~~ | ~~Origin/EA~~ | ~~[EA/Electronic Arts](https://www.ea.com)~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
-| ~~Call of Duty: Black Ops 4 Additional Content~~ | ~~2020-12-31~~ | ~~June 2019 Humble Monthly~~ | ~~Battle.net~~ | ~~[Activision](https://www.activision.com)~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
-| ~~Call of Duty: Black Ops 4 Standard Edition~~ | ~~2020-12-31~~ | ~~June 2019 Humble Monthly~~ | ~~Battle.net~~ | ~~[Activision](https://www.activision.com)~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
-| ~~Overwatch~~ | ~~2019-12-31~~ | ~~October 2018 Humble Monthly~~ | ~~Battle.net~~ | ~~[Blizzard Entertainment](https://www.blizzard.com)~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
-| ~~Gloria Victis~~ | ~~2022-04-25~~ | ~~Stand with Ukraine Bundle~~ | ~~Steam~~ | ~~[Black Eye Games](https://www.blackeyegames.com)~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
+| Dredge | 2025-12-31 | April 2025 Humble Choice | - | - | - | Steam | [Team17](https://www.team17.com) | - |
+| Death Stranding Director's Cut | 2025-12-31 | April 2023 Humble Choice | Switched DRM | - | Yes | Epic (was Steam) | [505 Games](https://505games.com) | - |
+| Tchia | 2026-01-05 | June 2025 Humble Choice | - | - | - | Steam | [Kepler Interactive](https://kepler-interactive.com) | - |
+| Bomb Rush Cyberfunk | 2026-01-06 | December 2024 Humble Choice | Previously | Yes | - | Steam | [Team Reptile](https://team-reptile.com) | - |
+| Crime Boss: Rockay City - First Month Edition | 2026-01-06 | December 2024 Humble Choice | - | - | - | Steam | [505 Games](https://505games.com) | - |
+| The Invincible | 2026-01-06 | December 2024 Humble Choice | - | - | - | Steam | [11 bit studios](https://11bitstudios.com) | - |
+| Moonstone Island | 2026-01-06 | December 2024 Humble Choice | - | - | - | Steam | [Raw Fury](https://rawfury.com) | - |
+| Beneath Oresa | 2026-02-01 | January 2025 Humble Choice | - | - | - | Steam | [Goblinz Publishing](https://goblinzstudio.com) | - |
+| Dordogne | 2026-02-01 | January 2025 Humble Choice | Yes | - | - | Steam | [Focus Entertainment](https://www.focus-entmt.com) | - |
+| Al-Qadim: The Genie's Curse | 2026-02-07 | Dungeons & Dragons: Classics Collection | - | - | - | Steam | [SNEG](https://www.snegdev.io) | - |
+| DeathKeep | 2026-02-07 | Dungeons & Dragons: Classics Collection | - | - | - | Steam | [SNEG](https://www.snegdev.io) | - |
+| DragonStrike | 2026-02-07 | Dungeons & Dragons: Classics Collection | - | - | - | Steam | [SNEG](https://www.snegdev.io) | - |
+| Dungeons & Dragons: Dark Sun Series | 2026-02-07 | Dungeons & Dragons: Classics Collection | - | - | - | Steam | [SNEG](https://www.snegdev.io) | - |
+| Dungeons & Dragons: Krynn Series | 2026-02-07 | Dungeons & Dragons: Classics Collection | - | - | - | Steam | [SNEG](https://www.snegdev.io) | - |
+| Dungeons & Dragons: Ravenloft Series | 2026-02-07 | Dungeons & Dragons: Classics Collection | - | - | - | Steam | [SNEG](https://www.snegdev.io) | - |
+| Dungeons & Dragons - Stronghold: Kingdom Simulator | 2026-02-07 | Dungeons & Dragons: Classics Collection | - | - | - | Steam | [SNEG](https://www.snegdev.io) | - |
+| Fantasy Empires | 2026-02-07 | Dungeons & Dragons: Classics Collection | - | - | - | Steam | [SNEG](https://www.snegdev.io) | - |
+| Forgotten Realms: The Archives - Collection One | 2026-02-07 | Dungeons & Dragons: Classics Collection | - | - | - | Steam | [SNEG](https://www.snegdev.io) | - |
+| Forgotten Realms: The Archives - Collection Two | 2026-02-07 | Dungeons & Dragons: Classics Collection | - | - | - | Steam | [SNEG](https://www.snegdev.io) | - |
+| Forgotten Realms: The Archives - Collection Three | 2026-02-07 | Dungeons & Dragons: Classics Collection | - | - | - | Steam | [SNEG](https://www.snegdev.io) | - |
+| Silver Box Classics | 2026-02-07 | Dungeons & Dragons: Classics Collection | - | - | - | Steam | [SNEG](https://www.snegdev.io) | - |
+| Spelljammer: Pirates of Realmspace | 2026-02-07 | Dungeons & Dragons: Classics Collection | - | - | - | Steam | [SNEG](https://www.snegdev.io) | - |
+| Gotham Knights | 2026-02-27 | August 2024 Humble Choice | Previously | Yes | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| Back 4 Blood | 2026-02-27 | Best of Humble Bundle: WB Play the Legends | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| Back 4 Blood | 2026-02-27 | Humble Bundle: WB 100 Play the Legends | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| Batman: Arkham Origins | 2026-02-27 | The WB Batman Collection | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| Batman: Arkham Asylum Game of the Year Edition | 2026-02-27 | The WB Batman Collection | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| Batman: Arkham City - Game of the Year Edition | 2026-02-27 | The WB Batman Collection | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| Batman: Arkham Knight Premium Edition | 2026-02-27 | Best of Humble Bundle: WB Play the Legends | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| Batman: Arkham Knight Premium Edition | 2026-02-27 | Humble Bundle: WB 100 Play the Legends | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| FEAR: Ultimate Shooter Edition | 2026-02-27 | Best of Humble Bundle: WB Play the Legends | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| FEAR: Ultimate Shooter Edition | 2026-02-27 | Humble Bundle: WB 100 Play the Legends | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| Gotham Knights | 2026-02-27 | Best of Humble Bundle: WB Play the Legends | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| Gotham Knights | 2026-02-27 | Humble Bundle: WB 100 Play the Legends | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| Injustice Gods Among Us Ultimate Edition | 2026-02-27 | Best of Humble Bundle: WB Play the Legends | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| Injustice 2 Legendary Edition | 2026-02-27 | Fighting Juggernauts Bundle | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| Mad Max | 2026-02-27 | Best of Humble Bundle: WB Play the Legends | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| Middle-Earth: Shadow of War Definitive Edition | 2026-02-27 | Fantastic Journeys: Middle-earth and Beyond | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| Middle-earth: Shadow of Mordor Game of the Year Edition | 2026-02-27 | Best of Humble Bundle: WB Play the Legends | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| Middle-earth: Shadow of Mordor Game of the Year Edition | 2026-02-27 | Humble Bundle: WB 100 Play the Legends | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| MORTAL KOMBAT XL | 2026-02-27 | Fighting Juggernauts Bundle | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| Mortal Kombat 11: Ultimate Edition | 2026-02-27 | Best of Humble Bundle: WB Play the Legends | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| Mortal Kombat 11: Ultimate Edition | 2026-02-27 | Humble Bundle: WB 100 Play the Legends | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| Suicide Squad: Kill the Justice League | 2026-02-27 | Best of Humble Bundle: WB Play the Legends | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| Watchmen: The End is Nigh Part 1 and 2 Bundle | 2026-02-27 | Best of Humble Bundle: WB Play the Legends | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| Tales & Tactics | 2026-03-01 | February 2025 Humble Choice | - | - | - | Steam | [Yogscast Games](https://www.yogscast.games) | - |
+| Tiny Terry's Turbo Trip | 2026-03-02 | August 2025 Humble Choice | - | - | - | Steam | [Super Rare Games](https://superraregames.com) | - |
+| LEGO Ninjago Movie Video Game | 2026-03-24 | Humble LEGO Built To Bundle | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Worlds | 2026-03-24 | Humble LEGO Built To Bundle | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Batman 2 DC Super Heroes™ | 2026-03-24 | Humble LEGO Built To Bundle | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Batman 3: Beyond Gotham Premium Edition | 2026-03-24 | Humble LEGO Built To Bundle | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO The Hobbit | 2026-03-24 | Fantastic Journeys: Middle-earth and Beyond | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO The Lord of the Rings | 2026-03-24 | Fantastic Journeys: Middle-earth and Beyond | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| The LEGO Movie - Videogame | 2026-03-24 | LEGO: At the Movies | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Jurassic World | 2026-03-24 | LEGO: At the Movies | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Ninjago Movie Video Game | 2026-03-24 | LEGO: At the Movies | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Batman | 2026-03-24 | LEGO Worlds Collide: The Ultimate Assembly | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO The Lord of the Rings | 2026-03-24 | LEGO Worlds Collide: The Ultimate Assembly | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| The LEGO Movie - Videogame | 2026-03-24 | LEGO Worlds Collide: The Ultimate Assembly | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Batman 2 DC Super Heroes™ | 2026-03-24 | LEGO Worlds Collide: The Ultimate Assembly | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO The Hobbit | 2026-03-24 | LEGO Worlds Collide: The Ultimate Assembly | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Ninjago Movie Video Game | 2026-03-24 | LEGO Worlds Collide: The Ultimate Assembly | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Jurassic World | 2026-03-24 | LEGO Worlds Collide: The Ultimate Assembly | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Worlds | 2026-03-24 | LEGO Worlds Collide: The Ultimate Assembly | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Batman | 2026-03-24 | The WB Batman Collection | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Batman 2 DC Super Heroes™ | 2026-03-24 | The WB Batman Collection | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Batman | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Batman 2 DC Super Heroes™ | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Batman 3: Beyond Gotham Premium Edition | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO The Hobbit | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Marvel™ Super Heroes | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| The LEGO Movie - Videogame | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO MARVEL's Avengers (DELUXE EDITION) | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Ninjago Movie Video Game | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO The Lord of the Rings | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Star Wars™: The Skywalker Saga (Deluxe) | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Marvel Super Heroes 2 (DELUXE EDITION) | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO DC Super-Villains (DELUXE EDITION) | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Star Wars™: The Force Awakens (DELUXE EDITION) | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Jurassic World | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Worlds | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO The Incredibles | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| The LEGO Movie 2 Videogame | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| Enotria: The Last Song | 2026-04-04 | Humbling Soulslike Bundle | - | - | - | Steam | [Jyamma Games](https://www.jyammagames.com) | - |
+| Flintlock: the Siege of Dawn - Deluxe Edition | 2026-04-04 | Humbling Soulslike Bundle | - | - | - | Steam | [Kepler Interactive](https://kepler-interactive.com) | - |
+| Paleo Pines | 2026-04-04 | November 2025 Humble Choice | - | - | - | Steam | [Maximum Entertainment](https://maximument.com) | - |
+| Temtem | 2026-04-08 | Critter Chaos Bundle | - | - | - | Steam | [Humble Games](https://www.humblegames.com) | - |
+| Farewell North | 2026-04-08 | Critter Chaos Bundle | - | - | - | Steam | [Mooneye Studios](https://www.mooneyestudios.com) | - |
+| Deadlink | 2026-04-11 | Best of Boomer Shooters 4: Badda Bing Badda Boom | - | - | - | Steam | [SuperGG.com](https://www.supergg.com) | - |
+| Forager | 2026-04-15 | Fighting Farmers | - | - | Yes | Steam | [Humble Games](https://www.humblegames.com) | - |
+| State of Decay 2: Juggernaut Edition | 2026-04-15 | Dangerous Worlds | - | - | Yes | Steam | [Xbox Game Studios](https://www.xbox.com/games/xbox-game-studios) | - |
+| State of Decay 2: Juggernaut Edition | 2026-04-15 | Survival Instinct | - | - | Yes | Steam | [Xbox Game Studios](https://www.xbox.com/games/xbox-game-studios) | - |
+| State of Decay 2: Juggernaut Edition | 2026-04-15 | Lone Survivor Bundle | - | - | - | Steam | [Xbox Game Studios](https://www.xbox.com/en-US/xbox-game-studios) | - |
+| Forager | 2026-04-15 | Lone Survivor Bundle | - | - | - | Steam | [Humble Games](https://www.humblegames.com) | - |
+| Train Sim World 6: Add Ons | 2026-05-03 | IGN Fan Fest 2025: Fall Edition | - | - | - | Steam | [Dovetail Games](https://dovetailgames.com) | - |
+| Scorn | 2026-05-20 | Horror Icons Showcase | - | - | - | Steam | [Kepler Interactive](https://kepler-interactive.com) | - |
+| Ring of Pain | 2026-06-12 | Awesome Indies from Humble Games | - | - | Yes | Steam | [Humble Games](https://www.humblegames.com) | - |
+| American Arcadia | 2026-06-24 | Future Games Show Discovery | - | - | Yes | Steam | [Out of the Blue Games](https://outbluegames.com) | - |
+| SKALD: Against the Black Priory | 2026-06-24 | Rawcember to Remember | - | - | Yes | Steam | [Raw Fury](https://rawfury.com) | - |
+| Townscaper | 2026-06-24 | Sim-ple Life | - | - | Yes | Steam | [Raw Fury](https://rawfury.com) | - |
+| Double Dragon Gaiden: Rise of the Dragons | 2026-06-26 | Brutal Beat 'Em Ups | - | - | Yes | Steam | [Secret Base](https://secretbase.sg) | - |
+| Warhammer 40,000: Rogue Trader | 2026-07-01 | July 2025 Humble Choice | - | - | - | Steam | [Meta Publishing](https://meta.pub) | - |
+| Death's Door | 2026-07-01 | July 2025 Humble Choice | - | - | - | Steam | [Devolver Digital](https://www.devolverdigital.com) | - |
+| DAEMON X MACHINA | 2026-07-01 | July 2025 Humble Choice | - | - | - | Steam | [Marvelous Inc.](https://www.marvelousgames.com) | - |
+| Wizard with a Gun | 2026-07-01 | July 2025 Humble Choice | - | - | - | Steam | [Devolver Digital](https://www.devolverdigital.com) | - |
+| Neo Cab | 2026-07-01 | July 2025 Humble Choice | - | - | - | Steam | [Fellow Traveller](https://www.fellowtraveller.games) | - |
+| Everafter Falls | 2026-07-01 | July 2025 Humble Choice | - | - | - | Steam | [Akupara Games](https://www.akuparagames.com) | - |
+| Blanc | 2026-07-01 | July 2025 Humble Choice | - | - | - | Steam | [Gearbox Publishing](https://www.gearboxpublishing.com) | - |
+| Cat Quest III | 2026-09-01 | July 2025 Humble Choice | - | - | - | Steam | [Kepler Interactive](https://kepler-interactive.com) | - |
+| Persona 5 Royal | 2026-09-02 | August 2025 Humble Choice | - | - | - | Steam | [SEGA](https://www.sega.com) | - |
+| Banishers: Ghosts of New Eden | 2026-09-02 | August 2025 Humble Choice | - | - | - | Steam | [Focus Entertainment](https://www.focus-entmt.com) | - |
+| My Time at Sandrock | 2026-09-02 | August 2025 Humble Choice | - | - | - | Steam | [Pathea Games](https://www.pathea.net) | - |
+| Let's School | 2026-09-02 | August 2025 Humble Choice | - | - | - | Steam | [Pathea Games](https://www.pathea.net) | - |
+| Lil Gator Game | 2026-09-02 | August 2025 Humble Choice | - | - | - | Steam | [Playtonic Friends](https://www.playtonic.games) | - |
+| Wildmender | 2026-09-02 | August 2025 Humble Choice | - | - | - | Steam | [Muse Games](https://www.musegames.com) | - |
+| Warpips | 2026-09-02 | August 2025 Humble Choice | - | - | - | Steam | [Skirmish Mode Games](https://www.skirmishmodegames.com) | - |
+| WWE 2K25 | 2026-10-07 | September 2025 Humble Choice | - | - | - | Steam | [2K](https://www.2k.com) | - |
+| Destiny 2: Legacy Collection (2025) | 2026-10-07 | September 2025 Humble Choice | - | - | - | Steam | [Bungie](https://www.bungie.net) | - |
+| The Plucky Squire | 2026-10-07 | September 2025 Humble Choice | - | - | - | Steam | [Devolver Digital](https://www.devolverdigital.com) | - |
+| Spellforce: Conquest of Eo | 2026-10-07 | September 2025 Humble Choice | - | - | - | Steam | [THQ Nordic](https://www.thqnordic.com) | - |
+| Return to Monkey Island | 2026-10-07 | September 2025 Humble Choice | - | - | - | Steam | [Devolver Digital](https://www.devolverdigital.com) | - |
+| Eastern Exorcist | 2026-10-07 | September 2025 Humble Choice | - | - | - | Steam | [Wildfire Game](https://www.wildfire-games.com) | - |
+| Warhammer 40,000: Speed Freeks | 2026-10-07 | September 2025 Humble Choice | - | - | - | Steam | [Caged Element Inc.](https://www.cagedelement.com) | - |
+| Grapple Dog | 2026-10-07 | September 2025 Humble Choice | - | - | - | Steam | [Super Rare Originals](https://superraregames.com) | - |
+| Copycat | 2026-10-08 | Critter Chaos Bundle | - | - | - | Steam | [Neverland Entertainment](https://www.neverlandentertainment.com) | - |
+| Coromon | 2026-10-08 | Critter Chaos Bundle | - | - | - | Steam | [indie.io](https://www.indie.io) | - |
+| Moonstone Island | 2026-10-08 | Critter Chaos Bundle | - | - | - | Steam | [Raw Fury](https://rawfury.com) | - |
+| Cassette Beasts | 2026-10-08 | Critter Chaos Bundle | - | - | - | Steam | [Raw Fury](https://rawfury.com) | - |
+| Meg's Monster | 2026-10-08 | Critter Chaos Bundle | - | - | - | Steam | [Odencat](https://www.odencat.com) | - |
+| Fruitbus | 2026-10-08 | Critter Chaos Bundle | - | - | - | Steam | [Krillbite Studio](https://www.krillbite.com) | No expiration listed on keys page, but bundle purchase page said all keys expire |
+| Above Snakes | 2026-10-15 | The Creative Sandbox | - | - | - | Steam | [Crytivo](https://www.crytivo.com) | - |
+| Breathedge | 2026-10-15 | Survive or Die | - | - | Yes | Steam | [Hypetrain Digital](https://hypetraindigital.com) | - |
+| Breathedge | 2026-10-15 | Spaced Out | - | - | Yes | Steam | [Hypetrain Digital](https://hypetraindigital.com) | - |
+| Starsand | 2026-10-15 | Survival Instinct | - | - | Yes | Steam | [Toplitz Productions](https://www.toplitz-productions.com) | - |
+| Breathedge | 2026-10-15 | Lone Survivor Bundle | - | - | - | Steam | [HypeTrain Digital](https://hypetraindigital.com) | - |
+| Above Snakes | 2026-10-15 | Lone Survivor Bundle | - | - | - | Steam | [Crytivo](https://www.crytivo.com) | - |
+| Force of Nature 2: Ghost Keeper | 2026-10-15 | Lone Survivor Bundle | - | - | - | Steam | [Crytivo](https://www.crytivo.com) | - |
+| DUCKSIDE | 2026-10-15 | Lone Survivor Bundle | - | - | - | Steam | [tinyBuild](https://www.tinybuild.com) | - |
+| Starsand | 2026-10-15 | Lone Survivor Bundle | - | - | - | Steam | [Toplitz Productions](https://www.toplitz-productions.com) | - |
+| Chernobylite Premium Edition | 2026-10-15 | Lone Survivor Bundle | - | - | - | Steam | [All in! Games](https://www.allingames.com) | - |
+| Conan Exiles | 2026-10-15 | Lone Survivor Bundle | - | - | - | Steam | [Funcom](https://www.funcom.com) | - |
+| Atomic Heart | 2026-11-04 | October 2025 Humble Choice | - | - | - | Steam | [Focus Entertainment](https://www.focus-entmt.com) | - |
+| V Rising | 2026-11-04 | October 2025 Humble Choice | - | - | - | Steam | [Stunlock Studios](https://www.stunlockstudios.com) | - |
+| System Shock | 2026-11-04 | October 2025 Humble Choice | - | - | - | Steam | [Atari](https://www.atari.com) | - |
+| Story of Seasons: Pioneers of Olive Town | 2026-11-04 | October 2025 Humble Choice | - | - | - | Steam | [XSEED Games](https://www.xseedgames.com) | - |
+| Cryptmaster | 2026-11-04 | October 2025 Humble Choice | - | - | - | Steam | [Akupara Games](https://www.akuparagames.com) | - |
+| Shogun Showdown | 2026-11-04 | October 2025 Humble Choice | - | - | - | Steam | [Roboatino](https://www.roboatino.com) | - |
+| Hotel Renovator | 2026-11-04 | October 2025 Humble Choice | - | - | - | Steam | [Focus Entertainment](https://www.focus-entmt.com) | - |
+| Caravan SandWitch | 2026-11-04 | October 2025 Humble Choice | - | - | - | Steam | [Dear Villagers](https://www.dearvillagers.com) | - |
+| The Spirit and the Mouse | 2026-11-21 | Masterful Modern 3D Platformers | - | - | Yes | Steam | [Armor Games Studios](https://armorgamesstudios.com) | - |
+| The Last Stand: Aftermath | 2026-11-21 | Twin Stick 'Em Up | - | - | Yes | Steam | [Armor Games Studios](https://www.armorgamesstudios.com) | - |
+| The Last Stand: Aftermath | 2026-11-21 | Armor Games: The Retro & Reborn Collection | - | - | - | Steam | [Armor Games Studios](https://www.armorgamesstudios.com) | - |
+| Bilkins' Folly | 2026-11-21 | Armor Games: The Retro & Reborn Collection | - | - | - | Steam | [Armor Games Studios](https://www.armorgamesstudios.com) | - |
+| Crush the Castle Legacy Collection | 2026-11-21 | Armor Games: The Retro & Reborn Collection | - | - | - | Steam | [Armor Games Studios](https://www.armorgamesstudios.com) | - |
+| Decision Legacy Collection | 2026-11-21 | Armor Games: The Retro & Reborn Collection | - | - | - | Steam | [Armor Games Studios](https://www.armorgamesstudios.com) | - |
+| Deep Sleep Trilogy | 2026-11-21 | Armor Games: The Retro & Reborn Collection | - | - | - | Steam | [Armor Games Studios](https://www.armorgamesstudios.com) | - |
+| Defender's Quest 2: Mists of Ruin | 2026-11-21 | Armor Games: The Retro & Reborn Collection | - | - | - | Steam | [Armor Games Studios](https://www.armorgamesstudios.com) | - |
+| Don't Escape Trilogy | 2026-11-21 | Armor Games: The Retro & Reborn Collection | - | - | - | Steam | [Armor Games Studios](https://www.armorgamesstudios.com) | - |
+| The Elephant Collection | 2026-11-21 | Armor Games: The Retro & Reborn Collection | - | - | - | Steam | [Armor Games Studios](https://www.armorgamesstudios.com) | - |
+| GemCraft - Chasing Shadows | 2026-11-21 | Armor Games: The Retro & Reborn Collection | - | - | - | Steam | [Armor Games Studios](https://www.armorgamesstudios.com) | - |
+| Infectonator 3: Apocalypse | 2026-11-21 | Armor Games: The Retro & Reborn Collection | - | - | - | Steam | [Armor Games Studios](https://www.armorgamesstudios.com) | - |
+| ITTA | 2026-11-21 | Armor Games: The Retro & Reborn Collection | - | - | - | Steam | [Armor Games Studios](https://www.armorgamesstudios.com) | - |
+| Nauticrawl | 2026-11-21 | Armor Games: The Retro & Reborn Collection | - | - | - | Steam | [Armor Games Studios](https://www.armorgamesstudios.com) | - |
+| The Spirit and the Mouse | 2026-11-21 | Armor Games: The Retro & Reborn Collection | - | - | - | Steam | [Armor Games Studios](https://www.armorgamesstudios.com) | - |
+| Swords & Souls Legacy Collection | 2026-11-21 | Armor Games: The Retro & Reborn Collection | - | - | - | Steam | [Armor Games Studios](https://www.armorgamesstudios.com) | - |
+| Total War: Warhammer III | 2026-12-02 | November 2025 Humble Choice | - | - | - | Steam | [SEGA](https://www.sega.com) | - |
+| Etrian Odyssey HD | 2026-12-02 | November 2025 Humble Choice | - | - | - | Steam | [SEGA](https://www.sega.com) | - |
+| Another Crab's Treasure | 2026-12-02 | November 2025 Humble Choice | - | - | - | Steam | [Aggro Crab](https://aggrocrab.com) | - |
+| No More Heroes 3 | 2026-12-02 | November 2025 Humble Choice | - | - | - | Steam | [Marvelous](https://marvelousgames.com) | - |
+| Synergy | 2026-12-02 | November 2025 Humble Choice | - | - | - | Steam | [Goblinz Publishing](https://goblinzstudio.com) | - |
+| Spin Hero | 2026-12-02 | November 2025 Humble Choice | - | - | - | Steam | [Goblinz Publishing](https://goblinzstudio.com) | - |
+| Creaks | 2026-12-03 | Unparalleled Puzzlers | - | - | Yes | Steam | [Amanita Design](https://amanita-design.net) | - |
+| One Hand Clapping | 2026-12-03 | Adventures in the 2nd Dimension: Positively Playful Platformers | - | - | Yes | Steam | [HandyGames](https://handy-games.com) | - |
+| Endling - Extinction is Forever | 2026-12-03 | Exceptional Indie Allies | - | - | Yes | Steam | [HandyGames](https://handy-games.com) | - |
+| Soulslinger: Envoy of Death | 2026-12-10 | IGN Live at Home | - | - | Yes | Steam | [Headup](https://headupgames.com) | - |
+| Pumpkin Jack | 2026-12-10 | Masterful Modern 3D Platformers | - | - | Yes | Steam | [Headup](https://headupgames.com) | - |
+| Hell Pie | 2026-12-10 | Masterful Modern 3D Platformers | - | - | Yes | Steam | [Headup](https://headupgames.com) | - |
+| The Textorcist: The Story of Ray Bibbia | 2026-12-10 | 9 Circles of Bullet Hell: A Survivors Bundle | - | - | Yes | Steam | [Headup](https://headupgames.com) | - |
+| Sherlock Holmes: Crimes and Punishment | 2026-12-11 | Case & Consequence Collection | - | - | Yes | Steam | [Frogwares](https://frogwares.com) | - |
+| Sherlock Holmes: Crimes and Punishment | 2026-12-11 | Frogwares: Lovecraft and Sherlock Classics | - | - | Yes | Steam | [Frogwares](https://frogwares.com) | Retroactive expiration added shortly after bundle was extended |
+| Worms W.M.D | 2026-12-17 | Team17: From Golf Greens to Battle Scenes | - | - | Yes | Steam | [Team17](https://team17.com) | - |
+| Worms W.M.D | 2026-12-17 | Flashback Classics | - | - | Yes | Steam | [Team17](https://team17.com) | - |
+| Disjunction | 2031-05-25 | June 2021 Humble Choice | - | - | - | GOG | [Fireshine Games](https://www.fireshinegames.co.uk) | - |
+| Encodya | 2031-07-28 | August 2021 Humble Choice | - | - | - | GOG | [Assemble Entertainment](https://assemble-entertainment.com) | - |
+| ~~Ultros~~ | ~~2025-12-02~~ | ~~May 2025 Humble Choice~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~Steam~~ | ~~[Kepler Interactive](https://kepler-interactive.com)~~ | ~~-~~ |
+| ~~Warhammer 40,000: Darktide~~ | ~~2025-12-05~~ | ~~November 2024 Humble Choice~~ | ~~Previously~~ | ~~Yes~~ | ~~-~~ | ~~Steam~~ | ~~[Fatshark](https://www.fatshark.se)~~ | ~~-~~ |
+| ~~Hexarchy~~ | ~~2025-12-05~~ | ~~November 2024 Humble Choice~~ | ~~Permanent~~ | ~~No~~ | ~~-~~ | ~~Steam~~ | ~~[Yogscast Games](https://www.yogscast.games)~~ | ~~-~~ |
+| ~~McPixel 3~~ | ~~2025-11-04~~ | ~~October 2024 Humble Choice~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~Steam~~ | ~~[Devolver Digital](https://www.devolverdigital.com)~~ | ~~-~~ |
+| ~~Remnant II~~ | ~~2025-11-04~~ | ~~October 2024 Humble Choice~~ | ~~Previously~~ | ~~Yes~~ | ~~-~~ | ~~Steam~~ | ~~[Arc Games](https://www.arcgames.com)~~ | ~~-~~ |
+| ~~Universe For Sale~~ | ~~2025-10-16~~ | ~~August 2024 Humble Choice~~ | ~~Switched DRM~~ | ~~No~~ | ~~Yes~~ | ~~Epic (was Steam)~~ | ~~[Akupara Games](https://www.akuparagames.com)~~ | ~~-~~ |
+| ~~Tales of Kenzera: ZAU~~ | ~~2025-10-03~~ | ~~March 2025 Humble Choice~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~Origin/EA~~ | ~~[EA/Electronic Arts](https://www.ea.com)~~ | ~~-~~ |
+| ~~Wild Hearts~~ | ~~2025-10-03~~ | ~~March 2025 Humble Choice~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~Origin/EA~~ | ~~[EA/Electronic Arts](https://www.ea.com)~~ | ~~-~~ |
+| ~~Pacific Drive~~ | ~~2025-10-03~~ | ~~March 2025 Humble Choice~~ | ~~Permanent~~ | ~~No~~ | ~~-~~ | ~~Steam~~ | ~~[Kepler Interactive](https://kepler-interactive.com)~~ | ~~Replacement keys were given for those who contacted Humble Support~~ |
+| ~~Immortals of Aveum~~ | ~~2025-09-03~~ | ~~February 2025 Humble Choice~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~Origin/EA~~ | ~~[EA/Electronic Arts](https://www.ea.com)~~ | ~~-~~ |
+| ~~Demon Turf~~ | ~~2025-08-05~~ | ~~March 2023 Humble Choice~~ | ~~-~~ | ~~-~~ | ~~Yes (No Expiration Date Was Shown)~~ | ~~Steam~~ | ~~[Playtonic Friends](https://www.playtonic.games)~~ | ~~-~~ |
+| ~~Hero's Hour~~ | ~~2025-06-03~~ | ~~March 2023 Humble Choice~~ | ~~Permanent~~ | ~~No~~ | ~~Yes~~ | ~~Steam~~ | ~~[Goblinz Publishing](https://goblinzstudio.com)~~ | ~~-~~ |
+| ~~Hi-Fi RUSH~~ | ~~2025-06-03~~ | ~~May 2024 Humble Choice~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~Steam~~ | ~~[Bethesda Softworks](https://bethesda.net)~~ | ~~-~~ |
+| ~~Cat Quest II~~ | ~~2025-05-31~~ | ~~Better With a Friend: Co-op Adventures~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~Steam~~ | ~~[Kepler Interactive](https://kepler-interactive.com)~~ | ~~-~~ |
+| ~~Deadlink~~ | ~~2025-03-15~~ | ~~Back with a Vengeance: The Best of Boomer Shooters~~ | ~~-~~ | ~~-~~ | ~~Yes~~ | ~~Steam~~ | ~~[SuperGG.com](https://www.supergg.com)~~ | ~~-~~ |
+| ~~Deadlink~~ | ~~2025-03-15~~ | ~~Best of Boomer Shooters: Bigger and Boomier~~ | ~~-~~ | ~~-~~ | ~~Yes~~ | ~~Steam~~ | ~~[SuperGG.com](https://www.supergg.com)~~ | ~~-~~ |
+| ~~Railroad Corporation~~ | ~~2024-12-22~~ | ~~October 2022 Humble Choice~~ | ~~-~~ | ~~-~~ | ~~Yes~~ | ~~Steam~~ | ~~[Iceberg Interactive](https://www.iceberg-games.com)~~ | ~~-~~ |
+| ~~Friends vs Friends~~ | ~~2024-12-03~~ | ~~November 2023 Humble Choice~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~Steam~~ | ~~[Raw Fury](https://rawfury.com)~~ | ~~-~~ |
+| ~~Town of Salem~~ | ~~2024-10-29~~ | ~~September 2016 Humble Monthly~~ | ~~-~~ | ~~-~~ | ~~Yes~~ | ~~Steam~~ | ~~[BlankMediaGames](https://blankmediagames.com)~~ | ~~-~~ |
+| ~~Ghostwire: Tokyo~~ | ~~2024-06-30~~ | ~~June 2023 Humble Choice~~ | ~~-~~ | ~~-~~ | ~~Yes~~ | ~~Steam~~ | ~~[Bethesda Softworks](https://bethesda.net)~~ | ~~-~~ |
+| ~~Fallout: A Post Nuclear Role Playing Game~~ | ~~2024-03-05~~ | ~~February 2023 Humble Choice~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~Steam~~ | ~~[Bethesda Softworks](https://bethesda.net)~~ | ~~-~~ |
+| ~~Fallout 76~~ | ~~2024-03-05~~ | ~~February 2023 Humble Choice~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~Steam~~ | ~~[Bethesda Softworks](https://bethesda.net)~~ | ~~-~~ |
+| ~~DOOM Eternal~~ | ~~2024-01-31~~ | ~~January 2023 Humble Choice~~ | ~~-~~ | ~~-~~ | ~~Yes~~ | ~~Steam~~ | ~~[Bethesda Softworks](https://bethesda.net)~~ | ~~-~~ |
+| ~~DEATHLOOP~~ | ~~2024-01-02~~ | ~~October 2022 Humble Choice~~ | ~~-~~ | ~~-~~ | ~~Yes~~ | ~~Steam~~ | ~~[Bethesda Softworks](https://bethesda.net)~~ | ~~-~~ |
+| ~~STAR WARS: Squadrons~~ | ~~2023-01-05~~ | ~~June 2022 Humble Choice~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~Origin/EA~~ | ~~[EA/Electronic Arts](https://www.ea.com)~~ | ~~-~~ |
+| ~~Mass Effect Legendary Edition~~ | ~~2023-03-01~~ | ~~March 2022 Humble Choice~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~Origin/EA~~ | ~~[EA/Electronic Arts](https://www.ea.com)~~ | ~~-~~ |
+| ~~Command & Conquer Remastered Collection~~ | ~~2023-06-07~~ | ~~May 2022 Humble Choice~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~Origin/EA~~ | ~~[EA/Electronic Arts](https://www.ea.com)~~ | ~~-~~ |
+| ~~Call of Duty: Black Ops 4 Additional Content~~ | ~~2020-12-31~~ | ~~June 2019 Humble Monthly~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~Battle.net~~ | ~~[Activision](https://www.activision.com)~~ | ~~-~~ |
+| ~~Call of Duty: Black Ops 4 Standard Edition~~ | ~~2020-12-31~~ | ~~June 2019 Humble Monthly~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~Battle.net~~ | ~~[Activision](https://www.activision.com)~~ | ~~-~~ |
+| ~~Overwatch~~ | ~~2019-12-31~~ | ~~October 2018 Humble Monthly~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~Battle.net~~ | ~~[Blizzard Entertainment](https://www.blizzard.com)~~ | ~~-~~ |
+| ~~Gloria Victis~~ | ~~2022-04-25~~ | ~~Stand with Ukraine Bundle~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~Steam~~ | ~~[Black Eye Games](https://www.blackeyegames.com)~~ | ~~-~~ |
 
 # Humble Bundle Exhausted Keys
 
@@ -313,7 +313,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Who Pressed Mute on Uncle Marcus | 2025-10-24 | - | - | September 2023 Humble Choice | Steam | [Wales Interactive](https://www.walesinteractive.com) | - |
 | Astral Ascent | - | - | - | August 2024 Humble Choice | Steam | [Maple Whispering Limited](https://www.maplewhispering.com) | - |
 | Diluvian Ultra | - | Switched DRM | - | August 2024 Humble Choice | Steam | [Fulqrum Publishing](https://fulqrumpublishing.com) | - |
-| Gotham Knights |  2025-10-17 | - | 2026-02-27 | August 2024 Humble Choice | Steam | [WB Games](https://www.wbgames.com) | - |
+| Gotham Knights | 2025-10-17 | - | 2026-02-27 | August 2024 Humble Choice | Steam | [WB Games](https://www.wbgames.com) | - |
 | Sifu | - | - | - | August 2024 Humble Choice | Steam | [Sloclap](https://www.sloclap.com) | - |
 | This Means Warp | - | - | - | August 2024 Humble Choice | Steam | [Outlier Games](https://outlier.games) | - |
 | Universe For Sale | - | Switched DRM | 2025-10-16 | August 2024 Humble Choice | Steam | [Akupara Games](https://akuparagames.com) | - |
