@@ -85,69 +85,9 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Forgotten Realms: The Archives - Collection Three | 2026-02-07 | Dungeons & Dragons: Classics Collection | - | - | - | Steam | [SNEG](https://www.snegdev.io) | - |
 | Silver Box Classics | 2026-02-07 | Dungeons & Dragons: Classics Collection | - | - | - | Steam | [SNEG](https://www.snegdev.io) | - |
 | Spelljammer: Pirates of Realmspace | 2026-02-07 | Dungeons & Dragons: Classics Collection | - | - | - | Steam | [SNEG](https://www.snegdev.io) | - |
-| Gotham Knights | 2026-02-27 | August 2024 Humble Choice | Previously | Yes | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| Back 4 Blood | 2026-02-27 | Best of Humble Bundle: WB Play the Legends | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| Back 4 Blood | 2026-02-27 | Humble Bundle: WB 100 Play the Legends | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| Batman: Arkham Origins | 2026-02-27 | The WB Batman Collection | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| Batman: Arkham Asylum Game of the Year Edition | 2026-02-27 | The WB Batman Collection | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| Batman: Arkham City - Game of the Year Edition | 2026-02-27 | The WB Batman Collection | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| Batman: Arkham Knight Premium Edition | 2026-02-27 | Best of Humble Bundle: WB Play the Legends | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| Batman: Arkham Knight Premium Edition | 2026-02-27 | Humble Bundle: WB 100 Play the Legends | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| FEAR: Ultimate Shooter Edition | 2026-02-27 | Best of Humble Bundle: WB Play the Legends | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| FEAR: Ultimate Shooter Edition | 2026-02-27 | Humble Bundle: WB 100 Play the Legends | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| Gotham Knights | 2026-02-27 | Best of Humble Bundle: WB Play the Legends | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| Gotham Knights | 2026-02-27 | Humble Bundle: WB 100 Play the Legends | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| Injustice Gods Among Us Ultimate Edition | 2026-02-27 | Best of Humble Bundle: WB Play the Legends | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| Injustice 2 Legendary Edition | 2026-02-27 | Fighting Juggernauts Bundle | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| Mad Max | 2026-02-27 | Best of Humble Bundle: WB Play the Legends | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| Middle-Earth: Shadow of War Definitive Edition | 2026-02-27 | Fantastic Journeys: Middle-earth and Beyond | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| Middle-earth: Shadow of Mordor Game of the Year Edition | 2026-02-27 | Best of Humble Bundle: WB Play the Legends | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| Middle-earth: Shadow of Mordor Game of the Year Edition | 2026-02-27 | Humble Bundle: WB 100 Play the Legends | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| MORTAL KOMBAT XL | 2026-02-27 | Fighting Juggernauts Bundle | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| Mortal Kombat 11: Ultimate Edition | 2026-02-27 | Best of Humble Bundle: WB Play the Legends | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| Mortal Kombat 11: Ultimate Edition | 2026-02-27 | Humble Bundle: WB 100 Play the Legends | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| Suicide Squad: Kill the Justice League | 2026-02-27 | Best of Humble Bundle: WB Play the Legends | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| Watchmen: The End is Nigh Part 1 and 2 Bundle | 2026-02-27 | Best of Humble Bundle: WB Play the Legends | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
 | Tales & Tactics | 2026-03-01 | February 2025 Humble Choice | - | - | - | Steam | [Yogscast Games](https://www.yogscast.games) | - |
 | Tiny Terry's Turbo Trip | 2026-03-02 | August 2025 Humble Choice | - | - | - | Steam | [Super Rare Games](https://superraregames.com) | - |
-| LEGO Ninjago Movie Video Game | 2026-03-24 | Humble LEGO Built To Bundle | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| LEGO Worlds | 2026-03-24 | Humble LEGO Built To Bundle | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| LEGO Batman 2 DC Super Heroes™ | 2026-03-24 | Humble LEGO Built To Bundle | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| LEGO Batman 3: Beyond Gotham Premium Edition | 2026-03-24 | Humble LEGO Built To Bundle | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| LEGO The Hobbit | 2026-03-24 | Fantastic Journeys: Middle-earth and Beyond | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| LEGO The Lord of the Rings | 2026-03-24 | Fantastic Journeys: Middle-earth and Beyond | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| The LEGO Movie - Videogame | 2026-03-24 | LEGO: At the Movies | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| LEGO Jurassic World | 2026-03-24 | LEGO: At the Movies | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| LEGO Ninjago Movie Video Game | 2026-03-24 | LEGO: At the Movies | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| LEGO Batman | 2026-03-24 | LEGO Worlds Collide: The Ultimate Assembly | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| LEGO The Lord of the Rings | 2026-03-24 | LEGO Worlds Collide: The Ultimate Assembly | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| The LEGO Movie - Videogame | 2026-03-24 | LEGO Worlds Collide: The Ultimate Assembly | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| LEGO Batman 2 DC Super Heroes™ | 2026-03-24 | LEGO Worlds Collide: The Ultimate Assembly | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| LEGO The Hobbit | 2026-03-24 | LEGO Worlds Collide: The Ultimate Assembly | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| LEGO Ninjago Movie Video Game | 2026-03-24 | LEGO Worlds Collide: The Ultimate Assembly | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| LEGO Jurassic World | 2026-03-24 | LEGO Worlds Collide: The Ultimate Assembly | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| LEGO Worlds | 2026-03-24 | LEGO Worlds Collide: The Ultimate Assembly | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| LEGO Batman | 2026-03-24 | The WB Batman Collection | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| LEGO Batman 2 DC Super Heroes™ | 2026-03-24 | The WB Batman Collection | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| LEGO Batman | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| LEGO Batman 2 DC Super Heroes™ | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| LEGO Batman 3: Beyond Gotham Premium Edition | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| LEGO The Hobbit | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| LEGO Marvel™ Super Heroes | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| The LEGO Movie - Videogame | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| LEGO MARVEL's Avengers (DELUXE EDITION) | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| LEGO Ninjago Movie Video Game | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| LEGO The Lord of the Rings | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| LEGO Star Wars™: The Skywalker Saga (Deluxe) | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| LEGO Marvel Super Heroes 2 (DELUXE EDITION) | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| LEGO DC Super-Villains (DELUXE EDITION) | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| LEGO Star Wars™: The Force Awakens (DELUXE EDITION) | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| LEGO Jurassic World | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| LEGO Worlds | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| LEGO The Incredibles | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
-| The LEGO Movie 2 Videogame | 2026-03-24 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
 | Enotria: The Last Song | 2026-04-04 | Humbling Soulslike Bundle | - | - | - | Steam | [Jyamma Games](https://www.jyammagames.com) | - |
-| Flintlock: the Siege of Dawn - Deluxe Edition | 2026-04-04 | Humbling Soulslike Bundle | - | - | - | Steam | [Kepler Interactive](https://kepler-interactive.com) | - |
 | Paleo Pines | 2026-04-04 | November 2025 Humble Choice | - | - | - | Steam | [Maximum Entertainment](https://maximument.com) | - |
 | Temtem | 2026-04-08 | Critter Chaos Bundle | - | - | - | Steam | [Humble Games](https://www.humblegames.com) | - |
 | Farewell North | 2026-04-08 | Critter Chaos Bundle | - | - | - | Steam | [Mooneye Studios](https://www.mooneyestudios.com) | - |
@@ -160,6 +100,66 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Train Sim World 6: Add Ons | 2026-05-03 | IGN Fan Fest 2025: Fall Edition | - | - | - | Steam | [Dovetail Games](https://dovetailgames.com) | - |
 | Scorn | 2026-05-20 | Horror Icons Showcase | - | - | - | Steam | [Kepler Interactive](https://kepler-interactive.com) | - |
 | Ring of Pain | 2026-06-12 | Awesome Indies from Humble Games | - | - | Yes | Steam | [Humble Games](https://www.humblegames.com) | - |
+| Flintlock: the Siege of Dawn - Deluxe Edition | 2026-06-17 | Humbling Soulslike Bundle | - | - | - | Steam | [Kepler Interactive](https://kepler-interactive.com) | - |
+| Gotham Knights | 2026-06-18 | August 2024 Humble Choice | Previously | Yes | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| Back 4 Blood | 2026-06-18 | Best of Humble Bundle: WB Play the Legends | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| Back 4 Blood | 2026-06-18 | Humble Bundle: WB 100 Play the Legends | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| Batman: Arkham Origins | 2026-06-18 | The WB Batman Collection | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| Batman: Arkham Asylum Game of the Year Edition | 2026-06-18 | The WB Batman Collection | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| Batman: Arkham City - Game of the Year Edition | 2026-06-18 | The WB Batman Collection | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| Batman: Arkham Knight Premium Edition | 2026-06-18 | Best of Humble Bundle: WB Play the Legends | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| Batman: Arkham Knight Premium Edition | 2026-06-18 | Humble Bundle: WB 100 Play the Legends | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| FEAR: Ultimate Shooter Edition | 2026-06-18 | Best of Humble Bundle: WB Play the Legends | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| FEAR: Ultimate Shooter Edition | 2026-06-18 | Humble Bundle: WB 100 Play the Legends | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| Gotham Knights | 2026-06-18 | Best of Humble Bundle: WB Play the Legends | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| Gotham Knights | 2026-06-18 | Humble Bundle: WB 100 Play the Legends | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| Injustice Gods Among Us Ultimate Edition | 2026-06-18 | Best of Humble Bundle: WB Play the Legends | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| Injustice 2 Legendary Edition | 2026-06-18 | Fighting Juggernauts Bundle | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| Mad Max | 2026-06-18 | Best of Humble Bundle: WB Play the Legends | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| Middle-Earth: Shadow of War Definitive Edition | 2026-06-18 | Fantastic Journeys: Middle-earth and Beyond | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| Middle-earth: Shadow of Mordor Game of the Year Edition | 2026-06-18 | Best of Humble Bundle: WB Play the Legends | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| Middle-earth: Shadow of Mordor Game of the Year Edition | 2026-06-18 | Humble Bundle: WB 100 Play the Legends | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| MORTAL KOMBAT XL | 2026-06-18 | Fighting Juggernauts Bundle | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| Mortal Kombat 11: Ultimate Edition | 2026-06-18 | Best of Humble Bundle: WB Play the Legends | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| Mortal Kombat 11: Ultimate Edition | 2026-06-18 | Humble Bundle: WB 100 Play the Legends | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| Suicide Squad: Kill the Justice League | 2026-06-18 | Best of Humble Bundle: WB Play the Legends | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| Watchmen: The End is Nigh Part 1 and 2 Bundle | 2026-06-18 | Best of Humble Bundle: WB Play the Legends | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Ninjago Movie Video Game | 2026-06-18 | Humble LEGO Built To Bundle | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Worlds | 2026-06-18 | Humble LEGO Built To Bundle | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Batman 2 DC Super Heroes™ | 2026-06-18 | Humble LEGO Built To Bundle | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Batman 3: Beyond Gotham Premium Edition | 2026-06-18 | Humble LEGO Built To Bundle | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO The Hobbit | 2026-06-18 | Fantastic Journeys: Middle-earth and Beyond | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO The Lord of the Rings | 2026-06-18 | Fantastic Journeys: Middle-earth and Beyond | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| The LEGO Movie - Videogame | 2026-06-18 | LEGO: At the Movies | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Jurassic World | 2026-06-18 | LEGO: At the Movies | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Ninjago Movie Video Game | 2026-06-18 | LEGO: At the Movies | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Batman | 2026-06-18 | LEGO Worlds Collide: The Ultimate Assembly | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO The Lord of the Rings | 2026-06-18 | LEGO Worlds Collide: The Ultimate Assembly | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| The LEGO Movie - Videogame | 2026-06-18 | LEGO Worlds Collide: The Ultimate Assembly | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Batman 2 DC Super Heroes™ | 2026-06-18 | LEGO Worlds Collide: The Ultimate Assembly | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO The Hobbit | 2026-06-18 | LEGO Worlds Collide: The Ultimate Assembly | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Ninjago Movie Video Game | 2026-06-18 | LEGO Worlds Collide: The Ultimate Assembly | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Jurassic World | 2026-06-18 | LEGO Worlds Collide: The Ultimate Assembly | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Worlds | 2026-06-18 | LEGO Worlds Collide: The Ultimate Assembly | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Batman | 2026-06-18 | The WB Batman Collection | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Batman 2 DC Super Heroes™ | 2026-06-18 | The WB Batman Collection | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Batman | 2026-06-18 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Batman 2 DC Super Heroes™ | 2026-06-18 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Batman 3: Beyond Gotham Premium Edition | 2026-06-18 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO The Hobbit | 2026-06-18 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Marvel™ Super Heroes | 2026-06-18 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| The LEGO Movie - Videogame | 2026-06-18 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO MARVEL's Avengers (DELUXE EDITION) | 2026-06-18 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Ninjago Movie Video Game | 2026-06-18 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO The Lord of the Rings | 2026-06-18 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Star Wars™: The Skywalker Saga (Deluxe) | 2026-06-18 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Marvel Super Heroes 2 (DELUXE EDITION) | 2026-06-18 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO DC Super-Villains (DELUXE EDITION) | 2026-06-18 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Star Wars™: The Force Awakens (DELUXE EDITION) | 2026-06-18 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Jurassic World | 2026-06-18 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO Worlds | 2026-06-18 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| LEGO The Incredibles | 2026-06-18 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
+| The LEGO Movie 2 Videogame | 2026-06-18 | The Best of Humble Bundle: LEGO Worlds Collide 2025 | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
 | American Arcadia | 2026-06-24 | Future Games Show Discovery | - | - | Yes | Steam | [Out of the Blue Games](https://outbluegames.com) | - |
 | SKALD: Against the Black Priory | 2026-06-24 | Rawcember to Remember | - | - | Yes | Steam | [Raw Fury](https://rawfury.com) | - |
 | Townscaper | 2026-06-24 | Sim-ple Life | - | - | Yes | Steam | [Raw Fury](https://rawfury.com) | - |
