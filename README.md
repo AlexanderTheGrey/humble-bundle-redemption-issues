@@ -101,7 +101,6 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Scorn | 2026-05-20 | Horror Icons Showcase | - | - | - | Steam | [Kepler Interactive](https://kepler-interactive.com) | - |
 | Ring of Pain | 2026-06-12 | Awesome Indies from Humble Games | - | - | Yes | Steam | [Humble Games](https://www.humblegames.com) | - |
 | Flintlock: the Siege of Dawn - Deluxe Edition | 2026-06-17 | Humbling Soulslike Bundle | - | - | - | Steam | [Kepler Interactive](https://kepler-interactive.com) | - |
-| Gotham Knights | 2026-06-18 | August 2024 Humble Choice | Previously | Yes | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
 | Back 4 Blood | 2026-06-18 | Best of Humble Bundle: WB Play the Legends | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
 | Back 4 Blood | 2026-06-18 | Humble Bundle: WB 100 Play the Legends | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
 | Batman: Arkham Origins | 2026-06-18 | The WB Batman Collection | - | - | Yes | Steam | [WB Games](https://warnerbrosgames.com) | - |
