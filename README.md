@@ -245,6 +245,9 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Sherlock Holmes: Crimes and Punishment | 2026-12-11 | Frogwares: Lovecraft and Sherlock Classics | Steam | [Frogwares](https://frogwares.com) | - | - | Yes | Retroactive expiration added shortly after bundle was extended |
 | Worms W.M.D | 2026-12-17 | Team17: From Golf Greens to Battle Scenes | Steam | [Team17](https://team17.com) | - | - | Yes | - |
 | Worms W.M.D | 2026-12-17 | Flashback Classics | Steam | [Team17](https://team17.com) | - | - | Yes | - |
+| Adventure Time: Pirates of the Enchiridion | 2027-01-09 | Outright Heroes of Film & Television | Steam | [Outright Games](https://outrightgames.com/) | - | - | Yes | - |
+| Ben 10: Power Trip | 2027-01-09 | Outright Heroes of Film & Television | Steam | [Outright Games](https://outrightgames.com/) | - | - | Yes | - |
+| Pogostuck: Rage With Your Friends | 2027-02-04 | Adventures in the 2nd Dimension: Positively Playful Platformers | Steam | [Superku](https://steambase.io/developers/superku) | - | - | Yes | - |
 | Disjunction | 2031-05-25 | June 2021 Humble Choice | GOG | [Fireshine Games](https://www.fireshinegames.co.uk) | - | - | - | - |
 | Encodya | 2031-07-28 | August 2021 Humble Choice | GOG | [Assemble Entertainment](https://assemble-entertainment.com) | - | - | - | - |
 | ~~Ultros~~ | ~~2025-12-02~~ | ~~May 2025 Humble Choice~~ | ~~Steam~~ | ~~[Kepler Interactive](https://kepler-interactive.com)~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~-~~ |
