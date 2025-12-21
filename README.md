@@ -554,7 +554,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Jagged Alliance 3 | 2025-10-23 | - | - | January 2025 Humble Choice | Steam | [THQ Nordic](https://www.thqnordic.com) | - |
 | Pegasus Expedition | 2025-10-27 | Switched DRM | - | January 2025 Humble Choice | Steam | [Raw Fury](https://rawfury.com) | - |
 | Dordogne | - | - | 2026-02-01 | January 2025 Humble Choice | Steam | [Focus Entertainment](https://www.focus-entmt.com/en) | - |
-| Atlas Fallen: Reign of Sand | - | - | - | December 2024 Humble Choice | Steam | [Focus Entertainment](https://www.focus-entmt.com/en) | - |
+| Atlas Fallen: Reign of Sand | 2025-12-18 | - | - | December 2024 Humble Choice | Steam | [Focus Entertainment](https://www.focus-entmt.com/en) | - |
 | Bomb Rush Cyberfunk | 2025-10-28 | - | - | December 2024 Humble Choice | Steam | [Team Reptile](https://team-reptile.com) | - |
 | The Bookwalker: Thief of Tales | 2025-10-22 | - | - | November 2024 Humble Choice | Steam | [tinyBuild](https://www.tinybuild.com) | - |
 | Cassette Beasts | - | - | 2026-10-08 | November 2024 Humble Choice | Steam | [Raw Fury](https://rawfury.com) | - |
@@ -577,7 +577,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Sifu | - | - | - | August 2024 Humble Choice | Steam | [Sloclap](https://www.sloclap.com) | - |
 | This Means Warp | - | - | - | August 2024 Humble Choice | Steam | [Outlier Games](https://outlier.games) | - |
 | Universe For Sale | - | Switched DRM | 2025-10-16 | August 2024 Humble Choice | Steam | [Akupara Games](https://akuparagames.com) | - |
-| Ghostrunner 2 | - | - | - | July 2024 Humble Choice | Steam | [505 Games](https://505games.com) | - |
+| Ghostrunner 2 | 2025-12-09 | - | - | July 2024 Humble Choice | Steam | [505 Games](https://505games.com) | - |
 | Plague Tale: Requiem | 2025-10-10 | - | - | July 2024 Humble Choice | Steam | [Focus Entertainment](https://www.focus-entmt.com/en) | - |
 | Starship Troopers Terran Command | - | - | - | July 2024 Humble Choice | Steam | [Slitherine Ltd.](https://www.slitherine.com) | - |
 | LEGO 2K Drive Awesome Edition | - | - | - | June 2024 Humble Choice | Steam | [2K](https://2k.com) | - |
@@ -626,7 +626,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Just Die Already | - | - | - | February 2022 Humble Choice | Steam | [Curve Games](https://www.curvegames.com) | - |
 | Per Aspera | - | - | - | February 2022 Humble Choice | Steam | [Raw Fury](https://rawfury.com) | - |
 | Brothers: A Tale of Two Sons | - | - | - | F*CK CANCER Bundle | Steam | [505 Games](https://505games.com) | - |
-| Bloodstained︎ | - | - | - | August 2021 Humble Choice | Steam | [505 Games](https://505games.com) | - |
+| Bloodstained | 2025-12-09 | - | - | August 2021 Humble Choice | Steam | [505 Games](https://505games.com) | - |
 | S.W.I.N.E. HD Remaster | - | - | - | July 2021 Humble Choice | Steam | [Assemble Entertainment](https://assemble-ent.com) | - |
 | The Surge 2 | - | - | - | July 2021 Humble Choice | Steam | [Focus Entertainment](https://www.focus-entmt.com/en) | - |
 | Yakuza 3 Remastered | - | - | - | July 2021 Humble Choice | Steam | [SEGA](https://www.sega.com) | - |
@@ -639,7 +639,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Morkredd | - | - | - | May 2021 Humble Choice | Steam | [Aspyr](https://www.aspyr.com) | - |
 | Boomerang Fu | - | - | - | February 2021 Humble Choice | Steam | [Cranky Watermelon](https://crankywatermelon.com) | - |
 | Werewolf: The Apocalypse – Heart of the Forest | - | - | - | February 2021 Humble Choice | Steam | [Walkabout Games](https://walkaboutgames.com) | - |
-| Total Tank Simulator | - | - | - | January 2021 Humble Choice | Steam | [505 Games](https://505games.com) | - |
+| Total Tank Simulator | 2025-12-09 | - | - | January 2021 Humble Choice | Steam | [505 Games](https://505games.com) | - |
 | Tabletop Playground | - | - | - | December 2020 Humble Choice | Steam | [Modularity](https://modularity.studio) | - |
 | Crying Suns | - | - | - | November 2020 Humble Choice | Steam | [Humble Games](https://www.humblegames.com) | - |
 | Darksiders III | 2025-11-12 | - | - | November 2020 Humble Choice | Steam | [THQ Nordic](https://www.thqnordic.com) | - |
@@ -668,8 +668,8 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Guardians of Middle-earth: Smaug's Treasure DLC | - | - | - | Humble WB Games Bundle | Steam | [WB Games](https://www.wbgames.com) | - |
 | Company of Heroes™ 2 - The Western Front Armies: OKW | - | - | - | Humble SEGA Bundle | Steam | [SEGA](https://www.sega.com) | - |
 | Dreamcast Collection | - | - | - | Humble SEGA Bundle | Steam | [SEGA](https://www.sega.com) | - |
-| Middle-earth: Shadow of Mordor Game of the Year Edition | - | - | - | Humble Very Positive Bundle 2 | Steam | [WB Games](https://www.wbgames.com) | - |
-| Middle-earth: Shadow of Mordor Game of the Year Edition | - | - | - | Fantastic Journeys: Middle-earth and Beyond | Steam | [WB Games](https://www.wbgames.com) | - |
+| Middle-earth: Shadow of Mordor Game of the Year Edition | 2025-12-11 | - | - | Humble Very Positive Bundle 2 | Steam | [WB Games](https://www.wbgames.com) | - |
+| Middle-earth: Shadow of Mordor Game of the Year Edition | 2025-12-11 | - | - | Fantastic Journeys: Middle-earth and Beyond | Steam | [WB Games](https://www.wbgames.com) | - |
 | DeadCore | - | - | - | Humble BANDAI NAMCO Bundle | Steam | [BANDAI NAMCO Entertainment](https://www.bandainamcoent.com) | - |
 | Velocity 2X | - | - | - | Humble Sierra Bundle | Steam | [Sierra Entertainment](https://www.sierra.com) | - |
 | Savage Lands (Early Access) | - | - | - | Humble Survive This Bundle | Steam | [Signal Studios](https://www.signalstudios.net) | - |
