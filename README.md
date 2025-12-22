@@ -73,7 +73,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Bomb Rush Cyberfunk | 2026-01-06 | December 2024 Humble Choice | Previously | Yes | - | Steam | [Team Reptile](https://team-reptile.com) | - |
 | Crime Boss: Rockay City - First Month Edition | 2026-01-06 | December 2024 Humble Choice | - | - | - | Steam | [505 Games](https://505games.com) | - |
 | The Invincible | 2026-01-06 | December 2024 Humble Choice | - | - | - | Steam | [11 bit studios](https://11bitstudios.com) | - |
-| Moonstone Island | 2026-01-06 | December 2024 Humble Choice | - | - | - | Steam | [Raw Fury](https://rawfury.com) | - |
+| Moonstone Island | 2026-01-06 | December 2024 Humble Choice | Switched DRM | - | - | GOG (was Steam) | [Raw Fury](https://rawfury.com) | - |
 | Beneath Oresa | 2026-02-01 | January 2025 Humble Choice | - | - | - | Steam | [Goblinz Publishing](https://goblinzstudio.com) | - |
 | Dordogne | 2026-02-01 | January 2025 Humble Choice | Yes | - | - | Steam | [Focus Entertainment](https://www.focus-entmt.com) | - |
 | Al-Qadim: The Genie's Curse | 2026-02-07 | Dungeons & Dragons: Classics Collection | - | - | - | Steam | [SNEG](https://www.snegdev.io) | - |
@@ -556,6 +556,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Dordogne | - | - | 2026-02-01 | January 2025 Humble Choice | Steam | [Focus Entertainment](https://www.focus-entmt.com/en) | - |
 | Atlas Fallen: Reign of Sand | 2025-12-18 | - | - | December 2024 Humble Choice | Steam | [Focus Entertainment](https://www.focus-entmt.com/en) | - |
 | Bomb Rush Cyberfunk | 2025-10-28 | - | - | December 2024 Humble Choice | Steam | [Team Reptile](https://team-reptile.com) | - |
+| Moonstone Island | - | Switched DRM | 2026-01-06 | December 2024 Humble Choice | Steam | [Raw Fury](https://rawfury.com) | - |
 | The Bookwalker: Thief of Tales | 2025-10-22 | - | - | November 2024 Humble Choice | Steam | [tinyBuild](https://www.tinybuild.com) | - |
 | Cassette Beasts | - | - | 2026-10-08 | November 2024 Humble Choice | Steam | [Raw Fury](https://rawfury.com) | - |
 | Garden Life: A Cozy Simulator | - | - | - | November 2024 Humble Choice | Steam | [Nacon](https://www.nacongaming.com/en-US) | - |
@@ -690,6 +691,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 |---|---|---|---|---|---|
 | Diplomacy is Not an Option | Epic | - | April 2025 Humble Choice | [Door 407](https://door407.com) | - |
 | Pegasus Expedition | Epic | - | January 2025 Humble Choice | [Fulqrum Publishing](https://fulqrumpublishing.com) | - |
+| Moonstone Island | GOG | 2026-01-06 | December 2024 Humble Choice | [Raw Fury](https://rawfury.com) | - |
 | Jack Move | Epic | - | October 2024 Humble Choice | [HypeTrain Digital](https://hypetraindigital.com) | - |
 | Diluvian Ultra | Epic | - | August 2024 Humble Choice | [Fulqrum Publishing](https://fulqrumpublishing.com) | - |
 | Universe For Sale | Epic | 2025-10-16 | August 2024 Humble Choice | [Akupara Games](https://akuparagames.com) | - |
@@ -789,7 +791,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | [Quantic Dream](https://quanticdream.com) | - | - | Yes | - | - | [support.quanticdream.com](https://support.quanticdream.com) / [quanticdream.com/contact](https://quanticdream.com/en/contact) / [@Quantic_Dream](https://x.com/Quantic_Dream) / [support@quanticdream.com](mailto:support@quanticdream.com) | - |
 | [QubicGames](https://qubicgames.com) | Yes | - | - | - | - | [@QubicGames](https://x.com/QubicGames) / [support@qubicgames.com](mailto:support@qubicgames.com) | - |
 | [Ravenscourt](https://www.ravenscourt.com) | Yes | - | - | - | - | [@Ravenscourt](https://x.com/Ravenscourt) / [support@ravenscourt.com](mailto:support@ravenscourt.com) | - |
-| [Raw Fury](https://rawfury.com) | Yes | Yes | Yes | - | - | [Discord](https://discord.gg/rawfury) / [@RawFury](https://x.com/RawFury) / [press@rawfury.com](mailto:press@rawfury.com) | - |
+| [Raw Fury](https://rawfury.com) | Yes | Yes | Yes | - | Yes | [Discord](https://discord.gg/rawfury) / [@RawFury](https://x.com/RawFury) / [press@rawfury.com](mailto:press@rawfury.com) | - |
 | [rittzler](https://x.com/rittzler) | - | - | Yes | - | - | [Discord](https://discord.com/invite/DKa5XwJjVC) / [@rittzler](https://x.com/rittzler) | - |
 | [Santa Ragione](https://www.santaragione.com) | Yes | - | - | - | - | [@santaragione](https://x.com/santaragione) / [info@santaragione.com](mailto:info@santaragione.com) | - |
 | [Secret Base](https://secretbase.sg) | - | - | Yes | - | - | [Discord](https://discord.com/invite/wiredp) / [@SecretBaseGS](https://x.com/SecretBaseGS) / [team@secretbase.sg](mailto:team@secretbase.sg) | - |
