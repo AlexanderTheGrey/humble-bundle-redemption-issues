@@ -582,7 +582,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Plague Tale: Requiem | 2025-10-10 | - | - | July 2024 Humble Choice | Steam | [Focus Entertainment](https://www.focus-entmt.com/en) | - |
 | Starship Troopers Terran Command | - | - | - | July 2024 Humble Choice | Steam | [Slitherine Ltd.](https://www.slitherine.com) | - |
 | LEGO 2K Drive Awesome Edition | - | - | - | June 2024 Humble Choice | Steam | [2K](https://2k.com) | - |
-| Miasma Chronicles | - | - | - | June 2024 Humble Choice | Steam | [505 Games](https://505games.com) | - |
+| Miasma Chronicles | 2025-12-23 | - | - | June 2024 Humble Choice | Steam | [505 Games](https://505games.com) | - |
 | Stray Gods | - | - | - | June 2024 Humble Choice | Steam | [Humble Games](https://www.humblegames.com) | - |
 | Amanda The Adventurer | 2025-11-24 | - | - | May 2024 Humble Choice | Steam | [DreadXP](https://www.dreadxp.com) | - |
 | Bravery and Greed | 2025-10-17 | - | - | May 2024 Humble Choice | Steam | [Team17](https://www.team17.com) | - |
@@ -626,7 +626,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Calico | 2025-10-14 | - | - | February 2022 Humble Choice | Steam | [Whitethorn Games](https://whitethorndigital.com) | - |
 | Just Die Already | - | - | - | February 2022 Humble Choice | Steam | [Curve Games](https://www.curvegames.com) | - |
 | Per Aspera | - | - | - | February 2022 Humble Choice | Steam | [Raw Fury](https://rawfury.com) | - |
-| Brothers: A Tale of Two Sons | - | - | - | F*CK CANCER Bundle | Steam | [505 Games](https://505games.com) | - |
+| Brothers: A Tale of Two Sons | 2025-12-23 | - | - | F*CK CANCER Bundle | Steam | [505 Games](https://505games.com) | - |
 | Bloodstained | 2025-12-09 | - | - | August 2021 Humble Choice | Steam | [505 Games](https://505games.com) | - |
 | S.W.I.N.E. HD Remaster | - | - | - | July 2021 Humble Choice | Steam | [Assemble Entertainment](https://assemble-ent.com) | - |
 | The Surge 2 | - | - | - | July 2021 Humble Choice | Steam | [Focus Entertainment](https://www.focus-entmt.com/en) | - |
