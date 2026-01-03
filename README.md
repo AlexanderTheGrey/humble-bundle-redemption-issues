@@ -238,6 +238,20 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | The LEGO Movie 2 Videogame | 2026-06-18 | The Best of Humble Bundle: LEGO Worlds Collide 2025 Encore | - | - | - | Steam | [WB Games](https://warnerbrosgames.com) | - |
 | American Arcadia | 2026-06-24 | Future Games Show Discovery | - | - | Yes | Steam | [Out of the Blue Games](https://outbluegames.com) | - |
 | SKALD: Against the Black Priory | 2026-06-24 | Rawcember to Remember | - | - | Yes | Steam | [Raw Fury](https://rawfury.com) | - |
+| American Arcadia | 2026-06-24 | Rawfury: Rawcember to Remember 2025 | - | - | - | Steam | [Raw Fury](https://rawfury.com) | - |
+| Atomicrops: Deluxe Edition | 2026-06-24 | Rawfury: Rawcember to Remember 2025 | - | - | - | Steam | [Raw Fury](https://rawfury.com) | - |
+| Bad North: Jotunn Edition | 2026-06-24 | Rawfury: Rawcember to Remember 2025 | - | - | - | Steam | [Raw Fury](https://rawfury.com) | - |
+| Call of the Sea | 2026-06-24 | Rawfury: Rawcember to Remember 2025 | - | - | - | Steam | [Raw Fury](https://rawfury.com) | - |
+| Friends vs Friends: Deluxe Edition | 2026-06-24 | Rawfury: Rawcember to Remember 2025 | - | - | - | Steam | [Raw Fury](https://rawfury.com) | - |
+| Kathy Rain 2: Soothsayer | 2026-06-24 | Rawfury: Rawcember to Remember 2025 | - | - | - | Steam | [Raw Fury](https://rawfury.com) | - |
+| Kathy Rain: Director's Cut | 2026-06-24 | Rawfury: Rawcember to Remember 2025 | - | - | - | Steam | [Raw Fury](https://rawfury.com) | - |
+| Pizza Possum | 2026-06-24 | Rawfury: Rawcember to Remember 2025 | - | - | - | Steam | [Raw Fury](https://rawfury.com) | - |
+| Regions of Ruin | 2026-06-24 | Rawfury: Rawcember to Remember 2025 | - | - | - | Steam | [Raw Fury](https://rawfury.com) | - |
+| Sable | 2026-06-24 | Rawfury: Rawcember to Remember 2025 | - | - | - | Steam | [Raw Fury](https://rawfury.com) | - |
+| SKALD: Against the Black Priory | 2026-06-24 | Rawfury: Rawcember to Remember 2025 | - | - | - | Steam | [Raw Fury](https://rawfury.com) | - |
+| Tails Noir | 2026-06-24 | Rawfury: Rawcember to Remember 2025 | - | - | - | Steam | [Raw Fury](https://rawfury.com) | - |
+| Tails Noir Preludes | 2026-06-24 | Rawfury: Rawcember to Remember 2025 | - | - | - | Steam | [Raw Fury](https://rawfury.com) | - |
+| Townscaper | 2026-06-24 | Rawfury: Rawcember to Remember 2025 | - | - | - | Steam | [Raw Fury](https://rawfury.com) | - |
 | Townscaper | 2026-06-24 | Sim-ple Life | - | - | Yes | Steam | [Raw Fury](https://rawfury.com) | - |
 | Double Dragon Gaiden: Rise of the Dragons | 2026-06-26 | Brutal Beat 'Em Ups | - | - | Yes | Steam | [Secret Base](https://secretbase.sg) | - |
 | Afterimage | 2026-06-26 | Maximum Entertainment: Full Send Bundle! | - | - | - | Steam | [Maximum Entertainment](https://maximument.com) | - |
@@ -252,6 +266,8 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Soulstice | 2026-06-26 | Maximum Entertainment: Full Send Bundle! | - | - | - | Steam | [Maximum Entertainment](https://maximument.com) | - |
 | SunnySide | 2026-06-26 | Maximum Entertainment: Full Send Bundle! | - | - | - | Steam | [Merge Games](https://www.mergegames.com) | - |
 | Snufkin: Melody of Moominvalley | 2026-06-30 | Rawcember to Remember | - | - | Yes | Steam | [Raw Fury](https://rawfury.com) | - |
+| Shashingo: Learn Japanese with Photography | 2026-06-30 | Wholesome Snack 2025 Showcase Bundle | - | - | - | Steam | [Autumn Pioneer](https://autumnpioneer.com) | - |
+| Snufkin: Melody of Moominvalley | 2026-06-30 | Wholesome Snack 2025 Showcase Bundle | - | - | - | Steam | [Raw Fury](https://rawfury.com) | - |
 | Warhammer 40,000: Rogue Trader | 2026-07-01 | July 2025 Humble Choice | - | - | - | Steam | [Meta Publishing](https://meta.pub) | - |
 | Death's Door | 2026-07-01 | July 2025 Humble Choice | - | - | - | Steam | [Devolver Digital](https://www.devolverdigital.com) | - |
 | DAEMON X MACHINA | 2026-07-01 | July 2025 Humble Choice | - | - | - | Steam | [Marvelous Inc.](https://www.marvelousgames.com) | - |
@@ -498,6 +514,33 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Tribes of Midgard | 2026-12-20 | Better With a Friend: Co-op Adventures | - | - | Yes | Steam | [Gearbox Publishing](https://www.gearboxpublishing.com) | - |
 | Trine 4: The Nightmare Prince | 2026-12-20 | Better With a Friend: Co-op Adventures | - | - | Yes | Steam | [Frozenbyte](https://www.frozenbyte.com) | - |
 | For The King - Deluxe Edition | 2026-12-20 | Curve Games Care Package | - | - | Yes | Steam | [Curve Games](https://curvegames.com) | - |
+| A Fisherman's Tale 2 | 2026-12-26 | UploadVR Showcase: Winter 2025 Bundle | - | - | - | Steam | [Vertigo Games](https://www.vertigo-games.com) | - |
+| After the Fall - Deluxe Edition | 2026-12-26 | UploadVR Showcase: Winter 2025 Bundle | - | - | - | Steam | [Vertigo Games](https://www.vertigo-games.com) | - |
+| Ghosts of Tabor | 2026-12-26 | UploadVR Showcase: Winter 2025 Bundle | - | - | - | Steam | [Beyond Frames](https://www.beyondframes.com) | - |
+| Guardians Frontline | 2026-12-26 | UploadVR Showcase: Winter 2025 Bundle | - | - | - | Steam | [Fast Travel Games](https://www.fasttravelgames.com) | - |
+| Hellsweeper VR | 2026-12-26 | UploadVR Showcase: Winter 2025 Bundle | - | - | - | Steam | [Vertigo Games](https://www.vertigo-games.com) | - |
+| I Expect You To Die 3: Cog in the Machine | 2026-12-26 | UploadVR Showcase: Winter 2025 Bundle | - | - | - | Steam | [Schell Games](https://www.schellgames.com) | - |
+| Metal: Hellsinger VR | 2026-12-26 | UploadVR Showcase: Winter 2025 Bundle | - | - | - | Steam | [Funcom](https://www.funcom.com) | - |
+| The Walking Dead: Saints & Sinners | 2026-12-26 | UploadVR Showcase: Winter 2025 Bundle | - | - | - | Steam | [Skydance Interactive](https://www.skydance.com) | - |
+| Z.O.N.A: Origin | 2026-12-26 | UploadVR Showcase: Winter 2025 Bundle | - | - | - | Steam | [AGaming+](https://agaming.plus) | - |
+| Botany Manor | 2026-12-30 | Wholesome Snack 2025 Showcase Bundle | - | - | - | Steam | [Whitethorn Games](https://whitethorngames.com) | - |
+| Kind Words 2 (lofi city pop) | 2026-12-30 | Wholesome Snack 2025 Showcase Bundle | - | - | - | Steam | [Popcannibal](https://popcannibal.com) | - |
+| Little-Known Galaxy | 2026-12-30 | Wholesome Snack 2025 Showcase Bundle | - | - | - | Steam | [Carbon & Kay](https://carbonandkay.com) | - |
+| NAIAD | 2026-12-30 | Wholesome Snack 2025 Showcase Bundle | - | - | - | Steam | [HiWarp](https://hiwarp.com) | - |
+| On Your Tail | 2026-12-30 | Wholesome Snack 2025 Showcase Bundle | - | - | - | Steam | [Humble Games](https://www.humblegames.com) | - |
+| Spirittea | 2026-12-30 | Wholesome Snack 2025 Showcase Bundle | - | - | - | Steam | [No More Robots](https://nomorerobots.io) | - |
+| SUMMERHOUSE | 2026-12-30 | Wholesome Snack 2025 Showcase Bundle | - | - | - | Steam | [Future Friends Games](https://futurefriendsgames.com) | - |
+| A Space for the Unbound | 2026-12-31 | Award Nominations Bundle (2025) | - | - | - | Steam | [Toge Productions](https://togeproductions.com) | - |
+| Bright Memory: Infinite | 2026-12-31 | Award Nominations Bundle (2025) | - | - | - | Steam | [FYQD-Studio](https://fyqd-studio.com) | - |
+| Chicory: A Colorful Tale | 2026-12-31 | Award Nominations Bundle (2025) | - | - | - | Steam | [Finji](https://finji.co) | - |
+| Cobalt Core | 2026-12-31 | Award Nominations Bundle (2025) | - | - | - | Steam | [Brace Yourself Games](https://braceyourselfgames.com) | - |
+| Ghostrunner 2 | 2026-12-31 | Award Nominations Bundle (2025) | - | - | - | Steam | [505 Games](https://505games.com) | - |
+| I Was a Teenage Exocolonist | 2026-12-31 | Award Nominations Bundle (2025) | - | - | - | Steam | [Finji](https://finji.co) | - |
+| IMMORTALITY | 2026-12-31 | Award Nominations Bundle (2025) | - | - | - | Steam | [Half Mermaid](https://halfmermaid.co) | - |
+| Pocket Bravery | 2026-12-31 | Award Nominations Bundle (2025) | - | - | - | Steam | [PQube](https://pqube.co.uk) | - |
+| The Vale: Shadow of the Crown | 2026-12-31 | Award Nominations Bundle (2025) | - | - | - | Steam | [Falling Squirrel](https://fallingsquirrel.com) | - |
+| IMMORTALITY | 2026-12-31 | Humble Detectives Bundle | - | - | Yes | Steam | [Half Mermaid](https://halfmermaid.co) | - |
+| A Space for the Unbound | 2026-12-31 | Summer Narrative Celebration Bundle | - | - | Yes | Steam | [Toge Productions](https://togeproductions.com) | - |
 | Beholder: Conductor | 2027-01-06 | December 2025 Humble Choice | - | - | - | Steam | [Alawar](https://alawar.com) | - |
 | Dungeon Tycoon | 2027-01-06 | December 2025 Humble Choice | - | - | - | Steam | [Goblinz Publishing](https://goblinzstudio.com) | - |
 | Godlike Burger | 2027-01-06 | December 2025 Humble Choice | - | - | - | Steam | [Daedalic Entertainment](https://www.daedalic.com) | - |
@@ -506,6 +549,17 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Lost Skies | 2027-01-06 | December 2025 Humble Choice | - | - | - | Steam | [Humble Games](https://www.humblegames.com) | - |
 | Nine Sols | 2027-01-06 | December 2025 Humble Choice | - | - | - | Steam | [Red Candle Games](https://redcandlegames.com) | - |
 | Streets of Rage 4 | 2027-01-06 | December 2025 Humble Choice | - | - | - | Steam | [Dotemu](https://www.dotemu.com) | - |
+| Arietta of Spirits | 2027-01-07 | Games Under 5 Hours to Finish Bundle | - | - | - | Steam | [Third Spirit Games](https://thirdspiritgames.com) | - |
+| Gravity Circuit | 2027-01-07 | Games Under 5 Hours to Finish Bundle | - | - | - | Steam | [PID Games](https://pidgames.com) | - |
+| Harmony's Odyssey | 2027-01-07 | Games Under 5 Hours to Finish Bundle | - | - | - | Steam | [MythicOwl](https://mythicowl.com) | - |
+| Mindcop | 2027-01-07 | Games Under 5 Hours to Finish Bundle | - | - | - | Steam | [Dear Villagers](https://dearvillagers.com) | - |
+| Moduwar | 2027-01-07 | Games Under 5 Hours to Finish Bundle | - | - | - | Steam | [Firesquid](https://firesquid.games) | - |
+| Monaco 2 | 2027-01-07 | Games Under 5 Hours to Finish Bundle | - | - | - | Steam | [Humble Games](https://www.humblegames.com) | - |
+| Monument Valley: Panoramic Edition | 2027-01-07 | Games Under 5 Hours to Finish Bundle | - | - | - | Steam | [ustwo games](https://ustwo.com) | - |
+| Monument Valley 2: Panoramic Edition | 2027-01-07 | Games Under 5 Hours to Finish Bundle | - | - | - | Steam | [ustwo games](https://ustwo.com) | - |
+| The Forest Quartet | 2027-01-07 | Games Under 5 Hours to Finish Bundle | - | - | - | Steam | [Bedtime Digital Games](https://bedtimedigitalgames.dk) | - |
+| Tobla - Divine Path | 2027-01-07 | Games Under 5 Hours to Finish Bundle | - | - | - | Steam | [rokaplay](https://rokaplay.com) | - |
+| Arietta of Spirits | 2027-01-07 | Springtide Indies Bundle | - | - | Yes | Steam | [Third Spirit Games](https://thirdspiritgames.com) | - |
 | Adventure Time: Pirates of the Enchiridion | 2027-01-09 | Outright Games: Endless Fun Bundle | - | - | - | Steam | [Outright Games](https://outrightgames.com) | - |
 | Ben 10: Power Trip | 2027-01-09 | Outright Games: Endless Fun Bundle | - | - | - | Steam | [Outright Games](https://outrightgames.com) | - |
 | Jumanji: Wild Adventures | 2027-01-09 | Outright Games: Endless Fun Bundle | - | - | - | Steam | [Outright Games](https://outrightgames.com) | - |
@@ -521,6 +575,34 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Adventure Time: Pirates of the Enchiridion | 2027-01-09 | Outright Heroes of Film & Television | - | - | Yes | Steam | [Outright Games](https://outrightgames.com) | - |
 | Ben 10: Power Trip | 2027-01-09 | Outright Heroes of Film & Television | - | - | Yes | Steam | [Outright Games](https://outrightgames.com) | - |
 | Ben 10: Power Trip | 2027-01-09 | Shared Screen Time: Family Game Night | - | - | Yes | Steam | [Outright Games](https://outrightgames.com) | - |
+| Commandos 2 - HD Remaster | 2027-01-16 | Kalypso Strategy and Tactics Pack 2025 | - | - | - | Steam | [Kalypso Media](https://www.kalypsomedia.com) | - |
+| Commandos 3 - HD Remaster | 2027-01-16 | Kalypso Strategy and Tactics Pack 2025 | - | - | - | Steam | [Kalypso Media](https://www.kalypsomedia.com) | - |
+| Commandos: Behind Enemy Lines | 2027-01-16 | Kalypso Strategy and Tactics Pack 2025 | - | - | - | Steam | [Kalypso Media](https://www.kalypsomedia.com) | - |
+| Disciples: Liberation | 2027-01-16 | Kalypso Strategy and Tactics Pack 2025 | - | - | - | Steam | [Kalypso Media](https://www.kalypsomedia.com) | - |
+| Disciples: Liberation - Paths to Madness | 2027-01-16 | Kalypso Strategy and Tactics Pack 2025 | - | - | - | Steam | [Kalypso Media](https://www.kalypsomedia.com) | - |
+| Dungeons | 2027-01-16 | Kalypso Strategy and Tactics Pack 2025 | - | - | - | Steam | [Kalypso Media](https://www.kalypsomedia.com) | - |
+| Dungeons 2 | 2027-01-16 | Kalypso Strategy and Tactics Pack 2025 | - | - | - | Steam | [Kalypso Media](https://www.kalypsomedia.com) | - |
+| Dungeons 2 - A Chance of Dragons | 2027-01-16 | Kalypso Strategy and Tactics Pack 2025 | - | - | - | Steam | [Kalypso Media](https://www.kalypsomedia.com) | - |
+| Dungeons 2 - A Game of Winter | 2027-01-16 | Kalypso Strategy and Tactics Pack 2025 | - | - | - | Steam | [Kalypso Media](https://www.kalypsomedia.com) | - |
+| Dungeons 2 - A Song of Sand and Fire | 2027-01-16 | Kalypso Strategy and Tactics Pack 2025 | - | - | - | Steam | [Kalypso Media](https://www.kalypsomedia.com) | - |
+| Dungeons 3 | 2027-01-16 | Kalypso Strategy and Tactics Pack 2025 | - | - | - | Steam | [Kalypso Media](https://www.kalypsomedia.com) | - |
+| Dungeons 3 - A Multitude of Maps | 2027-01-16 | Kalypso Strategy and Tactics Pack 2025 | - | - | - | Steam | [Kalypso Media](https://www.kalypsomedia.com) | - |
+| Dungeons 3 - An Unexpected DLC | 2027-01-16 | Kalypso Strategy and Tactics Pack 2025 | - | - | - | Steam | [Kalypso Media](https://www.kalypsomedia.com) | - |
+| Dungeons 3 - Clash of Gods | 2027-01-16 | Kalypso Strategy and Tactics Pack 2025 | - | - | - | Steam | [Kalypso Media](https://www.kalypsomedia.com) | - |
+| Dungeons 3 - Evil of the Caribbean | 2027-01-16 | Kalypso Strategy and Tactics Pack 2025 | - | - | - | Steam | [Kalypso Media](https://www.kalypsomedia.com) | - |
+| Dungeons 3 - Famous Last Words | 2027-01-16 | Kalypso Strategy and Tactics Pack 2025 | - | - | - | Steam | [Kalypso Media](https://www.kalypsomedia.com) | - |
+| Dungeons 3 - Lord of the Kings | 2027-01-16 | Kalypso Strategy and Tactics Pack 2025 | - | - | - | Steam | [Kalypso Media](https://www.kalypsomedia.com) | - |
+| Dungeons 3 - Once Upon A Time | 2027-01-16 | Kalypso Strategy and Tactics Pack 2025 | - | - | - | Steam | [Kalypso Media](https://www.kalypsomedia.com) | - |
+| Dungeons - Into the Dark | 2027-01-16 | Kalypso Strategy and Tactics Pack 2025 | - | - | - | Steam | [Kalypso Media](https://www.kalypsomedia.com) | - |
+| Dungeons - Map Pack | 2027-01-16 | Kalypso Strategy and Tactics Pack 2025 | - | - | - | Steam | [Kalypso Media](https://www.kalypsomedia.com) | - |
+| Dungeons - The Dark Lord | 2027-01-16 | Kalypso Strategy and Tactics Pack 2025 | - | - | - | Steam | [Kalypso Media](https://www.kalypsomedia.com) | - |
+| Immortal Realms: Vampire Wars | 2027-01-16 | Kalypso Strategy and Tactics Pack 2025 | - | - | - | Steam | [Kalypso Media](https://www.kalypsomedia.com) | - |
+| Praetorians - HD Remaster | 2027-01-16 | Kalypso Strategy and Tactics Pack 2025 | - | - | - | Steam | [Kalypso Media](https://www.kalypsomedia.com) | - |
+| Sudden Strike 2 Gold | 2027-01-16 | Kalypso Strategy and Tactics Pack 2025 | - | - | - | Steam | [Kalypso Media](https://www.kalypsomedia.com) | - |
+| Sudden Strike 3 | 2027-01-16 | Kalypso Strategy and Tactics Pack 2025 | - | - | - | Steam | [Kalypso Media](https://www.kalypsomedia.com) | - |
+| Sudden Strike 4 | 2027-01-16 | Kalypso Strategy and Tactics Pack 2025 | - | - | - | Steam | [Kalypso Media](https://www.kalypsomedia.com) | - |
+| Sudden Strike Gold | 2027-01-16 | Kalypso Strategy and Tactics Pack 2025 | - | - | - | Steam | [Kalypso Media](https://www.kalypsomedia.com) | - |
+| Kao the Kangaroo | 2027-02-04 | Masterful Modern 3D Platformers | - | - | Yes | Steam | [Tate Multimedia](https://www.tatemultimedia.com) | - |
 | Pogostuck: Rage With Your Friends | 2027-02-04 | Springtide Indies Bundle | - | - | Yes | Steam | [Superku](https://www.pogostuck.com) | - |
 | Disjunction | 2031-05-25 | June 2021 Humble Choice | - | - | - | GOG | [Fireshine Games](https://www.fireshinegames.co.uk) | - |
 | Encodya | 2031-07-28 | August 2021 Humble Choice | - | - | - | GOG | [Assemble Entertainment](https://assemble-entertainment.com) | - |
@@ -777,6 +859,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | [Gaming Company](https://www.gamingcompany.pl) | Yes | - | - | - | - | [@GameCompanyGC](https://x.com/GameCompanyGC) / [support@gamingcompany.pl](mailto:support@gamingcompany.pl) | - |
 | [Gearbox Publishing](https://www.gearboxpublishing.com) | Yes | Yes | Yes | - | - | [@GBXPublishing](https://x.com/GearboxOfficial) / [support@gearboxpublishing.com](mailto:support@gearboxpublishing.com) | - |
 | [Goblinz Publishing](https://goblinzstudio.com) | Yes | Yes | Yes | - | - | [Discord](https://discord.gg/GoblinzStudio) / [@GoblinzPub](https://x.com/GoblinzPub) / [contact@goblinzstudio.com](mailto:contact@goblinzstudio.com) | - |
+| [Half Mermaid](https://halfmermaid.co) | - | - | Yes | - | - | [Contact](https://halfmermaid.co/contact) / [@halfmermaid](https://x.com/halfmermaid) | - |
 | [HandyGames](https://handy-games.com) | - | - | Yes | - | - | [@handy_games](https://x.com/handy_games) / [support@handy-games.com](mailto:support@handy-games.com) / [info@handy-games.com](mailto:info@handy-games.com) | - |
 | [Headup](https://headupgames.com) | Yes | - | Yes | - | - | [@headupgames](https://x.com/headupgames) / [support@headupgames.com](mailto:support@headupgames.com) / [info@headupgames.com](mailto:info@headupgames.com) | - |
 | [Holy Wow Studios LLC](https://holywowstudios.com) | - | - | Yes | - | - | [holywowstudios.com](https://holywowstudios.com) / [@HolyWowStudios](https://x.com/HolyWowStudios) | - |
@@ -829,11 +912,14 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | [SuperGG.com](https://www.supergg.com) | - | - | Yes | - | - | [@SuperGG_com](https://x.com/SuperGG_com) / [support@supergg.com](mailto:support@supergg.com) | - |
 | [Superku](https://www.pogostuck.com) | - | - | Yes | - | - | [Steam Discussions](https://steamcommunity.com/app/688130/discussions) / [Discord](https://discord.gg/jKaA7EX) / [@realSuperku](https://x.com/realSuperku) | - |
 | [Sven Ahlgrimm](https://oddada.com) | - | - | Yes | - | - | [Press kit](https://oddada.com/press/sheet.php?p=ODDADA) / [@SvenAhlgrimm](https://x.com/SvenAhlgrimm) / [sven.ahlg@gmail.com](mailto:sven.ahlg@gmail.com) | - |
+| [Tate Multimedia](https://www.tatemultimedia.com) | - | - | Yes | - | - | [Contact](https://www.tatemultimedia.com/contact.html) / [Discord](https://discord.com/invite/tatemultimedia) / [@TateMultimedia](https://x.com/TateMultimedia) / [contact@tatemultimedia.com](mailto:contact@tatemultimedia.com) | - |
 | [Team Reptile](https://team-reptile.com) | - | Yes | - | - | - | [@ReptileGames](https://x.com/ReptileGames) / [contact@team-reptile.com](mailto:contact@team-reptile.com) | - |
 | [Team17](https://team17.com) | - | Yes | Yes | - | - | [Support](https://www.team17.com/support) / [Discord](https://discordapp.com/invite/team17) / [@Team17Help](https://x.com/Team17Help) / [support@team17.com](mailto:support@team17.com) | - |
 | [Techland](https://www.techland.pl) | Yes | - | - | - | - | [@TechlandGames](https://x.com/TechlandGames) / [support@techland.pl](mailto:support@techland.pl) | - |
+| [Third Spirit Games](https://thirdspiritgames.com) | - | - | Yes | - | - | [Contact](https://thirdspiritgames.com/contact) | - |
 | [THQ Nordic](https://www.thqnordic.com) | Yes | Yes | Yes | - | - | [Contact Page](https://thqnordic.com/company/contact) / [@THQNordic](https://x.com/THQNordic) / [support@thqnordic.com](mailto:support@thqnordic.com) | - |
 | [tinyBuild](https://www.tinybuild.com) | Yes | Yes | Yes | - | - | [@tinyBuild](https://x.com/tinyBuild) / [contact@tinybuild.com](mailto:contact@tinybuild.com) | - |
+| [Toge Productions](https://togeproductions.com) | - | - | Yes | - | - | [Contact](https://togeproductions.com/contact) / [@togeproductions](https://x.com/togeproductions) / [contact@togeproductions.com](mailto:contact@togeproductions.com) | - |
 | [Toplitz Productions](https://www.toplitz-productions.com) | Yes | - | Yes | - | - | [@Toplitz_Prod](https://x.com/Toplitz_Prod) / [support@toplitz-productions.com](mailto:support@toplitz-productions.com) | - |
 | [Triband](https://triband.net) | - | - | Yes | - | - | [triband.net](https://triband.net) / [hello@triband.net](mailto:hello@triband.net) | - |
 | [Tripwire Interactive](https://www.tripwireinteractive.com) | Yes | - | - | - | - | [@TripwireInt](https://x.com/TripwireInt) / [support@tripwireinteractive.com](mailto:support@tripwireinteractive.com) | - |
