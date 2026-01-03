@@ -251,6 +251,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Sclash | 2026-06-26 | Maximum Entertainment: Full Send Bundle! | - | - | - | Steam | [Maximum Entertainment](https://maximument.com) | - |
 | Soulstice | 2026-06-26 | Maximum Entertainment: Full Send Bundle! | - | - | - | Steam | [Maximum Entertainment](https://maximument.com) | - |
 | SunnySide | 2026-06-26 | Maximum Entertainment: Full Send Bundle! | - | - | - | Steam | [Merge Games](https://www.mergegames.com) | - |
+| Snufkin: Melody of Moominvalley | 2026-06-30 | Rawcember to Remember | - | - | Yes | Steam | [Raw Fury](https://rawfury.com) | - |
 | Warhammer 40,000: Rogue Trader | 2026-07-01 | July 2025 Humble Choice | - | - | - | Steam | [Meta Publishing](https://meta.pub) | - |
 | Death's Door | 2026-07-01 | July 2025 Humble Choice | - | - | - | Steam | [Devolver Digital](https://www.devolverdigital.com) | - |
 | DAEMON X MACHINA | 2026-07-01 | July 2025 Humble Choice | - | - | - | Steam | [Marvelous Inc.](https://www.marvelousgames.com) | - |
@@ -505,6 +506,22 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Lost Skies | 2027-01-06 | December 2025 Humble Choice | - | - | - | Steam | [Humble Games](https://www.humblegames.com) | - |
 | Nine Sols | 2027-01-06 | December 2025 Humble Choice | - | - | - | Steam | [Red Candle Games](https://redcandlegames.com) | - |
 | Streets of Rage 4 | 2027-01-06 | December 2025 Humble Choice | - | - | - | Steam | [Dotemu](https://www.dotemu.com) | - |
+| Adventure Time: Pirates of the Enchiridion | 2027-01-09 | Outright Games: Endless Fun Bundle | - | - | - | Steam | [Outright Games](https://outrightgames.com) | - |
+| Ben 10: Power Trip | 2027-01-09 | Outright Games: Endless Fun Bundle | - | - | - | Steam | [Outright Games](https://outrightgames.com) | - |
+| Jumanji: Wild Adventures | 2027-01-09 | Outright Games: Endless Fun Bundle | - | - | - | Steam | [Outright Games](https://outrightgames.com) | - |
+| Monster High: Skulltimate Secrets | 2027-01-09 | Outright Games: Endless Fun Bundle | - | - | - | Steam | [Outright Games](https://outrightgames.com) | - |
+| My Little Pony: A Zephyr Heights Mystery | 2027-01-09 | Outright Games: Endless Fun Bundle | - | - | - | Steam | [Outright Games](https://outrightgames.com) | - |
+| PAW Patrol: On a Roll! | 2027-01-09 | Outright Games: Endless Fun Bundle | - | - | - | Steam | [Outright Games](https://outrightgames.com) | - |
+| SpongeBob SquarePants: The Patrick Star Game | 2027-01-09 | Outright Games: Endless Fun Bundle | - | - | - | Steam | [Outright Games](https://outrightgames.com) | - |
+| Teenage Mutant Ninja Turtles: Mutants Unleashed | 2027-01-09 | Outright Games: Endless Fun Bundle | - | - | - | Steam | [Outright Games](https://outrightgames.com) | - |
+| The Grinch: Christmas Adventures | 2027-01-09 | Outright Games: Endless Fun Bundle | - | - | - | Steam | [Outright Games](https://outrightgames.com) | - |
+| Adventure Time: Pirates of the Enchiridion | 2027-01-09 | Outright Games' Summer Break | - | - | Yes | Steam | [Outright Games](https://outrightgames.com) | - |
+| Ben 10: Power Trip | 2027-01-09 | Outright Games' Summer Break | - | - | Yes | Steam | [Outright Games](https://outrightgames.com) | - |
+| PAW Patrol: On a Roll! | 2027-01-09 | Outright Games' Summer Break | - | - | Yes | Steam | [Outright Games](https://outrightgames.com) | - |
+| Adventure Time: Pirates of the Enchiridion | 2027-01-09 | Outright Heroes of Film & Television | - | - | Yes | Steam | [Outright Games](https://outrightgames.com) | - |
+| Ben 10: Power Trip | 2027-01-09 | Outright Heroes of Film & Television | - | - | Yes | Steam | [Outright Games](https://outrightgames.com) | - |
+| Ben 10: Power Trip | 2027-01-09 | Shared Screen Time: Family Game Night | - | - | Yes | Steam | [Outright Games](https://outrightgames.com) | - |
+| Pogostuck: Rage With Your Friends | 2027-02-04 | Springtide Indies Bundle | - | - | Yes | Steam | [Superku](https://www.pogostuck.com) | - |
 | Disjunction | 2031-05-25 | June 2021 Humble Choice | - | - | - | GOG | [Fireshine Games](https://www.fireshinegames.co.uk) | - |
 | Encodya | 2031-07-28 | August 2021 Humble Choice | - | - | - | GOG | [Assemble Entertainment](https://assemble-entertainment.com) | - |
 | ~~Ultros~~ | ~~2025-12-02~~ | ~~May 2025 Humble Choice~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~Steam~~ | ~~[Kepler Interactive](https://kepler-interactive.com)~~ | ~~-~~ |
@@ -783,6 +800,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | [OMEGAMES STUDIO](https://www.facebook.com/OmegamesStudio) | - | - | Yes | - | - | [Facebook](https://www.facebook.com/OmegamesStudio) / [toby.chen@itaotuo.com](mailto:toby.chen@itaotuo.com)| - |
 | [Out of the Blue Games](https://outbluegames.com) | - | - | Yes | - | - | [@OutBlueGames](https://x.com/OutBlueGames) / [info@outbluegames.com](mailto:info@outbluegames.com) | - |
 | [Outlier Games](https://outlier.games) | Yes | - | - | - | - | [@OutlierGames](https://x.com/OutlierGames) / [support@outlier.games](mailto:support@outlier.games) | - |
+| [Outright Games](https://outrightgames.com) | - | - | Yes | - | - | [Contact](https://outrightgames.com/contact) / [@Outright_Games](https://x.com/Outright_Games) / [support@outrightgames.com](mailto:support@outrightgames.com) | - |
 | [Overseer Games](https://www.overseergames.com) | Yes | - | - | - | - | [@OverseerGames](https://x.com/OverseerGames) / [support@overseergames.com](mailto:support@overseergames.com) | - |
 | [Paradox Interactive](https://www.paradoxinteractive.com) | Yes | - | - | - | - | [support.paradoxplaza.com](https://support.paradoxplaza.com) / [@PdxInteractive](https://x.com/PdxInteractive) | - |
 | [Playtonic Friends](https://www.playtonic.games) | - | - | Yes | - | - | [@PlaytonicGames](https://x.com/PlaytonicGames) / [support@playtonic.games](mailto:support@playtonic.games) | - |
@@ -809,6 +827,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | [Studio Evil](https://www.studioevil.net) | Yes | - | - | - | - | [@StudioEvilGames](https://x.com/StudioEvilGames) / [contact@studioevil.net](mailto:contact@studioevil.net) | - |
 | [Studio MDHR](https://www.studiomdhr.com) | Yes | - | - | - | - | [@StudioMDHR](https://x.com/StudioMDHR) / [press@studiomdhr.com](mailto:press@studiomdhr.com) | - |
 | [SuperGG.com](https://www.supergg.com) | - | - | Yes | - | - | [@SuperGG_com](https://x.com/SuperGG_com) / [support@supergg.com](mailto:support@supergg.com) | - |
+| [Superku](https://www.pogostuck.com) | - | - | Yes | - | - | [Steam Discussions](https://steamcommunity.com/app/688130/discussions) / [Discord](https://discord.gg/jKaA7EX) / [@realSuperku](https://x.com/realSuperku) | - |
 | [Sven Ahlgrimm](https://oddada.com) | - | - | Yes | - | - | [Press kit](https://oddada.com/press/sheet.php?p=ODDADA) / [@SvenAhlgrimm](https://x.com/SvenAhlgrimm) / [sven.ahlg@gmail.com](mailto:sven.ahlg@gmail.com) | - |
 | [Team Reptile](https://team-reptile.com) | - | Yes | - | - | - | [@ReptileGames](https://x.com/ReptileGames) / [contact@team-reptile.com](mailto:contact@team-reptile.com) | - |
 | [Team17](https://team17.com) | - | Yes | Yes | - | - | [Support](https://www.team17.com/support) / [Discord](https://discordapp.com/invite/team17) / [@Team17Help](https://x.com/Team17Help) / [support@team17.com](mailto:support@team17.com) | - |
