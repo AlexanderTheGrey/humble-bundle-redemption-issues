@@ -67,8 +67,6 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 
 | Game | Expiration | Bundle | Exhausted | Restocked Before Expiration | Expiration Added Post-Purchase (Retroactive) | Platform | Publisher | Notes |
 |---|---|---|---|---|---|---|---|---|
-| Dredge | 2025-12-31 | April 2025 Humble Choice | - | - | - | Steam | [Team17](https://www.team17.com) | - |
-| Death Stranding Director's Cut | 2025-12-31 | April 2023 Humble Choice | Switched DRM | - | Yes | Epic (was Steam) | [505 Games](https://505games.com) | - |
 | Tchia | 2026-01-05 | June 2025 Humble Choice | - | - | - | Steam | [Kepler Interactive](https://kepler-interactive.com) | - |
 | Bomb Rush Cyberfunk | 2026-01-06 | December 2024 Humble Choice | Previously | Yes | - | Steam | [Team Reptile](https://team-reptile.com) | - |
 | Crime Boss: Rockay City - First Month Edition | 2026-01-06 | December 2024 Humble Choice | - | - | - | Steam | [505 Games](https://505games.com) | - |
@@ -606,6 +604,8 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Pogostuck: Rage With Your Friends | 2027-02-04 | Springtide Indies Bundle | - | - | Yes | Steam | [Superku](https://www.pogostuck.com) | - |
 | Disjunction | 2031-05-25 | June 2021 Humble Choice | - | - | - | GOG | [Fireshine Games](https://www.fireshinegames.co.uk) | - |
 | Encodya | 2031-07-28 | August 2021 Humble Choice | - | - | - | GOG | [Assemble Entertainment](https://assemble-entertainment.com) | - |
+| ~~Dredge~~ | ~~2025-12-31~~ | ~~April 2025 Humble Choice~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~Steam~~ | ~~[Team17](https://www.team17.com)~~ | ~~-~~ |
+| ~~Death Stranding Director's Cut~~ | ~~2025-12-31~~ | ~~April 2023 Humble Choice~~ | ~~Switched DRM~~ | ~~-~~ | ~~Yes~~ | ~~Epic (was Steam)~~ | ~~[505 Games](https://505games.com)~~ | ~~-~~ |
 | ~~Ultros~~ | ~~2025-12-02~~ | ~~May 2025 Humble Choice~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~Steam~~ | ~~[Kepler Interactive](https://kepler-interactive.com)~~ | ~~-~~ |
 | ~~Warhammer 40,000: Darktide~~ | ~~2025-12-05~~ | ~~November 2024 Humble Choice~~ | ~~Previously~~ | ~~Yes~~ | ~~-~~ | ~~Steam~~ | ~~[Fatshark](https://www.fatshark.se)~~ | ~~-~~ |
 | ~~Hexarchy~~ | ~~2025-12-05~~ | ~~November 2024 Humble Choice~~ | ~~Permanent~~ | ~~No~~ | ~~-~~ | ~~Steam~~ | ~~[Yogscast Games](https://www.yogscast.games)~~ | ~~-~~ |
