@@ -735,7 +735,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Death Stranding Director's Cut | - | Switched DRM | - | April 2023 Humble Choice | Steam | [505 Games](https://505games.com) | - | - | Yes | - |
 | Revita | - | - | - | April 2023 Humble Choice | Steam | [Dear Villagers](https://dearvillagers.com) | - |
 | Golden Light | 2025-10-17 | - | - | March 2023 Humble Choice | Steam | [Feardemic](https://feardemic.com) | - |
-| Hero's Hour | - | Permanent | - | March 2023 Humble Choice | Steam | [Goblinz Publishing](https://goblinzstudio.com) | - |
+| Hero's Hour | 2026-01-15 | - | - | March 2023 Humble Choice | Steam | [Goblinz Publishing](https://goblinzstudio.com) | - |
 | Jurassic World Evolution 2 | - | - | - | March 2023 Humble Choice | Steam | [Frontier Developments](https://www.frontier.co.uk) | - |
 | OlliOlli World - Rad Edition | - | - | - | January 2023 Humble Choice | Steam | [Private Division](https://www.privatedivision.com) | - |
 | First Class Trouble | - | - | - | December 2022 Humble Choice | Steam | [Versus Evil](https://www.versusevil.com) | - |
