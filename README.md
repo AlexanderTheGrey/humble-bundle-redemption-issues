@@ -68,7 +68,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Game | Expiration | Bundle | Exhausted | Restocked Before Expiration | Expiration Added Post-Purchase (Retroactive) | Platform | Publisher | Notes |
 |---|---|---|---|---|---|---|---|---|
 | Tchia | 2026-01-05 | June 2025 Humble Choice | - | - | - | Steam | [Kepler Interactive](https://kepler-interactive.com) | - |
-| Bomb Rush Cyberfunk | 2026-01-06 | December 2024 Humble Choice | Previously | Yes | - | Steam | [Team Reptile](https://team-reptile.com) | - |
+| Bomb Rush Cyberfunk | 2026-01-06 | December 2024 Humble Choice | Permanent | No | - | Steam | [Team Reptile](https://team-reptile.com) | The keys were restocked, but later became exhausted again and were never restocked before the expiration date |
 | Crime Boss: Rockay City - First Month Edition | 2026-01-06 | December 2024 Humble Choice | - | - | - | Steam | [505 Games](https://505games.com) | - |
 | The Invincible | 2026-01-06 | December 2024 Humble Choice | - | - | - | Steam | [11 bit studios](https://11bitstudios.com) | - |
 | Moonstone Island | 2026-01-06 | December 2024 Humble Choice | Switched DRM | - | - | GOG (was Steam) | [Raw Fury](https://rawfury.com) | - |
