@@ -596,7 +596,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Sudden Strike 4 | 2027-01-16 | Kalypso Strategy and Tactics Pack 2025 | - | - | - | Steam | [Kalypso Media](https://www.kalypsomedia.com) | - |
 | Sudden Strike Gold | 2027-01-16 | Kalypso Strategy and Tactics Pack 2025 | - | - | - | Steam | [Kalypso Media](https://www.kalypsomedia.com) | - |
 | Kao the Kangaroo | 2027-02-04 | Masterful Modern 3D Platformers | - | - | Yes | Steam | [Tate Multimedia](https://www.tatemultimedia.com) | - |
-| Pogostuck: Rage With Your Friends | 2027-02-04 | Springtide Indies Bundle | - | - | Yes | Steam | [Superku](https://www.pogostuck.com) | - |
+| Pogostuck: Rage With Your Friends | 2027-02-04 | Adventures in the 2nd Dimension: Positively Playful Platformers | - | - | Yes | Steam | [Superku](https://www.pogostuck.com) | - |
 | Disjunction | 2031-05-25 | June 2021 Humble Choice | - | - | - | GOG | [Fireshine Games](https://www.fireshinegames.co.uk) | - |
 | Encodya | 2031-07-28 | August 2021 Humble Choice | - | - | - | GOG | [Assemble Entertainment](https://assemble-entertainment.com) | - |
 | ~~Tchia~~ | ~~2026-01-05~~ | ~~June 2025 Humble Choice~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~Steam~~ | ~~[Kepler Interactive](https://kepler-interactive.com)~~ | ~~-~~ |
