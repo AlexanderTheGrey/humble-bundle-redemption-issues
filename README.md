@@ -806,9 +806,10 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Amanda The Adventurer | 2025-11-24 | - | - | May 2024 Humble Choice | Steam | [DreadXP](https://www.dreadxp.com) | - |
 | Bravery and Greed | 2025-10-17 | - | - | May 2024 Humble Choice | Steam | [Team17](https://www.team17.com) | - |
 | King of the Castle | - | - | - | May 2024 Humble Choice | Steam | [Astra Publishing](https://astrapublishing.com) | - |
+| Loddlenaut | - | - | - | May 2024 Humble Choice | Steam | [Secret Mode](https://wearesecretmode.com) | - |
 | Mediterranea Inferno | - | - | - | May 2024 Humble Choice | Steam | [Santa Ragione](https://www.santaragione.com) | - |
 | Steelrising | - | - | - | May 2024 Humble Choice | Steam | [Nacon](https://www.nacongaming.com/en-US) | - |
-| Yakuza Like a Dragon | - | - | - | May 2024 Humble Choice | Steam | [SEGA](https://www.sega.com) | - |
+| Yakuza Like a Dragon | 2026-01-26 | - | - | May 2024 Humble Choice | Steam | [SEGA](https://www.sega.com) | - |
 | HUMANKIND Definitive Edition | - | - | - | April 2024 Humble Choice | Steam | [AMPLITUDE Studios](https://amplitude-studios.com) | - |
 | Symphony of War: The Nephilim Saga | - | - | - | April 2024 Humble Choice | Steam | [indie.io](https://indie.io) | - |
 | Victoria 3 | - | - | - | April 2024 Humble Choice | Steam | [Paradox Interactive](https://www.paradoxinteractive.com) | - |
@@ -1050,8 +1051,8 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | [rittzler](https://x.com/rittzler) | - | - | Yes | - | - | [Discord](https://discord.com/invite/DKa5XwJjVC) / [@rittzler](https://x.com/rittzler) | - |
 | [Santa Ragione](https://www.santaragione.com) | Yes | - | - | - | - | [@santaragione](https://x.com/santaragione) / [info@santaragione.com](mailto:info@santaragione.com) | - |
 | [Secret Base](https://secretbase.sg) | - | - | Yes | - | - | [Discord](https://discord.com/invite/wiredp) / [@SecretBaseGS](https://x.com/SecretBaseGS) / [team@secretbase.sg](mailto:team@secretbase.sg) | - |
-| [Secret Mode](https://secretmode.games) | - | - | Yes | - | - | [info@secretmode.games](mailto:info@secretmode.games) | - |
-| [SEGA](https://www.sega.com) | Yes | - | - | - | - | [Support](https://support.sega.com) / [@SEGA](https://x.com/SEGA) | - |
+| [Secret Mode](https://wearesecretmode.com) | Yes | - | Yes | - | - | [Discord](https://discord.gg/TYXxVxbvCC) / [@WeAreSecretMode](https://x.com/WeAreSecretMode) / [info@secretmode.games](mailto:info@secretmode.games) | - |
+| [SEGA](https://www.sega.com) | Yes | Yes | - | - | - | [Support](https://support.sega.com) / [@SEGA](https://x.com/SEGA) | - |
 | [Serenity Forge](https://www.serenityforge.com) | Yes | - | - | - | - | [@SerenityForge](https://x.com/SerenityForge) / [support@serenityforge.com](mailto:support@serenityforge.com) | - |
 | [Sierra Entertainment](https://www.sierra.com) | Yes | - | - | - | - | [@SierraGamers](https://x.com/SierraGamers) / [support@sierra.com](mailto:support@sierra.com) | - |
 | [Signal Studios](https://www.signalstudios.net) | Yes | - | - | - | - | [@SignalStudios](https://x.com/SignalStudios) / [support@signalstudios.net](mailto:support@signalstudios.net) | - |
