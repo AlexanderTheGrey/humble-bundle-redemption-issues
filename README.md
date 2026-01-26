@@ -784,18 +784,18 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Cursed Castilla (Maldita Castilla EX) | - | - | - | January 2018 Humble Monthly | Steam | [Abylight Studios](https://abylightstudios.com) | - |
 | Killing Floor 2 | - | - | - | September 2017 Humble Monthly | Steam | [Tripwire Interactive](https://www.tripwireinteractive.com) | - |
 | Tiny Echo | 2025-10-24 | - | - | June 2017 Humble Monthly | Steam | [Might and Delight](https://mightanddelight.com) | - |
-| Company of Heroes 2 - The Western Front Armies: Oberkommando West | - | - | - | Humble Company of Heroes 10th Anniversary Bundle | Steam | [SEGA](https://www.sega.com) | - |
-| Company of Heroes 2 | - | - | - | December 2015 Humble Monthly | Steam | [SEGA](https://www.sega.com) | - |
-| Company of Heroes 2: The British Forces | - | - | - | December 2015 Humble Monthly | Steam | [SEGA](https://www.sega.com) | - |
-| Company of Heroes 2 - The Western Front Armies: US Forces | - | - | - | December 2015 Humble Monthly | Steam | [SEGA](https://www.sega.com) | - |
-| Company of Heroes 2 - The Western Front Armies: Oberkommando West | - | - | - | December 2015 Humble Monthly | Steam | [SEGA](https://www.sega.com) | - |
-| Company of Heroes | - | - | - | E3 2015 Digital Ticket | Steam | [SEGA](https://www.sega.com) | - |
+| Company of Heroes 2 - The Western Front Armies: Oberkommando West | - | - | - | Humble Company of Heroes 10th Anniversary Bundle | Steam | [Relic Entertainment](https://relic.com) | - |
+| Company of Heroes 2 | - | - | - | December 2015 Humble Monthly | Steam | [Relic Entertainment](https://relic.com) | - |
+| Company of Heroes 2: The British Forces | - | - | - | December 2015 Humble Monthly | Steam | [Relic Entertainment](https://relic.com) | - |
+| Company of Heroes 2 - The Western Front Armies: US Forces | - | - | - | December 2015 Humble Monthly | Steam | [Relic Entertainment](https://relic.com) | - |
+| Company of Heroes 2 - The Western Front Armies: Oberkommando West | - | - | - | December 2015 Humble Monthly | Steam | [Relic Entertainment](https://relic.com) | - |
+| Company of Heroes | - | - | - | E3 2015 Digital Ticket | Steam | [Relic Entertainment](https://relic.com) | - |
 | Syder Arcade | - | - | - | Yogscast Jingle Jam 2016 | Steam | [Studio Evil](https://www.studioevil.net) | - |
 | Command HQ | - | - | - | Humble Weekly Bundle: Retroism | Steam | [MicroProse Software](https://www.microprose.com) | - |
 | F-117A Nighthawk Stealth Fighter 2.0 | - | - | - | Humble Weekly Bundle: Retroism | Steam | [MicroProse Software](https://www.microprose.com) | - |
 | F.E.A.R. 2: Project Origin | - | - | - | Humble WB Games Bundle | Steam | [WB Games](https://www.wbgames.com) | - |
 | Guardians of Middle-earth: Smaug's Treasure DLC | - | - | - | Humble WB Games Bundle | Steam | [WB Games](https://www.wbgames.com) | - |
-| Company of Heroes™ 2 - The Western Front Armies: OKW | - | - | - | Humble SEGA Bundle | Steam | [SEGA](https://www.sega.com) | - |
+| Company of Heroes™ 2 - The Western Front Armies: OKW | - | - | - | Humble SEGA Bundle | Steam | [Relic Entertainment](https://relic.com) | - |
 | Dreamcast Collection | - | - | - | Humble SEGA Bundle | Steam | [SEGA](https://www.sega.com) | - |
 | Middle-earth: Shadow of Mordor Game of the Year Edition | 2025-12-11 | - | - | Humble Very Positive Bundle 2 | Steam | [WB Games](https://www.wbgames.com) | - |
 | Middle-earth: Shadow of Mordor Game of the Year Edition | 2025-12-11 | - | - | Fantastic Journeys: Middle-earth and Beyond | Steam | [WB Games](https://www.wbgames.com) | - |
@@ -935,6 +935,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | [QubicGames](https://qubicgames.com) | Yes | - | - | - | - | [@QubicGames](https://x.com/QubicGames) / [support@qubicgames.com](mailto:support@qubicgames.com) | - |
 | [Ravenscourt](https://www.ravenscourt.com) | Yes | - | - | - | - | [@Ravenscourt](https://x.com/Ravenscourt) / [support@ravenscourt.com](mailto:support@ravenscourt.com) | - |
 | [Raw Fury](https://rawfury.com) | Yes | Yes | Yes | - | Yes | [Discord](https://discord.gg/rawfury) / [@RawFury](https://x.com/RawFury) / [press@rawfury.com](mailto:press@rawfury.com) | - |
+| [Relic Entertainment](https://relic.com) | Yes | - | - | - | - | [help.relic.com](https://help.relic.com/hc/en-us) / [@relicgames](https://x.com/relicgames?lang=en) | - |
 | [rittzler](https://x.com/rittzler) | - | - | Yes | - | - | [Discord](https://discord.com/invite/DKa5XwJjVC) / [@rittzler](https://x.com/rittzler) | - |
 | [Santa Ragione](https://www.santaragione.com) | Yes | - | - | - | - | [@santaragione](https://x.com/santaragione) / [info@santaragione.com](mailto:info@santaragione.com) | - |
 | [Secret Base](https://secretbase.sg) | - | - | Yes | - | - | [Discord](https://discord.com/invite/wiredp) / [@SecretBaseGS](https://x.com/SecretBaseGS) / [team@secretbase.sg](mailto:team@secretbase.sg) | - |
