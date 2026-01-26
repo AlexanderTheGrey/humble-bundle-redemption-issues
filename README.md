@@ -730,9 +730,9 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Temtem | - | - | 2026-04-08 | July 2023 Humble Choice | Steam | [Humble Games](https://www.humblegames.com) | - |
 | Honey I Joined a Cult | - | - | - | June 2023 Humble Choice | Steam | [Team17](https://www.team17.com) | - |
 | Remnant From the Ashes Complete Edition | - | - | - | June 2023 Humble Choice | Steam | [Gearbox Publishing](https://www.gearboxpublishing.com) | - |
-| Aliens: Fireteam Elite | - | - | - | April 2023 Humble Choice | Steam | [Focus Entertainment](https://www.focus-entmt.com/en) | - |
+| Aliens: Fireteam Elite | - | - | - | April 2023 Humble Choice | Steam | [Focus Entertainment](https://www.focus-entmt.com/en) | May have been briefly restocked (small batch, ~30 min); unclear if real vs email/glitch/mix-up |
 | Death Stranding Director's Cut | - | Switched DRM | - | April 2023 Humble Choice | Steam | [505 Games](https://505games.com) | - | - | Yes | - |
-| Revita | - | - | - | April 2023 Humble Choice | Steam | [Dear Villagers](https://dearvillagers.com) | - |
+| Revita | - | - | - | April 2023 Humble Choice | Steam | [Dear Villagers](https://dearvillagers.com) | May have been briefly restocked (small batch, ~30 min); unclear if real vs email/glitch/mix-up |
 | Golden Light | 2025-10-17 | - | - | March 2023 Humble Choice | Steam | [Feardemic](https://feardemic.com) | - |
 | Hero's Hour | 2026-01-15 | - | - | March 2023 Humble Choice | Steam | [Goblinz Publishing](https://goblinzstudio.com) | Previously had an expiration of 2025-06-03 and was originally never restocked, but the expiration was later removed |
 | Jurassic World Evolution 2 | - | - | - | March 2023 Humble Choice | Steam | [Frontier Developments](https://www.frontier.co.uk) | - |
