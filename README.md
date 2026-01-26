@@ -836,7 +836,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | [5minlab Corp.](https://5minlab.com) | - | - | Yes | - | - | [5minlab.com/contact](https://5minlab.com/en/contact_us) / [contact@5minlab.com](mailto:contact@5minlab.com) / [biz@5minlab.com](mailto:biz@5minlab.com) | - |
 | [Aether Studios](https://aetherstudios.com) | - | - | Yes | - | - | [Support](https://aetherstudios.com/supporting/i-found-a-bug-where-can-i-report-it-2) / [Discord](https://discord.com/invite/roa) / [@StudiosOfAether](https://x.com/StudiosOfAether) | - |
 | [AGM PLAYISM](https://playism.com) | - | Yes | - | - | - | [@playismEN](https://x.com/playismEN) / [support@playism.com](mailto:support@playism.com) | - |
-| [Akupara Games](https://www.akuparagames.com) | Yes | - | Yes | Yes | Yes | [@AkuparaGames](https://x.com/AkuparaGames) / [team@akuparagames.com](mailto:team@akuparagames.com) | - |
+| [Akupara Games](https://www.akuparagames.com) | Yes | Yes | Yes | Yes | Yes | [@AkuparaGames](https://x.com/AkuparaGames) / [team@akuparagames.com](mailto:team@akuparagames.com) | - |
 | [Alawar](https://alawar.com) | - | - | Yes | - | - | [support.alawar.com](https://support.alawar.com) / [alawar.com](https://alawar.com) | - |
 | [Amanita Design](https://amanita-design.net) | - | - | Yes | - | - | [@Amanita_Design](https://x.com/Amanita_Design) / [support@amanita-design.net](mailto:support@amanita-design.net) | - |
 | [AMPLITUDE Studios](https://amplitude-studios.com) | Yes | - | - | - | - | [cs@amplitude-studios.com](mailto:cs@amplitude-studios.com) | - |
@@ -847,7 +847,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | [Astra Publishing](https://astrapublishing.com) | Yes | - | - | - | - | [@AstraPublish](https://x.com/AstraPublish) / [support@astrapublishing.com](mailto:support@astrapublishing.com) | - |
 | [Avalanche Studios](https://avalanchestudios.com) | Yes | - | - | - | - | [Support](https://avalanchestudios.com/support) / [Contact](https://avalanchestudios.com/connect) | - |
 | [BANDAI NAMCO Entertainment](https://www.bandainamcoent.com) | Yes | Yes | - | - | - | [support.bandainamcoent.com](https://support.bandainamcoent.com) / [@BandaiNamcoUS](https://x.com/BandaiNamcoUS) | - |
-| [Beautiful Glitch](https://beautifulglitch.pizza) | Yes | - | - | - | - | [Contact](https://beautifulglitch.pizza/contact) / [hello@beautifulglitch.pizza](mailto:hello@beautifulglitch.pizza) / [bugreports@beautifulglitch.pizza](mailto:bugreports@beautifulglitch.pizza) | - |
+| [Beautiful Glitch](https://beautifulglitch.pizza) | - | Yes | - | - | - | [Contact](https://beautifulglitch.pizza/contact) / [hello@beautifulglitch.pizza](mailto:hello@beautifulglitch.pizza) / [bugreports@beautifulglitch.pizza](mailto:bugreports@beautifulglitch.pizza) | - |
 | [BerserkBoy Games](https://berserkboygames.com) | - | - | Yes | - | - | [berserkboygames.com](https://berserkboygames.com) / [@BerserkBoyGame](https://x.com/BerserkBoyGame) / [bbgames.social@gmail.com](mailto:bbgames.social@gmail.com) | - |
 | [Berserk Games](https://www.berserk-games.com) | Yes | - | - | - | - | [@TabletopSim](https://x.com/TabletopSim) / [business@berserk-games.com](mailto:business@berserk-games.com) | - |
 | [Bethesda Softworks](https://bethesda.net) | - | - | Yes | - | - | [@bethesda](https://x.com/bethesda) / [support@bethesda.net](mailto:support@bethesda.net) | - |
@@ -862,7 +862,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | [Crytek](https://www.crytek.com) | - | Yes | - | - | - | [@Crytek](https://x.com/Crytek) / [info@crytek.com](mailto:info@crytek.com) | - |
 | [Curve Games](https://www.curvegames.com) | Yes | Yes | Yes | - | - | [@curvegames](https://x.com/curvegames) / [support@curvegames.com](mailto:support@curvegames.com) | - |
 | [D3 Publisher](https://www.d3p.co.jp) | - | Yes | - | - | - | [Contact via website](https://www.d3p.co.jp/edf6/en) / [@D3Publisher](https://x.com/D3Publisher) | - |
-| [Daedalic Entertainment](https://www.daedalic.com) | Yes | - | Yes | - | - | [daedalicsupport.com](https://www.daedalicsupport.com) / [Discord](https://discord.gg/daedalic) / [@daedalic](https://x.com/daedalic) | - |
+| [Daedalic Entertainment](https://www.daedalic.com) | - | Yes | Yes | - | - | [daedalicsupport.com](https://www.daedalicsupport.com) / [Discord](https://discord.gg/daedalic) / [@daedalic](https://x.com/daedalic) | - |
 | [DANGEN Entertainment](https://dangenentertainment.com) | - | - | Yes | - | - | [dangenentertainment.com](https://dangenentertainment.com) / [Discord](https://discord.gg/dangen) / [@Dangen_Ent](https://x.com/Dangen_Ent) / [support@dangenentertainment.com](mailto:support@dangenentertainment.com) | - |
 | [Dapper Dog Digital](https://biogungame.com) | - | - | Yes | - | - | [biogungame.com/contact](https://biogungame.com/contact) / [@DapperDogDigi](https://x.com/DapperDogDigi) | - |
 | [Dark Point Games](https://darkpointgames.com) | - | - | Yes | - | - | [@DarkPointGames](https://x.com/DarkPointGames) / [biuro@darkpointgames.com](mailto:biuro@darkpointgames.com) | - |
@@ -892,7 +892,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | [HandyGames](https://handy-games.com) | - | - | Yes | - | - | [@handy_games](https://x.com/handy_games) / [support@handy-games.com](mailto:support@handy-games.com) / [info@handy-games.com](mailto:info@handy-games.com) | - |
 | [Headup](https://headupgames.com) | Yes | - | Yes | - | - | [@headupgames](https://x.com/headupgames) / [support@headupgames.com](mailto:support@headupgames.com) / [info@headupgames.com](mailto:info@headupgames.com) | - |
 | [Holy Wow Studios LLC](https://holywowstudios.com) | - | - | Yes | - | - | [holywowstudios.com](https://holywowstudios.com) / [@HolyWowStudios](https://x.com/HolyWowStudios) | - |
-| [Hooded Horse](https://hoodedhorse.com) | Yes | - | - | - | - | [Contact](https://hoodedhorse.com/submit-your-game) / [general@hoodedhorse.com](mailto:general@hoodedhorse.com) | - |
+| [Hooded Horse](https://hoodedhorse.com) | - | Yes | - | - | - | [Contact](https://hoodedhorse.com/submit-your-game) / [general@hoodedhorse.com](mailto:general@hoodedhorse.com) | - |
 | [Humble Games](https://www.humblegames.com) | Yes | - | Yes | - | - | [@HumbleGames](https://x.com/HumbleGames) / [support@humblegames.com](mailto:support@humblegames.com) | - |
 | [Hyperstrange](https://hyperstrange.com) | - | - | Yes | - | - | [hyperstrange.com](https://hyperstrange.com) / [@hyperstrange](https://x.com/hyperstrange) | - |
 | [Hypetrain Digital](https://hypetraindigital.com) | Yes | - | Yes | - | Yes | [@HypeTrainD](https://x.com/HypeTrainD) / [publishing@hypetraindigital.com](mailto:publishing@hypetraindigital.com) | - |
@@ -920,7 +920,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | [Paradox Interactive](https://www.paradoxinteractive.com) | Yes | - | - | - | - | [support.paradoxplaza.com](https://support.paradoxplaza.com) / [@PdxInteractive](https://x.com/PdxInteractive) | - |
 | [Playtonic Friends](https://www.playtonic.games) | - | - | Yes | - | - | [@PlaytonicGames](https://x.com/PlaytonicGames) / [support@playtonic.games](mailto:support@playtonic.games) | - |
 | [Poncle](https://poncle.club) | Yes | - | - | - | - | [@PoncleGames](https://x.com/PoncleGames) / [contact@poncle.club](mailto:contact@poncle.club) | - |
-| [Prismatika](https://prismatika.games) | Yes | - | - | - | - | [@PrismatikaGames](https://x.com/PrismatikaGames) | - |
+| [Prismatika](https://prismatika.games) | - | Yes | - | - | - | [@PrismatikaGames](https://x.com/PrismatikaGames) | - |
 | [Private Division](https://www.privatedivision.com) | Yes | - | - | - | - | [@PrivateDivision](https://x.com/PrivateDivision) / [support@privatedivision.com](mailto:support@privatedivision.com) | - |
 | [Quantic Dream](https://quanticdream.com) | - | - | Yes | - | - | [support.quanticdream.com](https://support.quanticdream.com) / [quanticdream.com/contact](https://quanticdream.com/en/contact) / [@Quantic_Dream](https://x.com/Quantic_Dream) / [support@quanticdream.com](mailto:support@quanticdream.com) | - |
 | [QubicGames](https://qubicgames.com) | Yes | - | - | - | - | [@QubicGames](https://x.com/QubicGames) / [support@qubicgames.com](mailto:support@qubicgames.com) | - |
@@ -937,7 +937,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | [Ska Studios](https://skastudios.com) | - | - | Yes | - | - | [skastudios.com/contact](https://skastudios.com/contact) / [@skastudios](https://x.com/skastudios) / [james@ska-studios.com](mailto:james@ska-studios.com) | - |
 | [Skybound Games](https://skybound.com) | - | - | Yes | - | - | [help.skybound.com](https://help.skybound.com) / [skybound.com/contact](https://skybound.com/contact) / [@SkyboundGames](https://x.com/SkyboundGames) | - |
 | [Slitherine Ltd.](https://www.slitherine.com) | Yes | - | - | - | - | [@Slitherine](https://x.com/Slitherine) / [support@slitherine.co.uk](mailto:support@slitherine.co.uk) | - |
-| [Sloclap](https://www.sloclap.com) | Yes | - | - | - | - | [@sloclap](https://x.com/sloclap) / [press@sloclap.com](mailto:press@sloclap.com) | - |
+| [Sloclap](https://www.sloclap.com) | - | Yes | - | - | - | [@sloclap](https://x.com/sloclap) / [press@sloclap.com](mailto:press@sloclap.com) | - |
 | [Spiderling Studios](https://spiderlinggames.com) | - | - | Yes | - | - | [spiderlinggames.com](https://spiderlinggames.com) / [Contact](https://spiderlinggames.com/contact) | - |
 | [Squanch Games, Inc.](https://squanchgames.com) | Yes | - | - | - | - | [Contact](https://squanchgames.com/contact) | - |
 | [Starbreeze Publishing](https://www.starbreeze.com) | Yes | - | - | - | - | [@StarbreezeAB](https://x.com/StarbreezeAB) / [support@starbreeze.com](mailto:support@starbreeze.com) | - |
