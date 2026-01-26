@@ -67,11 +67,6 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 
 | Game | Expiration | Bundle | Exhausted | Restocked Before Expiration | Expiration Added Post-Purchase (Retroactive) | Platform | Publisher | Notes |
 |---|---|---|---|---|---|---|---|---|
-| Tchia | 2026-01-05 | June 2025 Humble Choice | - | - | - | Steam | [Kepler Interactive](https://kepler-interactive.com) | - |
-| Bomb Rush Cyberfunk | 2026-01-06 | December 2024 Humble Choice | Previously | Yes | - | Steam | [Team Reptile](https://team-reptile.com) | - |
-| Crime Boss: Rockay City - First Month Edition | 2026-01-06 | December 2024 Humble Choice | - | - | - | Steam | [505 Games](https://505games.com) | - |
-| The Invincible | 2026-01-06 | December 2024 Humble Choice | - | - | - | Steam | [11 bit studios](https://11bitstudios.com) | - |
-| Moonstone Island | 2026-01-06 | December 2024 Humble Choice | Switched DRM | - | - | GOG (was Steam) | [Raw Fury](https://rawfury.com) | - |
 | Beneath Oresa | 2026-02-01 | January 2025 Humble Choice | - | - | - | Steam | [Goblinz Publishing](https://goblinzstudio.com) | - |
 | Dordogne | 2026-02-01 | January 2025 Humble Choice | Yes | - | - | Steam | [Focus Entertainment](https://www.focus-entmt.com) | - |
 | Al-Qadim: The Genie's Curse | 2026-02-07 | Dungeons & Dragons: Classics Collection | - | - | - | Steam | [SNEG](https://www.snegdev.io) | - |
@@ -601,9 +596,14 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Sudden Strike 4 | 2027-01-16 | Kalypso Strategy and Tactics Pack 2025 | - | - | - | Steam | [Kalypso Media](https://www.kalypsomedia.com) | - |
 | Sudden Strike Gold | 2027-01-16 | Kalypso Strategy and Tactics Pack 2025 | - | - | - | Steam | [Kalypso Media](https://www.kalypsomedia.com) | - |
 | Kao the Kangaroo | 2027-02-04 | Masterful Modern 3D Platformers | - | - | Yes | Steam | [Tate Multimedia](https://www.tatemultimedia.com) | - |
-| Pogostuck: Rage With Your Friends | 2027-02-04 | Springtide Indies Bundle | - | - | Yes | Steam | [Superku](https://www.pogostuck.com) | - |
+| Pogostuck: Rage With Your Friends | 2027-02-04 | Adventures in the 2nd Dimension: Positively Playful Platformers | - | - | Yes | Steam | [Superku](https://www.pogostuck.com) | - |
 | Disjunction | 2031-05-25 | June 2021 Humble Choice | - | - | - | GOG | [Fireshine Games](https://www.fireshinegames.co.uk) | - |
 | Encodya | 2031-07-28 | August 2021 Humble Choice | - | - | - | GOG | [Assemble Entertainment](https://assemble-entertainment.com) | - |
+| ~~Tchia~~ | ~~2026-01-05~~ | ~~June 2025 Humble Choice~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~Steam~~ | ~~[Kepler Interactive](https://kepler-interactive.com)~~ | ~~-~~ |
+| ~~Bomb Rush Cyberfunk~~ | ~~2026-01-06~~ | ~~December 2024 Humble Choice~~ | ~~Permanent~~ | ~~No~~ | ~~-~~ | ~~Steam~~ | ~~[Team Reptile](https://team-reptile.com)~~ | ~~The keys were restocked, but later became exhausted again and were never restocked before the expiration date~~ |
+| ~~Crime Boss: Rockay City - First Month Edition~~ | ~~2026-01-06~~ | ~~December 2024 Humble Choice~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~Steam~~ | ~~[505 Games](https://505games.com)~~ | ~~-~~ |
+| ~~The Invincible~~ | ~~2026-01-06~~ | ~~December 2024 Humble Choice~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~Steam~~ | ~~[11 bit studios](https://11bitstudios.com)~~ | ~~-~~ |
+| ~~Moonstone Island~~ | ~~2026-01-06~~ | ~~December 2024 Humble Choice~~ | ~~Switched DRM~~ | ~~-~~ | ~~-~~ | ~~GOG (was Steam)~~ | ~~[Raw Fury](https://rawfury.com)~~ | ~~-~~ |
 | ~~Dredge~~ | ~~2025-12-31~~ | ~~April 2025 Humble Choice~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~Steam~~ | ~~[Team17](https://www.team17.com)~~ | ~~-~~ |
 | ~~Death Stranding Director's Cut~~ | ~~2025-12-31~~ | ~~April 2023 Humble Choice~~ | ~~Switched DRM~~ | ~~-~~ | ~~Yes~~ | ~~Epic (was Steam)~~ | ~~[505 Games](https://505games.com)~~ | ~~-~~ |
 | ~~Ultros~~ | ~~2025-12-02~~ | ~~May 2025 Humble Choice~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~Steam~~ | ~~[Kepler Interactive](https://kepler-interactive.com)~~ | ~~-~~ |
