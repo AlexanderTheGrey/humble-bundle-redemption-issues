@@ -268,6 +268,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Neo Cab | 2026-07-01 | July 2025 Humble Choice | - | - | - | Steam | [Fellow Traveller](https://www.fellowtraveller.games) | - |
 | Everafter Falls | 2026-07-01 | July 2025 Humble Choice | - | - | - | Steam | [Akupara Games](https://www.akuparagames.com) | - |
 | Blanc | 2026-07-01 | July 2025 Humble Choice | - | - | - | Steam | [Gearbox Publishing](https://www.gearboxpublishing.com) | - |
+| Trepang2 | 2026-07-21 | Team17: From Golf Greens to Battle Scenes | - | - | Yes | Steam | [Team17](https://www.team17.com) | - |
 | Cat Quest III | 2026-09-01 | July 2025 Humble Choice | - | - | - | Steam | [Kepler Interactive](https://kepler-interactive.com) | - |
 | Persona 5 Royal | 2026-09-02 | August 2025 Humble Choice | - | - | - | Steam | [SEGA](https://www.sega.com) | - |
 | Banishers: Ghosts of New Eden | 2026-09-02 | August 2025 Humble Choice | - | - | - | Steam | [Focus Entertainment](https://www.focus-entmt.com) | - |
@@ -290,6 +291,8 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Cassette Beasts | 2026-10-08 | Critter Chaos Bundle | - | - | - | Steam | [Raw Fury](https://rawfury.com) | - |
 | Meg's Monster | 2026-10-08 | Critter Chaos Bundle | - | - | - | Steam | [Odencat](https://www.odencat.com) | - |
 | Fruitbus | 2026-10-08 | Critter Chaos Bundle | - | - | - | Steam | [Krillbite Studio](https://www.krillbite.com) | No expiration listed on keys page, but bundle purchase page said all keys expire |
+| Coromon | 2026-10-08 | indie.io Super Bundle | - | - | Yes | Steam | [indie.io](https://www.indie.io) | - |
+| Coromon | 2026-10-08 | Take Your Turn: Tactics & RPGs | - | - | Yes | Steam | [indie.io](https://www.indie.io) | - |
 | Above Snakes | 2026-10-15 | The Creative Sandbox | - | - | - | Steam | [Crytivo](https://www.crytivo.com) | - |
 | Breathedge | 2026-10-15 | Survive or Die | - | - | Yes | Steam | [Hypetrain Digital](https://hypetraindigital.com) | - |
 | Breathedge | 2026-10-15 | Spaced Out | - | - | Yes | Steam | [Hypetrain Digital](https://hypetraindigital.com) | - |
@@ -424,6 +427,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Murders on the Yangtze River | 2026-12-11 | Case & Consequence Collection Encore | - | - | - | Steam | [OMEGAMES STUDIO](https://store.steampowered.com/publisher/OMEGAMESSTUDIO) | - |
 | Sherlock Holmes: Crimes and Punishments | 2026-12-11 | Case & Consequence Collection Encore | - | - | - | Steam | [Frogwares](https://frogwares.com) | - |
 | Song of Farca | 2026-12-11 | Case & Consequence Collection Encore | - | - | - | Steam | [Alawar](https://alawar.com) | - |
+| Thief of Thieves | 2026-12-13 | Black Friday Score: The Walking Dead & More from Skybound | - | - | Yes | Steam | [Skybound Games](https://www.skybound.com) | - |
 | Beyond: Two Souls | 2026-12-13 | Humble Heroines: Rebels, Curses, and Mystery | - | - | Yes | Steam | [Quantic Dream](https://www.quanticdream.com) | - |
 | Darksiders III | 2026-12-13 | Humble Heroines: Rebels, Curses, and Mystery | - | - | Yes | Steam | [THQ Nordic](https://www.thqnordic.com) | - |
 | Kill The Crows | 2026-12-13 | Humble Heroines: Rebels, Curses, and Mystery | - | - | Yes | Steam | [5minlab](https://www.5minlab.com) | - |
@@ -568,6 +572,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Adventure Time: Pirates of the Enchiridion | 2027-01-09 | Outright Heroes of Film & Television | - | - | Yes | Steam | [Outright Games](https://outrightgames.com) | - |
 | Ben 10: Power Trip | 2027-01-09 | Outright Heroes of Film & Television | - | - | Yes | Steam | [Outright Games](https://outrightgames.com) | - |
 | Ben 10: Power Trip | 2027-01-09 | Shared Screen Time: Family Game Night | - | - | Yes | Steam | [Outright Games](https://outrightgames.com) | - |
+| ULTRAKILL | 2027-01-14 | Back with a Vengeance: The Best of Boomer Shooters | - | - | Yes | Steam | [New Blood Interactive](https://newblood.games) | - |
 | Commandos 2 - HD Remaster | 2027-01-16 | Kalypso Strategy and Tactics Pack 2025 | - | - | - | Steam | [Kalypso Media](https://www.kalypsomedia.com) | - |
 | Commandos 3 - HD Remaster | 2027-01-16 | Kalypso Strategy and Tactics Pack 2025 | - | - | - | Steam | [Kalypso Media](https://www.kalypsomedia.com) | - |
 | Commandos: Behind Enemy Lines | 2027-01-16 | Kalypso Strategy and Tactics Pack 2025 | - | - | - | Steam | [Kalypso Media](https://www.kalypsomedia.com) | - |
@@ -595,8 +600,21 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Sudden Strike 3 | 2027-01-16 | Kalypso Strategy and Tactics Pack 2025 | - | - | - | Steam | [Kalypso Media](https://www.kalypsomedia.com) | - |
 | Sudden Strike 4 | 2027-01-16 | Kalypso Strategy and Tactics Pack 2025 | - | - | - | Steam | [Kalypso Media](https://www.kalypsomedia.com) | - |
 | Sudden Strike Gold | 2027-01-16 | Kalypso Strategy and Tactics Pack 2025 | - | - | - | Steam | [Kalypso Media](https://www.kalypsomedia.com) | - |
+| Maneater | 2027-01-21 | Controller'd Chaos | - | - | Yes | Steam | [Tripwire Interactive](https://www.tripwireinteractive.com) | - |
+| Vampire Survivors | 2027-01-28 | 9 Circles of Bullet Hell: A Survivors Bundle | - | - | Yes | Steam | [poncle](https://poncle.games) | - |
+| Backpack Hero | 2027-01-28 | Deckbuilder Bonanza | - | - | Yes | Steam | [Pretty Soon](https://prettysoon.games) | - |
+| Bullet Girls Phantasia | 2027-01-30 | Slice, Dice, & Everything Nice: D3 After Dark | - | - | Yes | Steam | [D3PUBLISHER](https://www.d3p.co.jp) | - |
+| ED-0: Zombie Uprising | 2027-01-30 | Slice, Dice, & Everything Nice: D3 After Dark | - | - | Yes | Steam | [D3PUBLISHER](https://www.d3p.co.jp) | - |
+| MAGLAM LORD | 2027-01-30 | Slice, Dice, & Everything Nice: D3 After Dark | - | - | Yes | Steam | [D3PUBLISHER](https://www.d3p.co.jp) | - |
+| Omega Labyrinth Life | 2027-01-30 | Slice, Dice, & Everything Nice: D3 After Dark | - | - | Yes | Steam | [D3PUBLISHER](https://www.d3p.co.jp) | - |
+| Onechanbara Z2: Chaos | 2027-01-30 | Slice, Dice, & Everything Nice: D3 After Dark | - | - | Yes | Steam | [D3PUBLISHER](https://www.d3p.co.jp) | - |
+| Onee Chanbara ORIGIN | 2027-01-30 | Slice, Dice, & Everything Nice: D3 After Dark | - | - | Yes | Steam | [D3PUBLISHER](https://www.d3p.co.jp) | - |
+| SAMURAI MAIDEN | 2027-01-30 | Slice, Dice, & Everything Nice: D3 After Dark | - | - | Yes | Steam | [D3PUBLISHER](https://www.d3p.co.jp) | - |
+| SG/ZH: School Girl/Zombie Hunter | 2027-01-30 | Slice, Dice, & Everything Nice: D3 After Dark | - | - | Yes | Steam | [D3PUBLISHER](https://www.d3p.co.jp) | - |
 | Kao the Kangaroo | 2027-02-04 | Masterful Modern 3D Platformers | - | - | Yes | Steam | [Tate Multimedia](https://www.tatemultimedia.com) | - |
 | Pogostuck: Rage With Your Friends | 2027-02-04 | Adventures in the 2nd Dimension: Positively Playful Platformers | - | - | Yes | Steam | [Superku](https://www.pogostuck.com) | - |
+| Blazing Sails | 2027-02-06 | Madcap Multiplayer Missions | - | - | Yes | Steam | [Iceberg Interactive](https://www.iceberg-games.com) | - |
+| Blazing Sails | 2027-02-06 | Summer Splash | - | - | Yes | Steam | [Iceberg Interactive](https://www.iceberg-games.com) | - |
 | Disjunction | 2031-05-25 | June 2021 Humble Choice | - | - | - | GOG | [Fireshine Games](https://www.fireshinegames.co.uk) | - |
 | Encodya | 2031-07-28 | August 2021 Humble Choice | - | - | - | GOG | [Assemble Entertainment](https://assemble-entertainment.com) | - |
 | ~~Tchia~~ | ~~2026-01-05~~ | ~~June 2025 Humble Choice~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~Steam~~ | ~~[Kepler Interactive](https://kepler-interactive.com)~~ | ~~-~~ |
@@ -868,7 +886,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | [Cranky Watermelon](https://crankywatermelon.com) | Yes | - | - | - | - | [@CrankyWatermel0](https://x.com/CrankyWatermel0) / [support@crankywatermelon.com](mailto:support@crankywatermelon.com) | - |
 | [Crytek](https://www.crytek.com) | - | Yes | - | - | - | [@Crytek](https://x.com/Crytek) / [info@crytek.com](mailto:info@crytek.com) | - |
 | [Curve Games](https://www.curvegames.com) | Yes | Yes | Yes | - | - | [@curvegames](https://x.com/curvegames) / [support@curvegames.com](mailto:support@curvegames.com) | - |
-| [D3 Publisher](https://www.d3p.co.jp) | - | Yes | - | - | - | [Contact via website](https://www.d3p.co.jp/edf6/en) / [@D3Publisher](https://x.com/D3Publisher) | - |
+| [D3 Publisher](https://www.d3p.co.jp) | - | Yes | Yes | - | - | [Contact via website](https://www.d3p.co.jp/edf6/en) / [@D3Publisher](https://x.com/D3Publisher) | - |
 | [Daedalic Entertainment](https://www.daedalic.com) | - | Yes | Yes | - | - | [daedalicsupport.com](https://www.daedalicsupport.com) / [Discord](https://discord.gg/daedalic) / [@daedalic](https://x.com/daedalic) | - |
 | [DANGEN Entertainment](https://dangenentertainment.com) | - | - | Yes | - | - | [dangenentertainment.com](https://dangenentertainment.com) / [Discord](https://discord.gg/dangen) / [@Dangen_Ent](https://x.com/Dangen_Ent) / [support@dangenentertainment.com](mailto:support@dangenentertainment.com) | - |
 | [Dapper Dog Digital](https://biogungame.com) | - | - | Yes | - | - | [biogungame.com/contact](https://biogungame.com/contact) / [@DapperDogDigi](https://x.com/DapperDogDigi) | - |
@@ -905,7 +923,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | [Hypetrain Digital](https://hypetraindigital.com) | Yes | - | Yes | - | Yes | [@HypeTrainD](https://x.com/HypeTrainD) / [publishing@hypetraindigital.com](mailto:publishing@hypetraindigital.com) | - |
 | [Iceberg Interactive](https://www.iceberg-games.com) | - | - | Yes | - | - | [@Iceberg_Games](https://x.com/Iceberg_Games) / [support@iceberg-games.com](mailto:support@iceberg-games.com) | - |
 | [ILIKESCIFI Games](https://www.ilikescifi.com) | Yes | - | - | - | - | [ilikescifi.com/contact.html](https://www.ilikescifi.com/contact.html) / [@IlikescifiGames](https://x.com/IlikescifiGames) / [contact@ilikescifi.com](mailto:contact@ilikescifi.com) | - |
-| [indie.io](https://indie.io) | Yes | - | - | - | - | [Support](https://support.indie.io/hc/en-us) / [support@indie.io](mailto:support@indie.io) | - |
+| [indie.io](https://indie.io) | Yes | - | Yes | - | - | [Support](https://support.indie.io/hc/en-us) / [support@indie.io](mailto:support@indie.io) | - |
 | [Kepler Interactive](https://kepler-interactive.com) | Yes | - | - | Yes | - | [@Kepler_Interact](https://x.com/Kepler_Interact) / [pr@kepler-interactive.com](mailto:pr@kepler-interactive.com) | Have given replacement keys in the past |
 | [Krafton](https://www.krafton.com) | Yes | - | - | - | - | [@Krafton_inc](https://x.com/Krafton_inc) / [info@krafton.com](mailto:info@krafton.com) | - |
 | [Landfall](https://landfall.se) | - | - | Yes | - | - | [landfall.se/contact](https://landfall.se/contact) / [@LandfallGames](https://x.com/LandfallGames) / [contact@landfall.se](mailto:contact@landfall.se) | - |
@@ -918,6 +936,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | [Modularity](https://modularity.studio) | Yes | - | - | - | - | [@ModularitySTD](https://x.com/ModularitySTD) / [support@modularity.studio](mailto:support@modularity.studio) | - |
 | [Modus Games](https://modusgames.com) | Yes | - | - | - | - | [@Modus_Games](https://x.com/Modus_Games) / [support@modusgames.com](mailto:support@modusgames.com) | - |
 | [Nacon](https://www.nacongaming.com/en-US) | Yes | - | Yes | - | - | [@NACON](https://x.com/NACON) / [assistance.nacon@games.fr](mailto:assistance.nacon@games.fr) | - |
+| [New Blood Interactive](https://newblood.games) | - | - | Yes | - | - | [Contact](https://newblood.games) | - |
 | [No More Robots](https://nomorerobots.io) | Yes | - | - | - | Yes | [@NoMoreRobots](https://x.com/NoMoreRobots) / [info@nomorerobots.io](mailto:info@nomorerobots.io) | - |
 | [Noctiluca Studio](https://store.steampowered.com/search/?publisher=Noctiluca+Studio) | Yes | - | - | - | - | [Discord](https://discord.gg/Uf8EpWsFts) / [@remnant_records](https://x.com/remnant_records?lang=en) | - |
 | [Nomad Games](https://www.nomadgames.co.uk) | - | Yes | - | - | - | [@NomadGames](https://x.com/NomadGames) / [support@nomadgames.co.uk](mailto:support@nomadgames.co.uk) | - |
@@ -928,7 +947,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | [Overseer Games](https://www.overseergames.com) | Yes | - | - | - | - | [@OverseerGames](https://x.com/OverseerGames) / [support@overseergames.com](mailto:support@overseergames.com) | - |
 | [Paradox Interactive](https://www.paradoxinteractive.com) | Yes | - | - | - | - | [support.paradoxplaza.com](https://support.paradoxplaza.com) / [@PdxInteractive](https://x.com/PdxInteractive) | - |
 | [Playtonic Friends](https://www.playtonic.games) | - | - | Yes | - | - | [@PlaytonicGames](https://x.com/PlaytonicGames) / [support@playtonic.games](mailto:support@playtonic.games) | - |
-| [Poncle](https://poncle.club) | Yes | - | - | - | - | [@PoncleGames](https://x.com/PoncleGames) / [contact@poncle.club](mailto:contact@poncle.club) | - |
+| [Poncle](https://poncle.club) | Yes | - | Yes | - | - | [@PoncleGames](https://x.com/PoncleGames) / [contact@poncle.club](mailto:contact@poncle.club) | - |
 | [Prismatika](https://prismatika.games) | - | Yes | - | - | - | [@PrismatikaGames](https://x.com/PrismatikaGames) | - |
 | [Private Division](https://www.privatedivision.com) | Yes | - | - | - | - | [@PrivateDivision](https://x.com/PrivateDivision) / [support@privatedivision.com](mailto:support@privatedivision.com) | - |
 | [Quantic Dream](https://quanticdream.com) | - | - | Yes | - | - | [support.quanticdream.com](https://support.quanticdream.com) / [quanticdream.com/contact](https://quanticdream.com/en/contact) / [@Quantic_Dream](https://x.com/Quantic_Dream) / [support@quanticdream.com](mailto:support@quanticdream.com) | - |
@@ -967,7 +986,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | [Toplitz Productions](https://www.toplitz-productions.com) | Yes | - | Yes | - | - | [@Toplitz_Prod](https://x.com/Toplitz_Prod) / [support@toplitz-productions.com](mailto:support@toplitz-productions.com) | - |
 | [Total Mayhem Games](https://totalmayhemgames.com) | Yes | - | - | - | - | [Support](https://totalmayhemgames.zendesk.com) / [Contact](https://totalmayhemgames.com/contact) | - |
 | [Triband](https://triband.net) | - | - | Yes | - | - | [triband.net](https://triband.net) / [hello@triband.net](mailto:hello@triband.net) | - |
-| [Tripwire Interactive](https://www.tripwireinteractive.com) | Yes | - | - | - | - | [@TripwireInt](https://x.com/TripwireInt) / [support@tripwireinteractive.com](mailto:support@tripwireinteractive.com) | - |
+| [Tripwire Interactive](https://www.tripwireinteractive.com) | Yes | - | Yes | - | - | [@TripwireInt](https://x.com/TripwireInt) / [support@tripwireinteractive.com](mailto:support@tripwireinteractive.com) | - |
 | [Twin Sails Interactive](https://twinsails.com) | Yes | - | - | - | - | [@TwinSails](https://x.com/TwinSails) / [support@twinsails.com](mailto:support@twinsails.com) | - |
 | [Versus Evil](https://www.versusevil.com) | Yes | - | Yes | - | - | [@VersusEvil](https://x.com/VersusEvil) / [support@versusevil.com](mailto:support@versusevil.com) | - |
 | [Wales Interactive](https://www.walesinteractive.com) | - | Yes | - | - | - | [@WalesInter](https://x.com/WalesInter) / [info@walesinteractive.com](mailto:info@walesinteractive.com) | - |
