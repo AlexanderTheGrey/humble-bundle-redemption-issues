@@ -657,7 +657,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Atlas Fallen: Reign of Sand | 2025-12-18 | - | - | December 2024 Humble Choice | Steam | [Focus Entertainment](https://www.focus-entmt.com/en) | - |
 | Bomb Rush Cyberfunk | 2025-10-28 | - | - | December 2024 Humble Choice | Steam | [Team Reptile](https://team-reptile.com) | - |
 | Old World | 2026-01-15 | - | - | December 2024 Humble Choice | Steam | [Hooded Horse](https://hoodedhorse.com) | - |
-| Inkulinati | - | - | - | December 2024 Humble Choice | Steam | [Daedalic Entertainment](https://daedalic.com) | - |
+| Inkulinati | 2026-01-23 | - | - | December 2024 Humble Choice | Steam | [Daedalic Entertainment](https://daedalic.com) | - |
 | Monster Prom 3: Monster Roadtrip | 2026-01-16 | - | - | December 2024 Humble Choice | Steam | [Beautiful Glitch](https://beautifulglitch.pizza) | - |
 | Moonstone Island | - | Switched DRM | 2026-01-06 | December 2024 Humble Choice | Steam | [Raw Fury](https://rawfury.com) | - |
 | The Bookwalker: Thief of Tales | 2025-10-22 | - | - | November 2024 Humble Choice | Steam | [tinyBuild](https://www.tinybuild.com) | - |
@@ -683,7 +683,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Diluvian Ultra | - | Switched DRM | - | August 2024 Humble Choice | Steam | [Fulqrum Publishing](https://fulqrumpublishing.com) | - |
 | Gotham Knights | 2025-10-17 | - | 2026-02-27 | August 2024 Humble Choice | Steam | [WB Games](https://www.wbgames.com) | - |
 | High On Life | - | - | - | August 2024 Humble Choice | Steam | [Squanch Games, Inc.](https://squanchgames.com) | - |
-| Sifu | - | - | - | August 2024 Humble Choice | Steam | [Sloclap](https://www.sloclap.com) | - |
+| Sifu | 2026-01-23 | - | - | August 2024 Humble Choice | Steam | [Sloclap](https://www.sloclap.com) | - |
 | This Means Warp | - | - | - | August 2024 Humble Choice | Steam | [Outlier Games](https://outlier.games) | - |
 | Universe For Sale | - | Switched DRM | 2025-10-16 | August 2024 Humble Choice | Steam | [Akupara Games](https://akuparagames.com) | - |
 | Ghostrunner 2 | 2025-12-09 | - | - | July 2024 Humble Choice | Steam | [505 Games](https://505games.com) | - |
