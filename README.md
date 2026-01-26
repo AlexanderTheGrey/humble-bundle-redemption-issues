@@ -781,14 +781,18 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | God's Trigger | - | - | - | September 2019 Humble Monthly | Steam | [Techland](https://www.techland.pl) | - |
 | Rising Storm 2: Vietnam + 2 DLCs | - | - | - | August 2019 Humble Monthly | Steam | [Tripwire Interactive](https://www.tripwireinteractive.com) | - |
 | GOD EATER 2 Rage Burst | 2025-10-17 | - | - | April 2018 Humble Monthly | Steam | [BANDAI NAMCO Entertainment](https://www.bandainamcoent.com) | - |
+| Cursed Castilla (Maldita Castilla EX) | - | - | - | January 2018 Humble Monthly | Steam | [Abylight Studios](https://abylightstudios.com) | - |
 | Killing Floor 2 | - | - | - | September 2017 Humble Monthly | Steam | [Tripwire Interactive](https://www.tripwireinteractive.com) | - |
 | Tiny Echo | 2025-10-24 | - | - | June 2017 Humble Monthly | Steam | [Might and Delight](https://mightanddelight.com) | - |
+| Company of Heroes 2 - The Western Front Armies: Oberkommando West | - | - | - | Humble Company of Heroes 10th Anniversary Bundle | Steam | [SEGA](https://www.sega.com) | - |
 | Company of Heroes 2 | - | - | - | December 2015 Humble Monthly | Steam | [SEGA](https://www.sega.com) | - |
 | Company of Heroes 2: The British Forces | - | - | - | December 2015 Humble Monthly | Steam | [SEGA](https://www.sega.com) | - |
 | Company of Heroes 2 - The Western Front Armies: US Forces | - | - | - | December 2015 Humble Monthly | Steam | [SEGA](https://www.sega.com) | - |
 | Company of Heroes 2 - The Western Front Armies: Oberkommando West | - | - | - | December 2015 Humble Monthly | Steam | [SEGA](https://www.sega.com) | - |
 | Company of Heroes | - | - | - | E3 2015 Digital Ticket | Steam | [SEGA](https://www.sega.com) | - |
 | Syder Arcade | - | - | - | Yogscast Jingle Jam 2016 | Steam | [Studio Evil](https://www.studioevil.net) | - |
+| Command HQ | - | - | - | Humble Weekly Bundle: Retroism | Steam | [MicroProse Software](https://www.microprose.com) | - |
+| F-117A Nighthawk Stealth Fighter 2.0 | - | - | - | Humble Weekly Bundle: Retroism | Steam | [MicroProse Software](https://www.microprose.com) | - |
 | F.E.A.R. 2: Project Origin | - | - | - | Humble WB Games Bundle | Steam | [WB Games](https://www.wbgames.com) | - |
 | Guardians of Middle-earth: Smaug's Treasure DLC | - | - | - | Humble WB Games Bundle | Steam | [WB Games](https://www.wbgames.com) | - |
 | Company of Heroes™ 2 - The Western Front Armies: OKW | - | - | - | Humble SEGA Bundle | Steam | [SEGA](https://www.sega.com) | - |
@@ -796,6 +800,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Middle-earth: Shadow of Mordor Game of the Year Edition | 2025-12-11 | - | - | Humble Very Positive Bundle 2 | Steam | [WB Games](https://www.wbgames.com) | - |
 | Middle-earth: Shadow of Mordor Game of the Year Edition | 2025-12-11 | - | - | Fantastic Journeys: Middle-earth and Beyond | Steam | [WB Games](https://www.wbgames.com) | - |
 | DeadCore | - | - | - | Humble BANDAI NAMCO Bundle | Steam | [BANDAI NAMCO Entertainment](https://www.bandainamcoent.com) | - |
+| Pitiri 1977 | - | - | - | Humble Weekly Sale: Multimedia Fusion 2 | Steam | [ILIKESCIFI Games](https://www.ilikescifi.com) | - |
 | Velocity 2X | - | - | - | Humble Sierra Bundle | Steam | [Sierra Entertainment](https://www.sierra.com) | - |
 | Savage Lands (Early Access) | - | - | - | Humble Survive This Bundle | Steam | [Signal Studios](https://www.signalstudios.net) | - |
 | Beat Hazard 3 | 2025-11-04 | - | - | Feel the Rhythm | Steam | [Cold Beam Games](https://coldbeamgames.com) | Good publisher; they restocked shortly after being notified of the issue |
@@ -804,6 +809,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Amberial Dreams | - | - | - | Play for Miracles with Twin Sails Interactive | Steam | [Twin Sails Interactive](https://twinsails.com) | - |
 | Talisman - The Nether Realm Expansion | 2025-10-17 | - | - | The Complete Talisman Collection | Steam | [Nomad Games](https://www.nomadgames.co.uk) | - |
 | Talisman Character - Pathfinder | 2025-11-21 | - | - | The Complete Talisman Collection | Steam | [Nomad Games](https://www.nomadgames.co.uk) | - |
+| Meadow - A Shelter Game | - | - | - | Humble Store | Steam | [Might and Delight](https://www.mightanddelight.com) | - |
 | Tabletop Simulator | - | - | - | Humble Store | Steam | [Berserk Games](https://www.berserk-games.com) | - |
 | Cuphead | - | - | - | Humble Store | Steam | [Studio MDHR](https://www.studiomdhr.com) | - |
 | Ryse: Son of Rome | 2025-10-27 | - | - | Humble Store | Steam | [Crytek](https://www.crytek.com) | - |
@@ -834,6 +840,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | [2K](https://2k.com) | Yes | - | Yes | - | - | [support.2k.com](https://support.2k.com) / [@2K](https://x.com/2K) | - |
 | [505 Games](https://505games.com) | Yes | - | Yes | - | Yes | [support.505games.com](https://support.505games.com) / [@505_Games](https://x.com/505_Games) | - |
 | [5minlab Corp.](https://5minlab.com) | - | - | Yes | - | - | [5minlab.com/contact](https://5minlab.com/en/contact_us) / [contact@5minlab.com](mailto:contact@5minlab.com) / [biz@5minlab.com](mailto:biz@5minlab.com) | - |
+| [Abylight Studios](https://abylightstudios.com) | Yes | - | - | - | - | [abylight.com/contact](https://abylight.com/contact) / [team@abylight.com](mailto:team@abylight.com) | - |
 | [Aether Studios](https://aetherstudios.com) | - | - | Yes | - | - | [Support](https://aetherstudios.com/supporting/i-found-a-bug-where-can-i-report-it-2) / [Discord](https://discord.com/invite/roa) / [@StudiosOfAether](https://x.com/StudiosOfAether) | - |
 | [AGM PLAYISM](https://playism.com) | - | Yes | - | - | - | [@playismEN](https://x.com/playismEN) / [support@playism.com](mailto:support@playism.com) | - |
 | [Akupara Games](https://www.akuparagames.com) | Yes | Yes | Yes | Yes | Yes | [@AkuparaGames](https://x.com/AkuparaGames) / [team@akuparagames.com](mailto:team@akuparagames.com) | - |
@@ -897,6 +904,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | [Hyperstrange](https://hyperstrange.com) | - | - | Yes | - | - | [hyperstrange.com](https://hyperstrange.com) / [@hyperstrange](https://x.com/hyperstrange) | - |
 | [Hypetrain Digital](https://hypetraindigital.com) | Yes | - | Yes | - | Yes | [@HypeTrainD](https://x.com/HypeTrainD) / [publishing@hypetraindigital.com](mailto:publishing@hypetraindigital.com) | - |
 | [Iceberg Interactive](https://www.iceberg-games.com) | - | - | Yes | - | - | [@Iceberg_Games](https://x.com/Iceberg_Games) / [support@iceberg-games.com](mailto:support@iceberg-games.com) | - |
+| [ILIKESCIFI Games](https://www.ilikescifi.com) | Yes | - | - | - | - | [ilikescifi.com/contact.html](https://www.ilikescifi.com/contact.html) / [@IlikescifiGames](https://x.com/IlikescifiGames) / [contact@ilikescifi.com](mailto:contact@ilikescifi.com) | - |
 | [indie.io](https://indie.io) | Yes | - | - | - | - | [Support](https://support.indie.io/hc/en-us) / [support@indie.io](mailto:support@indie.io) | - |
 | [Kepler Interactive](https://kepler-interactive.com) | Yes | - | - | Yes | - | [@Kepler_Interact](https://x.com/Kepler_Interact) / [pr@kepler-interactive.com](mailto:pr@kepler-interactive.com) | Have given replacement keys in the past |
 | [Krafton](https://www.krafton.com) | Yes | - | - | - | - | [@Krafton_inc](https://x.com/Krafton_inc) / [info@krafton.com](mailto:info@krafton.com) | - |
@@ -904,7 +912,8 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | [Maddy Makes Games](https://www.maddymakesgames.com) | - | - | Yes | - | - | [Contact](https://exok.com/contact.html) / [contact@exok.com](mailto:contact@exok.com) | - |
 | [Maple Whispering Limited](https://www.maplewhispering.com) | Yes | - | - | - | - | [@MapleWhispering](https://x.com/MapleWhispering) / [support@maplewhispering.com](mailto:support@maplewhispering.com) | - |
 | [Merge Games](https://mergegames.com) | Yes | - | - | - | - | [@MergeGames](https://x.com/MergeGames) / [support@mergegames.com](mailto:support@mergegames.com) | - |
-| [Might and Delight](https://mightanddelight.com) | - | Yes | - | - | - | [@MightandDelight](https://x.com/MightandDelight) / [support@mightanddelight.com](mailto:support@mightanddelight.com) | - |
+| [MicroProse Software](https://www.microprose.com) | Yes | - | - | - | - | [microprose.com/helpdesk](https://www.microprose.com/helpdesk) / [@micro_prose](https://x.com/micro_prose) / [contact@microprose.co.uk](mailto:contact@microprose.co.uk) | - |
+| [Might and Delight](https://mightanddelight.com) | Yes | Yes | - | - | - | [@MightandDelight](https://x.com/MightandDelight) / [support@mightanddelight.com](mailto:support@mightanddelight.com) | - |
 | [Mixtvision](https://mixtvision.de) | - | - | Yes | - | - | [mixtvision.de/kontakt](https://mixtvision.de/kontakt) / [info@mixtvision.de](mailto:info@mixtvision.de) | - |
 | [Modularity](https://modularity.studio) | Yes | - | - | - | - | [@ModularitySTD](https://x.com/ModularitySTD) / [support@modularity.studio](mailto:support@modularity.studio) | - |
 | [Modus Games](https://modusgames.com) | Yes | - | - | - | - | [@Modus_Games](https://x.com/Modus_Games) / [support@modusgames.com](mailto:support@modusgames.com) | - |
