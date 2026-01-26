@@ -269,6 +269,17 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Everafter Falls | 2026-07-01 | July 2025 Humble Choice | - | - | - | Steam | [Akupara Games](https://www.akuparagames.com) | - |
 | Blanc | 2026-07-01 | July 2025 Humble Choice | - | - | - | Steam | [Gearbox Publishing](https://www.gearboxpublishing.com) | - |
 | Trepang2 | 2026-07-21 | Team17: From Golf Greens to Battle Scenes | - | - | Yes | Steam | [Team17](https://www.team17.com) | - |
+| F.E.A.R. 2: Project Origin | 2026-07-23 | Awesome Games Done Quick 2026 | - | - | - | Steam | [Warner Bros. Interactive Entertainment](https://warnerbrosgames.com) | - |
+| Rise of the Triad: Ludicrous Edition | 2026-07-23 | Awesome Games Done Quick 2026 | - | - | - | Steam | [Apogee Entertainment](https://www.apogeeent.com) | - |
+| Metal Slug Tactics | 2026-08-03 | January 2026 Humble Choice | - | - | - | Steam | [Dotemu](https://dotemu.com) | - |
+| Nice Day for Fishing | 2026-08-03 | January 2026 Humble Choice | - | - | - | Steam | [Team17](https://team17.com) | - |
+| Settlement Survival | 2026-08-03 | January 2026 Humble Choice | - | - | - | Steam | [Team17](https://team17.com) | - |
+| Grapple Dogs: Cosmic Canines | 2026-08-04 | Playful Platformers 2026 | - | - | - | Steam | [Super Rare Originals](https://superraregames.com) | - |
+| RollerCoaster Tycoon 2: Triple Thrill Pack | 2026-08-13 | RollerCoaster Tycoon Collection 2026 | - | - | - | Steam | [Atari](https://atari.com) | - |
+| RollerCoaster Tycoon 3: Complete Edition | 2026-08-13 | RollerCoaster Tycoon Collection 2026 | - | - | - | Steam | [Atari](https://atari.com) | - |
+| RollerCoaster Tycoon Classic | 2026-08-13 | RollerCoaster Tycoon Collection 2026 | - | - | - | Steam | [Atari](https://atari.com) | - |
+| RollerCoaster Tycoon: Deluxe | 2026-08-13 | RollerCoaster Tycoon Collection 2026 | - | - | - | Steam | [Atari](https://atari.com) | - |
+| RollerCoaster Tycoon World | 2026-08-13 | RollerCoaster Tycoon Collection 2026 | - | - | - | Steam | [Atari](https://atari.com) | - |
 | Cat Quest III | 2026-09-01 | July 2025 Humble Choice | - | - | - | Steam | [Kepler Interactive](https://kepler-interactive.com) | - |
 | Persona 5 Royal | 2026-09-02 | August 2025 Humble Choice | - | - | - | Steam | [SEGA](https://www.sega.com) | - |
 | Banishers: Ghosts of New Eden | 2026-09-02 | August 2025 Humble Choice | - | - | - | Steam | [Focus Entertainment](https://www.focus-entmt.com) | - |
@@ -601,8 +612,40 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Sudden Strike 4 | 2027-01-16 | Kalypso Strategy and Tactics Pack 2025 | - | - | - | Steam | [Kalypso Media](https://www.kalypsomedia.com) | - |
 | Sudden Strike Gold | 2027-01-16 | Kalypso Strategy and Tactics Pack 2025 | - | - | - | Steam | [Kalypso Media](https://www.kalypsomedia.com) | - |
 | Maneater | 2027-01-21 | Controller'd Chaos | - | - | Yes | Steam | [Tripwire Interactive](https://www.tripwireinteractive.com) | - |
+| Dead Island 2 | 2027-01-21 | The Carnage Collection | - | - | - | Steam | [Deep Silver](https://deepsilver.com) | - |
+| Death in the Water 2 | 2027-01-21 | The Carnage Collection | - | - | - | Steam | [Lighthouse Games Studio](https://lighthousegamesstudio.com) | - |
+| Easy Red 2 | 2027-01-21 | The Carnage Collection | - | - | - | Steam | [Corvostudio](https://corvostudio.com) | - |
+| Hellboy Web of Wyrd | 2027-01-21 | The Carnage Collection | - | - | - | Steam | [Good Shepherd Entertainment](https://goodshepherd.games) | - |
+| Laika: Aged Through Blood | 2027-01-21 | The Carnage Collection | - | - | - | Steam | [Headup](https://headupgames.com) | - |
+| Maneater | 2027-01-21 | The Carnage Collection | - | - | - | Steam | [Tripwire Interactive](https://tripwireinteractive.com) | - |
+| Trepang2 | 2026-07-21 | The Carnage Collection | - | - | - | Steam | [Team17](https://team17.com) | - |
+| Warstride Challenges | 2027-01-21 | The Carnage Collection | - | - | - | Steam | [Focus Entertainment](https://focus-entmt.com) | - |
+| Bloons TD 6 | 2027-01-23 | Awesome Games Done Quick 2026 | - | - | - | Steam | [Ninja Kiwi](https://ninjakiwi.com) | - |
+| BPM: BULLETS PER MINUTE | 2027-01-23 | Awesome Games Done Quick 2026 | - | - | - | Steam | [Awe Interactive](https://www.aweinteractive.com) | - |
+| Jazzpunk: Director's Cut | 2027-01-23 | Awesome Games Done Quick 2026 | - | - | - | Steam | [Necrophone Games](https://necrophonegames.com) | - |
+| Mika and The Witch's Mountain | 2027-01-23 | Awesome Games Done Quick 2026 | - | - | - | Steam | [Chibig](https://chibig.com) | - |
+| Minit | 2027-01-23 | Awesome Games Done Quick 2026 | - | - | - | GOG | [Devolver Digital](https://www.devolverdigital.com) | - |
+| Nuclear Throne | 2027-01-23 | Awesome Games Done Quick 2026 | - | - | - | Steam | [Vlambeer](https://www.vlambeer.com) | - |
+| SEUM: Speedrunners from Hell | 2027-01-23 | Awesome Games Done Quick 2026 | - | - | - | Steam | [Pine Studio](https://pinestudio.com) | - |
+| Shovel Knight: King of Cards | 2027-01-23 | Awesome Games Done Quick 2026 | - | - | - | Steam | [Yacht Club Games](https://www.yachtclubgames.com) | - |
 | Vampire Survivors | 2027-01-28 | 9 Circles of Bullet Hell: A Survivors Bundle | - | - | Yes | Steam | [poncle](https://poncle.games) | - |
 | Backpack Hero | 2027-01-28 | Deckbuilder Bonanza | - | - | Yes | Steam | [Pretty Soon](https://prettysoon.games) | - |
+| Backpack Hero | 2027-01-28 | Decked Out Collection: Great on Handheld | - | - | - | Steam | [Pretty Soon](https://prettysoon.games) | - |
+| Creatures of Ava | 2027-01-28 | Decked Out Collection: Great on Handheld | - | - | - | Steam | [11 bit studios](https://11bitstudios.com) | - |
+| Deathbulge: Battle of the Bands | 2027-01-28 | Decked Out Collection: Great on Handheld | - | - | - | Steam | [Deathbulge](https://deathbulge.com) | - |
+| HASTE: Broken Worlds | 2027-01-28 | Decked Out Collection: Great on Handheld | - | - | - | Steam | [Landfall Publishing](https://landfall.se) | - |
+| Nidhogg 2 | 2027-01-28 | Decked Out Collection: Great on Handheld | - | - | - | Steam | [Messhof](https://messhof.com) | - |
+| ULTRAKILL | 2027-01-28 | Decked Out Collection: Great on Handheld | - | - | - | Steam | [New Blood Interactive](https://newblood.games) | - |
+| Vampire Survivors | 2027-01-28 | Decked Out Collection: Great on Handheld | - | - | - | Steam | [poncle](https://poncle.co) | - |
+| Bullet Girls Phantasia | 2027-01-30 | D3 Waifus 4U | - | - | - | Steam | [D3PUBLISHER](https://d3publisher.com) | - |
+| Ed-0: Zombie Uprising | 2027-01-30 | D3 Waifus 4U | - | - | - | Steam | [D3PUBLISHER](https://d3publisher.com) | - |
+| FULL METAL SCHOOLGIRL | 2027-01-30 | D3 Waifus 4U | - | - | - | Steam | [D3PUBLISHER](https://d3publisher.com) | - |
+| MAGLAM LORD | 2027-01-30 | D3 Waifus 4U | - | - | - | Steam | [D3PUBLISHER](https://d3publisher.com) | - |
+| Omega Labyrinth Life | 2027-01-30 | D3 Waifus 4U | - | - | - | Steam | [D3PUBLISHER](https://d3publisher.com) | - |
+| Onechanbara Z2: Chaos | 2027-01-30 | D3 Waifus 4U | - | - | - | Steam | [D3PUBLISHER](https://d3publisher.com) | - |
+| Onee Chanbara ORIGIN | 2027-01-30 | D3 Waifus 4U | - | - | - | Steam | [D3PUBLISHER](https://d3publisher.com) | - |
+| SAMURAI MAIDEN | 2027-01-30 | D3 Waifus 4U | - | - | - | Steam | [D3PUBLISHER](https://d3publisher.com) | - |
+| SG/ZH: School Girl/Zombie Hunter | 2027-01-30 | D3 Waifus 4U | - | - | - | Steam | [D3PUBLISHER](https://d3publisher.com) | - |
 | Bullet Girls Phantasia | 2027-01-30 | Slice, Dice, & Everything Nice: D3 After Dark | - | - | Yes | Steam | [D3PUBLISHER](https://www.d3p.co.jp) | - |
 | ED-0: Zombie Uprising | 2027-01-30 | Slice, Dice, & Everything Nice: D3 After Dark | - | - | Yes | Steam | [D3PUBLISHER](https://www.d3p.co.jp) | - |
 | MAGLAM LORD | 2027-01-30 | Slice, Dice, & Everything Nice: D3 After Dark | - | - | Yes | Steam | [D3PUBLISHER](https://www.d3p.co.jp) | - |
@@ -611,10 +654,59 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Onee Chanbara ORIGIN | 2027-01-30 | Slice, Dice, & Everything Nice: D3 After Dark | - | - | Yes | Steam | [D3PUBLISHER](https://www.d3p.co.jp) | - |
 | SAMURAI MAIDEN | 2027-01-30 | Slice, Dice, & Everything Nice: D3 After Dark | - | - | Yes | Steam | [D3PUBLISHER](https://www.d3p.co.jp) | - |
 | SG/ZH: School Girl/Zombie Hunter | 2027-01-30 | Slice, Dice, & Everything Nice: D3 After Dark | - | - | Yes | Steam | [D3PUBLISHER](https://www.d3p.co.jp) | - |
+| Hunt: Showdown 1896 - Fear The Reaper | 2027-02-03 | Hunt Showdown 1896: Choice Essential DLC Bundle | - | - | - | Steam | [Crytek](https://crytek.com) | - |
+| Hunt: Showdown 1896 - Last Gust | 2027-02-03 | Hunt Showdown 1896: Choice Essential DLC Bundle | - | - | - | Steam | [Crytek](https://crytek.com) | - |
+| Hunt: Showdown 1896 - Legends of the Bayou | 2027-02-03 | Hunt Showdown 1896: Choice Essential DLC Bundle | - | - | - | Steam | [Crytek](https://crytek.com) | - |
+| Hunt: Showdown 1896 - Llorona's Heir | 2027-02-03 | Hunt Showdown 1896: Choice Essential DLC Bundle | - | - | - | Steam | [Crytek](https://crytek.com) | - |
+| Hunt: Showdown 1896 - Lonely Howl | 2027-02-03 | Hunt Showdown 1896: Choice Essential DLC Bundle | - | - | - | Steam | [Crytek](https://crytek.com) | - |
+| Hunt: Showdown 1896 - Louisiana Legacy | 2027-02-03 | Hunt Showdown 1896: Choice Essential DLC Bundle | - | - | - | Steam | [Crytek](https://crytek.com) | - |
+| Hunt: Showdown 1896 - The Concubine | 2027-02-03 | Hunt Showdown 1896: Choice Essential DLC Bundle | - | - | - | Steam | [Crytek](https://crytek.com) | - |
+| Hunt: Showdown 1896 - The Last Laugh | 2027-02-03 | Hunt Showdown 1896: Choice Essential DLC Bundle | - | - | - | Steam | [Crytek](https://crytek.com) | - |
+| Hunt: Showdown 1896 - The Rat | 2027-02-03 | Hunt Showdown 1896: Choice Essential DLC Bundle | - | - | - | Steam | [Crytek](https://crytek.com) | - |
+| Hunt: Showdown 1896 - When Shadows Dance | 2027-02-03 | Hunt Showdown 1896: Choice Essential DLC Bundle | - | - | - | Steam | [Crytek](https://crytek.com) | - |
+| Etrian Odyssey II HD | 2027-02-03 | January 2026 Humble Choice | - | - | - | Steam | [SEGA](https://sega.com) | - |
+| Hunt: Showdown 1896 | 2027-02-03 | January 2026 Humble Choice | - | - | - | Steam | [Crytek](https://crytek.com) | - |
+| One Month of IGN Plus | 2027-02-03 | January 2026 Humble Choice | - | - | - | IGN | [IGN](https://ign.com) | - |
+| Sonic Frontiers | 2027-02-03 | January 2026 Humble Choice | - | - | - | Steam | [SEGA](https://sega.com) | - |
+| Tomb Raider IV-VI Remastered | 2027-02-03 | January 2026 Humble Choice | - | - | - | Steam | [Aspyr](https://aspyr.com) | - |
+| Wizard of Legend 2 | 2027-02-03 | January 2026 Humble Choice | - | - | - | Steam | [Humble Games](https://humblegames.com) | - |
 | Kao the Kangaroo | 2027-02-04 | Masterful Modern 3D Platformers | - | - | Yes | Steam | [Tate Multimedia](https://www.tatemultimedia.com) | - |
 | Pogostuck: Rage With Your Friends | 2027-02-04 | Adventures in the 2nd Dimension: Positively Playful Platformers | - | - | Yes | Steam | [Superku](https://www.pogostuck.com) | - |
+| Crumble | 2027-02-04 | Playful Platformers 2026 | - | - | - | Steam | [Curve Games](https://curvegames.com) | - |
+| Demon Turf: Queens Edition | 2027-02-04 | Playful Platformers 2026 | - | - | - | Steam | [Playtonic Friends](https://playtonicfriends.com) | - |
+| Kao the Kangaroo | 2027-02-04 | Playful Platformers 2026 | - | - | - | Steam | [Tate Multimedia](https://tatemultimedia.com) | - |
+| Lunistice | 2027-02-04 | Playful Platformers 2026 | - | - | - | Steam | [A Grumpy Fox](https://agrumpyfox.com) | - |
+| Move or Die | 2027-02-04 | Playful Platformers 2026 | - | - | - | Steam | [Those Awesome Guys](https://thoseawesomeguys.com) | - |
+| PEPPERED: an existential platformer | 2027-02-04 | Playful Platformers 2026 | - | - | - | Steam | [Mostly Games](https://mostly.games) | - |
+| Pogostuck: Rage With Your Friends | 2027-02-04 | Playful Platformers 2026 | - | - | - | Steam | [Hendrik Felix Pohl](https://hendrikpohl.com) | - |
+| Super Kiwi 64 | 2027-02-04 | Playful Platformers 2026 | - | - | - | Steam | [Siactro](https://siactro.com) | - |
+| A Sky Full of Stars | 2027-02-04 | Vibrant Visual Novels | - | - | - | Steam | [MoeNovel](https://moenovel.com) | - |
+| eden* | 2027-02-04 | Vibrant Visual Novels | - | - | - | Steam | [MangaGamer](https://mangagamer.com) | - |
+| Endless Monday: Dreams and Deadlines | 2027-02-04 | Vibrant Visual Novels | - | - | - | Steam | [h.a.n.d.](https://hand.co.jp) | - |
+| Gal*Gun Returns | 2027-02-04 | Vibrant Visual Novels | - | - | - | Steam | [PQube](https://pqube.co.uk) | - |
+| Go! Go! Nippon! Complete Collection | 2027-02-04 | Vibrant Visual Novels | - | - | - | Steam | [MangaGamer](https://mangagamer.com) | - |
+| If My Heart Had Wings | 2027-02-04 | Vibrant Visual Novels | - | - | - | Steam | [MoeNovel](https://moenovel.com) | - |
+| If My Heart Had Wings -Flight Diary | 2027-02-04 | Vibrant Visual Novels | - | - | - | Steam | [MoeNovel](https://moenovel.com) | - |
+| If My Heart Had Wings -Flight Diary- - New Wings: Akari | 2027-02-04 | Vibrant Visual Novels | - | - | - | Steam | [MoeNovel](https://moenovel.com) | - |
+| NEEDY STREAMER OVERLOAD | 2027-02-04 | Vibrant Visual Novels | - | - | - | Steam | [WSS playground](https://whysoserious.jp) | - |
+| Sucker for Love: Date to Die For | 2027-02-04 | Vibrant Visual Novels | - | - | - | Steam | [DreadXP](https://dreadxp.com) | - |
+| The Expression Amrilato | 2027-02-04 | Vibrant Visual Novels | - | - | - | Steam | [MangaGamer](https://mangagamer.com) | - |
+| Blazing Sails | 2027-02-06 | The Iceberg Hidden Gems Bundle | - | - | - | Steam | [Iceberg Interactive](https://iceberg-games.com) | - |
+| CLeM | 2027-02-06 | The Iceberg Hidden Gems Bundle | - | - | - | Steam | [Iceberg Interactive](https://iceberg-games.com) | - |
+| DOOMBLADE | 2027-02-06 | The Iceberg Hidden Gems Bundle | - | - | - | Steam | [Iceberg Interactive](https://iceberg-games.com) | - |
+| Hellbreach: Vegas | 2027-02-06 | The Iceberg Hidden Gems Bundle | - | - | - | Steam | [Iceberg Interactive](https://iceberg-games.com) | - |
+| King of Retail | 2027-02-06 | The Iceberg Hidden Gems Bundle | - | - | - | Steam | [Iceberg Interactive](https://iceberg-games.com) | - |
+| Lunacy: Saint Rhodes | 2027-02-06 | The Iceberg Hidden Gems Bundle | - | - | - | Steam | [Iceberg Interactive](https://iceberg-games.com) | - |
+| Mahokenshi - The Samurai Deckbuilder | 2027-02-06 | The Iceberg Hidden Gems Bundle | - | - | - | Steam | [Iceberg Interactive](https://iceberg-games.com) | - |
+| Minicology | 2027-02-06 | The Iceberg Hidden Gems Bundle | - | - | - | Steam | [Iceberg Interactive](https://iceberg-games.com) | - |
+| Oriental Empires | 2027-02-06 | The Iceberg Hidden Gems Bundle | - | - | - | Steam | [Iceberg Interactive](https://iceberg-games.com) | - |
+| Stars in Shadow | 2027-02-06 | The Iceberg Hidden Gems Bundle | - | - | - | Steam | [Iceberg Interactive](https://iceberg-games.com) | - |
+| Tech Support: Error Unknown | 2027-02-06 | The Iceberg Hidden Gems Bundle | - | - | - | Steam | [Iceberg Interactive](https://iceberg-games.com) | - |
 | Blazing Sails | 2027-02-06 | Madcap Multiplayer Missions | - | - | Yes | Steam | [Iceberg Interactive](https://www.iceberg-games.com) | - |
 | Blazing Sails | 2027-02-06 | Summer Splash | - | - | Yes | Steam | [Iceberg Interactive](https://www.iceberg-games.com) | - |
+| Just Cause & Just Cause 2 + DLC | 2027-02-11 | Just Cause Complete Collection 2026 | - | - | - | Steam | [Square Enix](https://square-enix-games.com) | - |
+| Just Cause 3 + DLC | 2027-02-11 | Just Cause Complete Collection 2026 | - | - | - | Steam | [Square Enix](https://square-enix-games.com) | - |
+| Just Cause 4 Reloaded + DLC | 2027-02-11 | Just Cause Complete Collection 2026 | - | - | - | Steam | [Square Enix](https://square-enix-games.com) | - |
 | Disjunction | 2031-05-25 | June 2021 Humble Choice | - | - | - | GOG | [Fireshine Games](https://www.fireshinegames.co.uk) | - |
 | Encodya | 2031-07-28 | August 2021 Humble Choice | - | - | - | GOG | [Assemble Entertainment](https://assemble-entertainment.com) | - |
 | ~~Tchia~~ | ~~2026-01-05~~ | ~~June 2025 Humble Choice~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~Steam~~ | ~~[Kepler Interactive](https://kepler-interactive.com)~~ | ~~-~~ |
