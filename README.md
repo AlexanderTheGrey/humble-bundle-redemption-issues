@@ -799,7 +799,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Ghostrunner 2 | 2025-12-09 | - | - | July 2024 Humble Choice | Steam | [505 Games](https://505games.com) | - |
 | Plague Tale: Requiem | 2025-10-10 | - | - | July 2024 Humble Choice | Steam | [Focus Entertainment](https://www.focus-entmt.com/en) | - |
 | Starship Troopers Terran Command | - | - | - | July 2024 Humble Choice | Steam | [Slitherine Ltd.](https://www.slitherine.com) | - |
-| Knights of Honor II: Sovereign | - | - | - | June 2024 Humble Choice | Steam | [THQ Nordic](https://www.thqnordic.com) | - |
+| Knights of Honor II: Sovereign | 2026-01-27 | - | - | June 2024 Humble Choice | Steam | [THQ Nordic](https://www.thqnordic.com) | - |
 | LEGO 2K Drive Awesome Edition | - | - | - | June 2024 Humble Choice | Steam | [2K](https://2k.com) | - |
 | Miasma Chronicles | 2025-12-23 | - | - | June 2024 Humble Choice | Steam | [505 Games](https://505games.com) | - |
 | Stray Gods | - | - | - | June 2024 Humble Choice | Steam | [Humble Games](https://www.humblegames.com) | - |
