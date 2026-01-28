@@ -801,7 +801,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Starship Troopers Terran Command | - | - | - | July 2024 Humble Choice | Steam | [Slitherine Ltd.](https://www.slitherine.com) | - |
 | Knights of Honor II: Sovereign | 2026-01-27 | - | - | June 2024 Humble Choice | Steam | [THQ Nordic](https://www.thqnordic.com) | - |
 | LEGO 2K Drive Awesome Edition | - | - | - | June 2024 Humble Choice | Steam | [2K](https://2k.com) | - |
-| Miasma Chronicles | 2025-12-23 | - | - | June 2024 Humble Choice | Steam | [505 Games](https://505games.com) | - |
+| Miasma Chronicles | 2026-01-28 | - | - | June 2024 Humble Choice | Steam | [505 Games](https://505games.com) | - |
 | Stray Gods | - | - | - | June 2024 Humble Choice | Steam | [Humble Games](https://www.humblegames.com) | - |
 | Amanda The Adventurer | 2025-11-24 | - | - | May 2024 Humble Choice | Steam | [DreadXP](https://www.dreadxp.com) | - |
 | Bravery and Greed | 2025-10-17 | - | - | May 2024 Humble Choice | Steam | [Team17](https://www.team17.com) | - |
@@ -811,7 +811,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Steelrising | - | - | - | May 2024 Humble Choice | Steam | [Nacon](https://www.nacongaming.com/en-US) | - |
 | Yakuza Like a Dragon | 2026-01-26 | - | - | May 2024 Humble Choice | Steam | [SEGA](https://www.sega.com) | - |
 | HUMANKIND Definitive Edition | - | - | - | April 2024 Humble Choice | Steam | [AMPLITUDE Studios](https://amplitude-studios.com) | - |
-| Symphony of War: The Nephilim Saga | - | - | - | April 2024 Humble Choice | Steam | [indie.io](https://indie.io) | - |
+| Symphony of War: The Nephilim Saga | 2026-01-28 | - | - | April 2024 Humble Choice | Steam | [indie.io](https://indie.io) | - |
 | Victoria 3 | - | - | - | April 2024 Humble Choice | Steam | [Paradox Interactive](https://www.paradoxinteractive.com) | - |
 | The Callisto Protocol | - | - | - | April 2024 Humble Choice | Steam | [Krafton](https://www.krafton.com) | - |
 | Fashion Police Squad | - | Switched DRM | - | April 2024 Humble Choice | Steam | [No More Robots](https://nomorerobots.io) | - |
