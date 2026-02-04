@@ -761,7 +761,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Against the Storm | 2026-01-15 | - | - | January 2025 Humble Choice | Steam | [Hooded Horse](https://hoodedhorse.com) | - |
 | Blasphemous 2 | 2026-01-16 | - | - | January 2025 Humble Choice | Steam | [Team17](https://www.team17.com) | - |
 | Boxes: Lost Fragments | - | - | - | January 2025 Humble Choice | Steam | [QubicGames](https://qubicgames.com) | - |
-| Fort Solis | 2025-12-03 | - | - | January 2025 Humble Choice | Steam | [Dear Villagers](https://dearvillagers.com) | - |
+| Fort Solis | 2025-12-03 | - | Switched DRM | January 2025 Humble Choice | Steam | [Dear Villagers](https://dearvillagers.com) | - |
 | Jagged Alliance 3 | 2025-10-23 | - | - | January 2025 Humble Choice | Steam | [THQ Nordic](https://www.thqnordic.com) | - |
 | Pegasus Expedition | 2025-10-27 | Switched DRM | - | January 2025 Humble Choice | Steam | [Raw Fury](https://rawfury.com) | - |
 | Dordogne | - | Permanent | 2026-02-01 | January 2025 Humble Choice | Steam | [Focus Entertainment](https://www.focus-entmt.com/en) | - |
@@ -932,6 +932,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Game | Replacement Platform | Expiration | Bundle | Publisher | Notes |
 |---|---|---|---|---|---|
 | Diplomacy is Not an Option | Epic | - | April 2025 Humble Choice | [Door 407](https://door407.com) | - |
+| Fort Solis | Epic | - | January 2025 Humble Choice | [Dear Villagers](https://dearvillagers.com) | - |
 | Pegasus Expedition | Epic | - | January 2025 Humble Choice | [Fulqrum Publishing](https://fulqrumpublishing.com) | - |
 | Moonstone Island | GOG | 2026-01-06 | December 2024 Humble Choice | [Raw Fury](https://rawfury.com) | - |
 | Jack Move | Epic | - | October 2024 Humble Choice | [HypeTrain Digital](https://hypetraindigital.com) | - |
@@ -985,7 +986,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | [DANGEN Entertainment](https://dangenentertainment.com) | - | - | Yes | - | - | [dangenentertainment.com](https://dangenentertainment.com) / [Discord](https://discord.gg/dangen) / [@Dangen_Ent](https://x.com/Dangen_Ent) / [support@dangenentertainment.com](mailto:support@dangenentertainment.com) | - |
 | [Dapper Dog Digital](https://biogungame.com) | - | - | Yes | - | - | [biogungame.com/contact](https://biogungame.com/contact) / [@DapperDogDigi](https://x.com/DapperDogDigi) | - |
 | [Dark Point Games](https://darkpointgames.com) | - | - | Yes | - | - | [@DarkPointGames](https://x.com/DarkPointGames) / [biuro@darkpointgames.com](mailto:biuro@darkpointgames.com) | - |
-| [Dear Villagers](https://dearvillagers.com) | Yes | Yes | - | - | - | [@DearVillagers](https://x.com/DearVillagers) / [contact@dearvillagers.com](mailto:contact@dearvillagers.com) | - |
+| [Dear Villagers](https://dearvillagers.com) | Yes | Yes | - | - | Yes | [@DearVillagers](https://x.com/DearVillagers) / [contact@dearvillagers.com](mailto:contact@dearvillagers.com) | - |
 | [Deep Silver](https://www.deepsilver.com) | - | Yes | - | - | - | [@deepsilver](https://x.com/deepsilver) / [support@deepsilver.com](mailto:support@deepsilver.com) | - |
 | [Devolver Digital](https://www.devolverdigital.com) | Yes | - | Yes | - | - | [@devolverdigital](https://x.com/devolverdigital) / [support@devolverdigital.com](mailto:support@devolverdigital.com) | - |
 | [Dionic Software](https://store.steampowered.com/publisher/dionicsoftware) | - | Yes | - | - | - | [Steam Publisher Page](https://store.steampowered.com/publisher/dionicsoftware) | - |
