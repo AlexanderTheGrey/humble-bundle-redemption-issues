@@ -751,6 +751,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 
 | Game | Last Restock Date | Exhaustion Type | Expiration | Bundle | Platform | Publisher | Notes |
 |---|---|---|---|---|---|---|---|
+| Tomb Raider IV-VI Remastered | - | - | - | January 2026 Humble Choice | Steam | [Aspyr](https://aspyr.com) | - |
 | Potion Craft: Alchemist Simulator | 2025-10-20 | - | - | IGN Live 2025 | Steam | [tinyBuild](https://www.tinybuild.com) | - |
 | Diplomacy is Not an Option | - | Switched DRM | - | April 2025 Humble Choice | Steam | [Door 407](https://door407.com) | - |
 | Homeworld 3 | 2025-10-10 | - | - | March 2025 Humble Choice | Steam | [Gearbox Publishing](https://www.gearboxpublishing.com) | - |
