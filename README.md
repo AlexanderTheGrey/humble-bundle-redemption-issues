@@ -67,8 +67,6 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 
 | Game | Expiration | Bundle | Exhausted | Restocked Before Expiration | Expiration Added Post-Purchase (Retroactive) | Platform | Publisher | Notes |
 |---|---|---|---|---|---|---|---|---|
-| Beneath Oresa | 2026-02-02 | January 2025 Humble Choice | - | - | - | Steam | [Goblinz Publishing](https://goblinzstudio.com) | - |
-| Dordogne | 2026-02-02 | January 2025 Humble Choice | Permanent | No | - | Steam | [Focus Entertainment](https://www.focus-entmt.com) | - |
 | Al-Qadim: The Genie's Curse | 2026-02-07 | Dungeons & Dragons: Classics Collection | - | - | - | Steam | [SNEG](https://www.snegdev.io) | - |
 | DeathKeep | 2026-02-07 | Dungeons & Dragons: Classics Collection | - | - | - | Steam | [SNEG](https://www.snegdev.io) | - |
 | DragonStrike | 2026-02-07 | Dungeons & Dragons: Classics Collection | - | - | - | Steam | [SNEG](https://www.snegdev.io) | - |
@@ -709,6 +707,8 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Just Cause 4 Reloaded + DLC | 2027-02-11 | Just Cause Complete Collection 2026 | - | - | - | Steam | [Square Enix](https://square-enix-games.com) | - |
 | Disjunction | 2031-05-25 | June 2021 Humble Choice | - | - | - | GOG | [Fireshine Games](https://www.fireshinegames.co.uk) | - |
 | Encodya | 2031-07-28 | August 2021 Humble Choice | - | - | - | GOG | [Assemble Entertainment](https://assemble-entertainment.com) | - |
+| ~~Beneath Oresa~~ | ~~2026-02-02~~ | ~~January 2025 Humble Choice~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~Steam~~ | ~~[Goblinz Publishing](https://goblinzstudio.com)~~ | ~~-~~ |
+| ~~Dordogne~~ | ~~2026-02-02~~ | ~~January 2025 Humble Choice~~ | ~~Permanent~~ | ~~No~~ | ~~-~~ | ~~Steam~~ | ~~[Focus Entertainment](https://www.focus-entmt.com)~~ | ~~-~~ |
 | ~~Tchia~~ | ~~2026-01-05~~ | ~~June 2025 Humble Choice~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~Steam~~ | ~~[Kepler Interactive](https://kepler-interactive.com)~~ | ~~-~~ |
 | ~~Bomb Rush Cyberfunk~~ | ~~2026-01-06~~ | ~~December 2024 Humble Choice~~ | ~~Permanent~~ | ~~No~~ | ~~-~~ | ~~Steam~~ | ~~[Team Reptile](https://team-reptile.com)~~ | ~~The keys were restocked, but later became exhausted again and were never restocked before the expiration date~~ |
 | ~~Crime Boss: Rockay City - First Month Edition~~ | ~~2026-01-06~~ | ~~December 2024 Humble Choice~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~Steam~~ | ~~[505 Games](https://505games.com)~~ | ~~-~~ |
