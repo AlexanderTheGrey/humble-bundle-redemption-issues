@@ -67,8 +67,8 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 
 | Game | Expiration | Bundle | Exhausted | Restocked Before Expiration | Expiration Added Post-Purchase (Retroactive) | Platform | Publisher | Notes |
 |---|---|---|---|---|---|---|---|---|
-| Beneath Oresa | 2026-02-01 | January 2025 Humble Choice | - | - | - | Steam | [Goblinz Publishing](https://goblinzstudio.com) | - |
-| Dordogne | 2026-02-01 | January 2025 Humble Choice | Yes | - | - | Steam | [Focus Entertainment](https://www.focus-entmt.com) | - |
+| Beneath Oresa | 2026-02-02 | January 2025 Humble Choice | - | - | - | Steam | [Goblinz Publishing](https://goblinzstudio.com) | - |
+| Dordogne | 2026-02-02 | January 2025 Humble Choice | Yes | - | - | Steam | [Focus Entertainment](https://www.focus-entmt.com) | - |
 | Al-Qadim: The Genie's Curse | 2026-02-07 | Dungeons & Dragons: Classics Collection | - | - | - | Steam | [SNEG](https://www.snegdev.io) | - |
 | DeathKeep | 2026-02-07 | Dungeons & Dragons: Classics Collection | - | - | - | Steam | [SNEG](https://www.snegdev.io) | - |
 | DragonStrike | 2026-02-07 | Dungeons & Dragons: Classics Collection | - | - | - | Steam | [SNEG](https://www.snegdev.io) | - |
@@ -82,8 +82,8 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Forgotten Realms: The Archives - Collection Three | 2026-02-07 | Dungeons & Dragons: Classics Collection | - | - | - | Steam | [SNEG](https://www.snegdev.io) | - |
 | Silver Box Classics | 2026-02-07 | Dungeons & Dragons: Classics Collection | - | - | - | Steam | [SNEG](https://www.snegdev.io) | - |
 | Spelljammer: Pirates of Realmspace | 2026-02-07 | Dungeons & Dragons: Classics Collection | - | - | - | Steam | [SNEG](https://www.snegdev.io) | - |
-| Tales & Tactics | 2026-03-01 | February 2025 Humble Choice | - | - | - | Steam | [Yogscast Games](https://www.yogscast.games) | - |
 | Tiny Terry's Turbo Trip | 2026-03-02 | August 2025 Humble Choice | - | - | - | Steam | [Super Rare Games](https://superraregames.com) | - |
+| Tales & Tactics | 2026-03-03 | February 2025 Humble Choice | - | - | - | Steam | [Yogscast Games](https://www.yogscast.games) | - |
 | Enotria: The Last Song | 2026-04-04 | Humbling Soulslike Bundle | - | - | - | Steam | [Jyamma Games](https://www.jyammagames.com) | - |
 | Paleo Pines | 2026-04-04 | November 2025 Humble Choice | - | - | - | Steam | [Maximum Entertainment](https://maximument.com) | - |
 | Temtem | 2026-04-08 | Critter Chaos Bundle | - | - | - | Steam | [Humble Games](https://www.humblegames.com) | - |
