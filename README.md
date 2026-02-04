@@ -808,7 +808,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | King of the Castle | - | - | - | May 2024 Humble Choice | Steam | [Astra Publishing](https://astrapublishing.com) | - |
 | Loddlenaut | - | - | - | May 2024 Humble Choice | Steam | [Secret Mode](https://wearesecretmode.com) | - |
 | Mediterranea Inferno | - | - | - | May 2024 Humble Choice | Steam | [Santa Ragione](https://www.santaragione.com) | - |
-| Steelrising (Steel Rising on Humble) | 2026-02-04 | - | - | May 2024 Humble Choice | Steam | [Nacon](https://www.nacongaming.com/en-US) | - |
+| Steelrising | 2026-02-04 | - | - | May 2024 Humble Choice | Steam | [Nacon](https://www.nacongaming.com/en-US) | - |
 | Yakuza Like a Dragon | 2026-01-26 | - | - | May 2024 Humble Choice | Steam | [SEGA](https://www.sega.com) | - |
 | HUMANKIND Definitive Edition | - | - | - | April 2024 Humble Choice | Steam | [AMPLITUDE Studios](https://amplitude-studios.com) | - |
 | Symphony of War: The Nephilim Saga | 2026-01-28 | - | - | April 2024 Humble Choice | Steam | [indie.io](https://indie.io) | - |
@@ -949,7 +949,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Publisher | Current Stock Issues | Previous Stock Issues | Retroactive Expirations | Past Expirations Without Restock | DRM Switching | Contact | Notes |
 |---|---|---|---|---|---|---|---|
 | [2K](https://2k.com) | Yes | - | Yes | - | - | [support.2k.com](https://support.2k.com) / [@2K](https://x.com/2K) | - |
-| [505 Games](https://505games.com) | Yes | - | Yes | - | Yes | [support.505games.com](https://support.505games.com) / [@505_Games](https://x.com/505_Games) | - |
+| [505 Games](https://505games.com) | Yes | Yes | Yes | - | Yes | [support.505games.com](https://support.505games.com) / [@505_Games](https://x.com/505_Games) | - |
 | [5minlab Corp.](https://5minlab.com) | - | - | Yes | - | - | [5minlab.com/contact](https://5minlab.com/en/contact_us) / [contact@5minlab.com](mailto:contact@5minlab.com) / [biz@5minlab.com](mailto:biz@5minlab.com) | - |
 | [Abylight Studios](https://abylightstudios.com) | Yes | - | - | - | - | [abylight.com/contact](https://abylight.com/contact) / [team@abylight.com](mailto:team@abylight.com) | - |
 | [Aether Studios](https://aetherstudios.com) | - | - | Yes | - | - | [Support](https://aetherstudios.com/supporting/i-found-a-bug-where-can-i-report-it-2) / [Discord](https://discord.com/invite/roa) / [@StudiosOfAether](https://x.com/StudiosOfAether) | - |
@@ -1016,7 +1016,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | [Hypetrain Digital](https://hypetraindigital.com) | Yes | - | Yes | - | Yes | [@HypeTrainD](https://x.com/HypeTrainD) / [publishing@hypetraindigital.com](mailto:publishing@hypetraindigital.com) | - |
 | [Iceberg Interactive](https://www.iceberg-games.com) | - | - | Yes | - | - | [@Iceberg_Games](https://x.com/Iceberg_Games) / [support@iceberg-games.com](mailto:support@iceberg-games.com) | - |
 | [ILIKESCIFI Games](https://www.ilikescifi.com) | Yes | - | - | - | - | [ilikescifi.com/contact.html](https://www.ilikescifi.com/contact.html) / [@IlikescifiGames](https://x.com/IlikescifiGames) / [contact@ilikescifi.com](mailto:contact@ilikescifi.com) | - |
-| [indie.io](https://indie.io) | Yes | - | Yes | - | - | [Support](https://support.indie.io/hc/en-us) / [support@indie.io](mailto:support@indie.io) | - |
+| [indie.io](https://indie.io) | - | Yes | Yes | - | - | [Support](https://support.indie.io/hc/en-us) / [support@indie.io](mailto:support@indie.io) | - |
 | [Kepler Interactive](https://kepler-interactive.com) | Yes | - | - | Yes | - | [@Kepler_Interact](https://x.com/Kepler_Interact) / [pr@kepler-interactive.com](mailto:pr@kepler-interactive.com) | Have given replacement keys in the past |
 | [Krafton](https://www.krafton.com) | Yes | - | - | - | - | [@Krafton_inc](https://x.com/Krafton_inc) / [info@krafton.com](mailto:info@krafton.com) | - |
 | [Landfall](https://landfall.se) | - | - | Yes | - | - | [landfall.se/contact](https://landfall.se/contact) / [@LandfallGames](https://x.com/LandfallGames) / [contact@landfall.se](mailto:contact@landfall.se) | - |
@@ -1028,7 +1028,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | [Mixtvision](https://mixtvision.de) | - | - | Yes | - | - | [mixtvision.de/kontakt](https://mixtvision.de/kontakt) / [info@mixtvision.de](mailto:info@mixtvision.de) | - |
 | [Modularity](https://modularity.studio) | Yes | - | - | - | - | [@ModularitySTD](https://x.com/ModularitySTD) / [support@modularity.studio](mailto:support@modularity.studio) | - |
 | [Modus Games](https://modusgames.com) | Yes | - | - | - | - | [@Modus_Games](https://x.com/Modus_Games) / [support@modusgames.com](mailto:support@modusgames.com) | - |
-| [Nacon](https://www.nacongaming.com/en-US) | Yes | - | Yes | - | - | [@NACON](https://x.com/NACON) / [assistance.nacon@games.fr](mailto:assistance.nacon@games.fr) | - |
+| [Nacon](https://www.nacongaming.com/en-US) | Yes | Yes | Yes | - | - | [@NACON](https://x.com/NACON) / [assistance.nacon@games.fr](mailto:assistance.nacon@games.fr) | - |
 | [New Blood Interactive](https://newblood.games) | - | - | Yes | - | - | [Contact](https://newblood.games) | - |
 | [No More Robots](https://nomorerobots.io) | Yes | - | - | - | Yes | [@NoMoreRobots](https://x.com/NoMoreRobots) / [info@nomorerobots.io](mailto:info@nomorerobots.io) | - |
 | [Noctiluca Studio](https://store.steampowered.com/search/?publisher=Noctiluca+Studio) | Yes | - | - | - | - | [Discord](https://discord.gg/Uf8EpWsFts) / [@remnant_records](https://x.com/remnant_records?lang=en) | - |
@@ -1038,7 +1038,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | [Outlier Games](https://outlier.games) | Yes | - | - | - | - | [@OutlierGames](https://x.com/OutlierGames) / [support@outlier.games](mailto:support@outlier.games) | - |
 | [Outright Games](https://outrightgames.com) | - | - | Yes | - | - | [Contact](https://outrightgames.com/contact) / [@Outright_Games](https://x.com/Outright_Games) / [support@outrightgames.com](mailto:support@outrightgames.com) | - |
 | [Overseer Games](https://www.overseergames.com) | Yes | - | - | - | - | [@OverseerGames](https://x.com/OverseerGames) / [support@overseergames.com](mailto:support@overseergames.com) | - |
-| [Paradox Interactive](https://www.paradoxinteractive.com) | Yes | - | - | - | - | [support.paradoxplaza.com](https://support.paradoxplaza.com) / [@PdxInteractive](https://x.com/PdxInteractive) | - |
+| [Paradox Interactive](https://www.paradoxinteractive.com) | Yes | Yes | - | - | - | [support.paradoxplaza.com](https://support.paradoxplaza.com) / [@PdxInteractive](https://x.com/PdxInteractive) | - |
 | [Playtonic Friends](https://www.playtonic.games) | - | - | Yes | - | - | [@PlaytonicGames](https://x.com/PlaytonicGames) / [support@playtonic.games](mailto:support@playtonic.games) | - |
 | [Poncle](https://poncle.club) | Yes | - | Yes | - | - | [@PoncleGames](https://x.com/PoncleGames) / [contact@poncle.club](mailto:contact@poncle.club) | - |
 | [Prismatika](https://prismatika.games) | - | Yes | - | - | - | [@PrismatikaGames](https://x.com/PrismatikaGames) | - |
