@@ -666,7 +666,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Hunt: Showdown 1896 | 2027-02-03 | January 2026 Humble Choice | - | - | - | Steam | [Crytek](https://crytek.com) | - |
 | One Month of IGN Plus | 2027-02-03 | January 2026 Humble Choice | - | - | - | IGN | [IGN](https://ign.com) | - |
 | Sonic Frontiers | 2027-02-03 | January 2026 Humble Choice | - | - | - | Steam | [SEGA](https://sega.com) | - |
-| Tomb Raider IV-VI Remastered | 2027-02-03 | January 2026 Humble Choice | Yes | - | - | Steam | [Aspyr](https://aspyr.com) | - |
+| Tomb Raider IV-VI Remastered | 2027-02-10 | January 2026 Humble Choice | Yes | - | - | Steam | [Aspyr](https://aspyr.com) | - |
 | Wizard of Legend 2 | 2027-02-03 | January 2026 Humble Choice | - | - | - | Steam | [Humble Games](https://humblegames.com) | - |
 | Kao the Kangaroo | 2027-02-04 | Masterful Modern 3D Platformers | - | - | Yes | Steam | [Tate Multimedia](https://www.tatemultimedia.com) | - |
 | Pogostuck: Rage With Your Friends | 2027-02-04 | Adventures in the 2nd Dimension: Positively Playful Platformers | - | - | Yes | Steam | [Superku](https://www.pogostuck.com) | - |
