@@ -666,7 +666,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Hunt: Showdown 1896 | 2027-02-03 | January 2026 Humble Choice | - | - | - | Steam | [Crytek](https://crytek.com) | - |
 | One Month of IGN Plus | 2027-02-03 | January 2026 Humble Choice | - | - | - | IGN | [IGN](https://ign.com) | - |
 | Sonic Frontiers | 2027-02-03 | January 2026 Humble Choice | - | - | - | Steam | [SEGA](https://sega.com) | - |
-| Tomb Raider IV-VI Remastered | 2027-02-03 | January 2026 Humble Choice | Yes | - | - | Steam | [Aspyr](https://aspyr.com) | - |
+| Tomb Raider IV-VI Remastered | 2027-02-10 | January 2026 Humble Choice | Yes | - | - | Steam | [Aspyr](https://aspyr.com) | - |
 | Wizard of Legend 2 | 2027-02-03 | January 2026 Humble Choice | - | - | - | Steam | [Humble Games](https://humblegames.com) | - |
 | Kao the Kangaroo | 2027-02-04 | Masterful Modern 3D Platformers | - | - | Yes | Steam | [Tate Multimedia](https://www.tatemultimedia.com) | - |
 | Pogostuck: Rage With Your Friends | 2027-02-04 | Adventures in the 2nd Dimension: Positively Playful Platformers | - | - | Yes | Steam | [Superku](https://www.pogostuck.com) | - |
@@ -789,7 +789,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Stranded: Alien Dawn | 2025-10-17 | - | - | September 2024 Humble Choice | Steam | [Frontier Developments](https://www.frontier.co.uk) | - |
 | You Suck at Parking - Complete Edition | 2025-10-24 | - | - | September 2024 Humble Choice | Steam | [Curve Games](https://www.curvegames.com) | - |
 | Who Pressed Mute on Uncle Marcus | 2025-10-24 | - | - | September 2023 Humble Choice | Steam | [Wales Interactive](https://www.walesinteractive.com) | - |
-| Astral Ascent | - | - | - | August 2024 Humble Choice | Steam | [Maple Whispering Limited](https://www.maplewhispering.com) | - |
+| Astral Ascent | 2026-02-10 | - | - | August 2024 Humble Choice | Steam | [Maple Whispering Limited](https://www.maplewhispering.com) | - |
 | BLACKTAIL | - | - | - | August 2024 Humble Choice | Steam | [Focus Entertainment](https://www.focus-entmt.com) | - |
 | Diluvian Ultra | - | Switched DRM | - | August 2024 Humble Choice | Steam | [Fulqrum Publishing](https://fulqrumpublishing.com) | - |
 | Gotham Knights | 2025-10-17 | - | 2026-02-27 | August 2024 Humble Choice | Steam | [WB Games](https://www.wbgames.com) | - |
@@ -806,7 +806,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Stray Gods | - | - | - | June 2024 Humble Choice | Steam | [Humble Games](https://www.humblegames.com) | - |
 | Amanda The Adventurer | 2025-11-24 | - | - | May 2024 Humble Choice | Steam | [DreadXP](https://www.dreadxp.com) | - |
 | Bravery and Greed | 2025-10-17 | - | - | May 2024 Humble Choice | Steam | [Team17](https://www.team17.com) | - |
-| King of the Castle | - | - | - | May 2024 Humble Choice | Steam | [Astra Publishing](https://astrapublishing.com) | - |
+| King of the Castle | 2026-02-10 | - | - | May 2024 Humble Choice | Steam | [Astra Publishing](https://astrapublishing.com) | - |
 | Loddlenaut | - | - | - | May 2024 Humble Choice | Steam | [Secret Mode](https://wearesecretmode.com) | - |
 | Mediterranea Inferno | - | - | - | May 2024 Humble Choice | Steam | [Santa Ragione](https://www.santaragione.com) | - |
 | Steelrising | 2026-02-04 | - | - | May 2024 Humble Choice | Steam | [Nacon](https://www.nacongaming.com/en-US) | - |
@@ -814,7 +814,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | HUMANKIND Definitive Edition | - | - | - | April 2024 Humble Choice | Steam | [AMPLITUDE Studios](https://amplitude-studios.com) | - |
 | Symphony of War: The Nephilim Saga | 2026-01-28 | - | - | April 2024 Humble Choice | Steam | [indie.io](https://indie.io) | - |
 | Victoria 3 | 2026-02-02 | - | - | April 2024 Humble Choice | Steam | [Paradox Interactive](https://www.paradoxinteractive.com) | - |
-| The Callisto Protocol | - | - | - | April 2024 Humble Choice | Steam | [Krafton](https://www.krafton.com) | - |
+| The Callisto Protocol | 2026-02-11 | - | - | April 2024 Humble Choice | Steam | [Krafton](https://www.krafton.com) | - |
 | Fashion Police Squad | - | Switched DRM | - | April 2024 Humble Choice | Steam | [No More Robots](https://nomorerobots.io) | - |
 | Terraformers | - | - | - | April 2024 Humble Choice | Steam | [Goblinz Publishing](https://goblinzstudio.com) | - |
 | Afterimage | - | - | - | March 2024 Humble Choice | Steam | [Modus Games](https://modusgames.com) | - |
