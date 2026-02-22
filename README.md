@@ -751,7 +751,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 
 | Game | Last Restock Date | Exhaustion Type | Expiration | Bundle | Platform | Publisher | Notes |
 |---|---|---|---|---|---|---|---|
-| Tomb Raider IV-VI Remastered | - | - | - | January 2026 Humble Choice | Steam | [Aspyr](https://aspyr.com) | - |
+| Tomb Raider IV-VI Remastered | 2026-02-03 | - | - | January 2026 Humble Choice | Steam | [Aspyr](https://aspyr.com) | - |
 | Potion Craft: Alchemist Simulator | 2025-10-20 | - | - | IGN Live 2025 | Steam | [tinyBuild](https://www.tinybuild.com) | - |
 | Diplomacy is Not an Option | - | Switched DRM | - | April 2025 Humble Choice | Steam | [Door 407](https://door407.com) | - |
 | Homeworld 3 | 2025-10-10 | - | - | March 2025 Humble Choice | Steam | [Gearbox Publishing](https://www.gearboxpublishing.com) | - |
@@ -773,7 +773,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Moonstone Island | - | Switched DRM | 2026-01-06 | December 2024 Humble Choice | Steam | [Raw Fury](https://rawfury.com) | - |
 | The Bookwalker: Thief of Tales | 2025-10-22 | - | - | November 2024 Humble Choice | Steam | [tinyBuild](https://www.tinybuild.com) | - |
 | Cassette Beasts | - | - | 2026-10-08 | November 2024 Humble Choice | Steam | [Raw Fury](https://rawfury.com) | - |
-| Garden Life: A Cozy Simulator | 2026-02-04 | - | - | November 2024 Humble Choice | Steam | [Nacon](https://www.nacongaming.com/en-US) | - |
+| Garden Life: A Cozy Simulator | 2026-02-20 | - | - | November 2024 Humble Choice | Steam | [Nacon](https://www.nacongaming.com/en-US) | - |
 | Hexarchy | - | Permanent | 2025-12-05 | November 2024 Humble Choice | Steam | [Yogscast Games](https://www.yogscast.games) | Never restocked before expiration, and no replacement keys have been issued |
 | The Lamplighters League | - | - | - | November 2024 Humble Choice | Steam | [Paradox Interactive](https://www.paradoxinteractive.com) | - |
 | Warhammer 40,000: Darktide | 2025-10-20 | - | 2025-12-05 | November 2024 Humble Choice | Steam | [Fatshark](https://www.fatshark.se) | - |
@@ -789,7 +789,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Stranded: Alien Dawn | 2025-10-17 | - | - | September 2024 Humble Choice | Steam | [Frontier Developments](https://www.frontier.co.uk) | - |
 | You Suck at Parking - Complete Edition | 2025-10-24 | - | - | September 2024 Humble Choice | Steam | [Curve Games](https://www.curvegames.com) | - |
 | Who Pressed Mute on Uncle Marcus | 2025-10-24 | - | - | September 2023 Humble Choice | Steam | [Wales Interactive](https://www.walesinteractive.com) | - |
-| Astral Ascent | - | - | - | August 2024 Humble Choice | Steam | [Maple Whispering Limited](https://www.maplewhispering.com) | - |
+| Astral Ascent | 2026-02-10 | - | - | August 2024 Humble Choice | Steam | [Maple Whispering Limited](https://www.maplewhispering.com) | - |
 | BLACKTAIL | - | - | - | August 2024 Humble Choice | Steam | [Focus Entertainment](https://www.focus-entmt.com) | - |
 | Diluvian Ultra | - | Switched DRM | - | August 2024 Humble Choice | Steam | [Fulqrum Publishing](https://fulqrumpublishing.com) | - |
 | Gotham Knights | 2025-10-17 | - | 2026-02-27 | August 2024 Humble Choice | Steam | [WB Games](https://www.wbgames.com) | - |
@@ -806,7 +806,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Stray Gods | - | - | - | June 2024 Humble Choice | Steam | [Humble Games](https://www.humblegames.com) | - |
 | Amanda The Adventurer | 2025-11-24 | - | - | May 2024 Humble Choice | Steam | [DreadXP](https://www.dreadxp.com) | - |
 | Bravery and Greed | 2025-10-17 | - | - | May 2024 Humble Choice | Steam | [Team17](https://www.team17.com) | - |
-| King of the Castle | - | - | - | May 2024 Humble Choice | Steam | [Astra Publishing](https://astrapublishing.com) | - |
+| King of the Castle | 2026-02-10 | - | - | May 2024 Humble Choice | Steam | [Astra Publishing](https://astrapublishing.com) | - |
 | Loddlenaut | - | - | - | May 2024 Humble Choice | Steam | [Secret Mode](https://wearesecretmode.com) | - |
 | Mediterranea Inferno | - | - | - | May 2024 Humble Choice | Steam | [Santa Ragione](https://www.santaragione.com) | - |
 | Steelrising | 2026-02-04 | - | - | May 2024 Humble Choice | Steam | [Nacon](https://www.nacongaming.com/en-US) | - |
@@ -814,7 +814,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | HUMANKIND Definitive Edition | - | - | - | April 2024 Humble Choice | Steam | [AMPLITUDE Studios](https://amplitude-studios.com) | - |
 | Symphony of War: The Nephilim Saga | 2026-01-28 | - | - | April 2024 Humble Choice | Steam | [indie.io](https://indie.io) | - |
 | Victoria 3 | 2026-02-02 | - | - | April 2024 Humble Choice | Steam | [Paradox Interactive](https://www.paradoxinteractive.com) | - |
-| The Callisto Protocol | - | - | - | April 2024 Humble Choice | Steam | [Krafton](https://www.krafton.com) | - |
+| The Callisto Protocol | 2026-02-11 | - | - | April 2024 Humble Choice | Steam | [Krafton](https://www.krafton.com) | - |
 | Fashion Police Squad | - | Switched DRM | - | April 2024 Humble Choice | Steam | [No More Robots](https://nomorerobots.io) | - |
 | Terraformers | - | - | - | April 2024 Humble Choice | Steam | [Goblinz Publishing](https://goblinzstudio.com) | - |
 | Afterimage | - | - | - | March 2024 Humble Choice | Steam | [Modus Games](https://modusgames.com) | - |
@@ -963,8 +963,8 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | [Arc Games](https://www.arcgames.com) | - | Yes | - | - | - | [@ArcGames](https://x.com/ArcGames) / [support@arcgames.com](mailto:support@arcgames.com) | - |
 | [Armor Games Studios](https://armorgamesstudios.com) | - | - | Yes | - | - | [Support Forum](https://armorgames.com/community/forum/34/support-forum) / [Discord](https://discord.gg/zZzgJKn) / [@ArmorGameStudio](https://x.com/ArmorGameStudio) / [presskits@armorgames.com](mailto:PressKits@ArmorGames.com) | - |
 | [Assemble Entertainment](https://assemble-ent.com) | Yes | - | Yes | - | - | [@AssembleTeam](https://x.com/AssembleTeam) / [support@assemble-ent.com](mailto:support@assemble-ent.com) | - |
-| [Aspyr](https://www.aspyr.com) | Yes | - | - | - | - | [@AspyrMedia](https://x.com/AspyrMedia) / [support@aspyr.com](mailto:support@aspyr.com) | - |
-| [Astra Publishing](https://astrapublishing.com) | Yes | - | - | - | - | [@AstraPublish](https://x.com/AstraPublish) / [support@astrapublishing.com](mailto:support@astrapublishing.com) | - |
+| [Aspyr](https://www.aspyr.com) | Yes | Yes | - | - | - | [@AspyrMedia](https://x.com/AspyrMedia) / [support@aspyr.com](mailto:support@aspyr.com) | - |
+| [Astra Publishing](https://astrapublishing.com) | Yes | Yes | - | - | - | [@AstraPublish](https://x.com/AstraPublish) / [support@astrapublishing.com](mailto:support@astrapublishing.com) | - |
 | [Avalanche Studios](https://avalanchestudios.com) | Yes | - | - | - | - | [Support](https://avalanchestudios.com/support) / [Contact](https://avalanchestudios.com/connect) | - |
 | [BANDAI NAMCO Entertainment](https://www.bandainamcoent.com) | Yes | Yes | - | - | - | [support.bandainamcoent.com](https://support.bandainamcoent.com) / [@BandaiNamcoUS](https://x.com/BandaiNamcoUS) | - |
 | [Beautiful Glitch](https://beautifulglitch.pizza) | - | Yes | - | - | - | [Contact](https://beautifulglitch.pizza/contact) / [hello@beautifulglitch.pizza](mailto:hello@beautifulglitch.pizza) / [bugreports@beautifulglitch.pizza](mailto:bugreports@beautifulglitch.pizza) | - |
@@ -1020,10 +1020,10 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | [ILIKESCIFI Games](https://www.ilikescifi.com) | Yes | - | - | - | - | [ilikescifi.com/contact.html](https://www.ilikescifi.com/contact.html) / [@IlikescifiGames](https://x.com/IlikescifiGames) / [contact@ilikescifi.com](mailto:contact@ilikescifi.com) | - |
 | [indie.io](https://indie.io) | - | Yes | Yes | - | - | [Support](https://support.indie.io/hc/en-us) / [support@indie.io](mailto:support@indie.io) | - |
 | [Kepler Interactive](https://kepler-interactive.com) | Yes | - | - | Yes | - | [@Kepler_Interact](https://x.com/Kepler_Interact) / [pr@kepler-interactive.com](mailto:pr@kepler-interactive.com) | Have given replacement keys in the past |
-| [Krafton](https://www.krafton.com) | Yes | - | - | - | - | [@Krafton_inc](https://x.com/Krafton_inc) / [info@krafton.com](mailto:info@krafton.com) | - |
+| [Krafton](https://www.krafton.com) | Yes | Yes | - | - | - | [@Krafton_inc](https://x.com/Krafton_inc) / [info@krafton.com](mailto:info@krafton.com) | - |
 | [Landfall](https://landfall.se) | - | - | Yes | - | - | [landfall.se/contact](https://landfall.se/contact) / [@LandfallGames](https://x.com/LandfallGames) / [contact@landfall.se](mailto:contact@landfall.se) | - |
 | [Maddy Makes Games](https://www.maddymakesgames.com) | - | - | Yes | - | - | [Contact](https://exok.com/contact.html) / [contact@exok.com](mailto:contact@exok.com) | - |
-| [Maple Whispering Limited](https://www.maplewhispering.com) | Yes | - | - | - | - | [@MapleWhispering](https://x.com/MapleWhispering) / [support@maplewhispering.com](mailto:support@maplewhispering.com) | - |
+| [Maple Whispering Limited](https://www.maplewhispering.com) | Yes | Yes | - | - | - | [@MapleWhispering](https://x.com/MapleWhispering) / [support@maplewhispering.com](mailto:support@maplewhispering.com) | - |
 | [Merge Games](https://mergegames.com) | Yes | - | - | - | - | [@MergeGames](https://x.com/MergeGames) / [support@mergegames.com](mailto:support@mergegames.com) | - |
 | [MicroProse Software](https://www.microprose.com) | Yes | - | - | - | - | [microprose.com/helpdesk](https://www.microprose.com/helpdesk) / [@micro_prose](https://x.com/micro_prose) / [contact@microprose.co.uk](mailto:contact@microprose.co.uk) | - |
 | [Might and Delight](https://mightanddelight.com) | Yes | Yes | - | - | - | [@MightandDelight](https://x.com/MightandDelight) / [support@mightanddelight.com](mailto:support@mightanddelight.com) | - |
