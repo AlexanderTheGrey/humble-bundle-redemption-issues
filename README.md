@@ -666,7 +666,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Hunt: Showdown 1896 | 2027-02-03 | January 2026 Humble Choice | - | - | - | Steam | [Crytek](https://crytek.com) | - |
 | One Month of IGN Plus | 2027-02-03 | January 2026 Humble Choice | - | - | - | IGN | [IGN](https://ign.com) | - |
 | Sonic Frontiers | 2027-02-03 | January 2026 Humble Choice | - | - | - | Steam | [SEGA](https://sega.com) | - |
-| Tomb Raider IV-VI Remastered | 2027-02-10 | January 2026 Humble Choice | Yes | - | - | Steam | [Aspyr](https://aspyr.com) | - |
+| Tomb Raider IV-VI Remastered | 2027-02-03 | January 2026 Humble Choice | Yes | - | - | Steam | [Aspyr](https://aspyr.com) | - |
 | Wizard of Legend 2 | 2027-02-03 | January 2026 Humble Choice | - | - | - | Steam | [Humble Games](https://humblegames.com) | - |
 | Kao the Kangaroo | 2027-02-04 | Masterful Modern 3D Platformers | - | - | Yes | Steam | [Tate Multimedia](https://www.tatemultimedia.com) | - |
 | Pogostuck: Rage With Your Friends | 2027-02-04 | Adventures in the 2nd Dimension: Positively Playful Platformers | - | - | Yes | Steam | [Superku](https://www.pogostuck.com) | - |
@@ -751,7 +751,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 
 | Game | Last Restock Date | Exhaustion Type | Expiration | Bundle | Platform | Publisher | Notes |
 |---|---|---|---|---|---|---|---|
-| Tomb Raider IV-VI Remastered | - | - | - | January 2026 Humble Choice | Steam | [Aspyr](https://aspyr.com) | - |
+| Tomb Raider IV-VI Remastered | 2026-02-03 | - | - | January 2026 Humble Choice | Steam | [Aspyr](https://aspyr.com) | - |
 | Potion Craft: Alchemist Simulator | 2025-10-20 | - | - | IGN Live 2025 | Steam | [tinyBuild](https://www.tinybuild.com) | - |
 | Diplomacy is Not an Option | - | Switched DRM | - | April 2025 Humble Choice | Steam | [Door 407](https://door407.com) | - |
 | Homeworld 3 | 2025-10-10 | - | - | March 2025 Humble Choice | Steam | [Gearbox Publishing](https://www.gearboxpublishing.com) | - |
