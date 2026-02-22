@@ -947,151 +947,152 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 # Humble Bundle Publisher Behavior
 
 > **Note:** Any publisher on this list has been implicated in some kind of key delivery issue, with noted exceptions. Buying bundles containing games from any publisher listed here (especially on Humble Bundle) can therefore have some level of risk. Personally, if there is a publisher participating in a bundle I'm buying who has issues that go beyond just `Previous Stock Issues`, I adjust the payment sliders to give the maximum amount to charity (and always the minimum to Humble Bundle).
+>
+> `Fraudulent Recycling` is defined as any instance where a publisher revokes or resells keys previously sold to customers without providing a retroactive expiration notice on the corresponding Humble Bundle order page. Keep in mind that `Retroactive Expirations` are also fraudulent, but at least customers are given notice.
 
-| Publisher | Current/Previous Stock Issues | Retroactive Expirations | Past Expirations Without Restock | DRM Switching | Contact | Notes |
-| --- | --- | --- | --- | --- | --- | --- |
-| [2K](https://2k.com) | Yes | Yes | - | - | [support.2k.com](https://support.2k.com) / [@2K](https://x.com/2K) | - |
-| [505 Games](https://505games.com) | Yes | Yes | - | Yes | [support.505games.com](https://support.505games.com) / [@505_Games](https://x.com/505_Games) | - |
-| [5minlab Corp.](https://5minlab.com) | - | Yes | - | - | [5minlab.com/contact](https://5minlab.com/en/contact_us) / [contact@5minlab.com](mailto:contact@5minlab.com) / [biz@5minlab.com](mailto:biz@5minlab.com) | - |
-| [Abylight Studios](https://abylightstudios.com) | Yes | - | - | - | [abylight.com/contact](https://abylight.com/contact) / [team@abylight.com](mailto:team@abylight.com) | - |
-| [Aether Studios](https://aetherstudios.com) | - | Yes | - | - | [Support](https://aetherstudios.com/supporting/i-found-a-bug-where-can-i-report-it-2) / [Discord](https://discord.com/invite/roa) / [@StudiosOfAether](https://x.com/StudiosOfAether) | - |
-| [AGM PLAYISM](https://playism.com) | Yes | - | - | - | [@playismEN](https://x.com/playismEN) / [support@playism.com](mailto:support@playism.com) | - |
-| [Akupara Games](https://www.akuparagames.com) | Yes | Yes | Yes | Yes | [@AkuparaGames](https://x.com/AkuparaGames) / [team@akuparagames.com](mailto:team@akuparagames.com) | - |
-| [Alawar](https://alawar.com) | - | Yes | - | - | [support.alawar.com](https://support.alawar.com) / [alawar.com](https://alawar.com) | - |
-| [Amanita Design](https://amanita-design.net) | - | Yes | - | - | [@Amanita_Design](https://x.com/Amanita_Design) / [support@amanita-design.net](mailto:support@amanita-design.net) | - |
-| [AMPLITUDE Studios](https://amplitude-studios.com) | Yes | - | - | - | [cs@amplitude-studios.com](mailto:cs@amplitude-studios.com) | - |
-| [Arc Games](https://www.arcgames.com) | Yes | - | - | - | [@ArcGames](https://x.com/ArcGames) / [support@arcgames.com](mailto:support@arcgames.com) | - |
-| [Armor Games Studios](https://armorgamesstudios.com) | - | Yes | - | - | [Support Forum](https://armorgames.com/community/forum/34/support-forum) / [Discord](https://discord.gg/zZzgJKn) / [@ArmorGameStudio](https://x.com/ArmorGameStudio) / [presskits@armorgames.com](mailto:PressKits@ArmorGames.com) | - |
-| [Assemble Entertainment](https://assemble-ent.com) | Yes | Yes | - | - | [@AssembleTeam](https://x.com/AssembleTeam) / [support@assemble-ent.com](mailto:support@assemble-ent.com) | - |
-| [Aspyr](https://www.aspyr.com) | Yes | - | - | - | [@AspyrMedia](https://x.com/AspyrMedia) / [support@aspyr.com](mailto:support@aspyr.com) | - |
-| [Astra Publishing](https://astrapublishing.com) | Yes | - | - | - | [@AstraPublish](https://x.com/AstraPublish) / [support@astrapublishing.com](mailto:support@astrapublishing.com) | - |
-| [Avalanche Studios](https://avalanchestudios.com) | Yes | - | - | - | [Support](https://avalanchestudios.com/support) / [Contact](https://avalanchestudios.com/connect) | - |
-| [BANDAI NAMCO Entertainment](https://www.bandainamcoent.com) | Yes | - | - | - | [support.bandainamcoent.com](https://support.bandainamcoent.com) / [@BandaiNamcoUS](https://x.com/BandaiNamcoUS) | - |
-| [Beautiful Glitch](https://beautifulglitch.pizza) | Yes | - | - | - | [Contact](https://beautifulglitch.pizza/contact) / [hello@beautifulglitch.pizza](mailto:hello@beautifulglitch.pizza) / [bugreports@beautifulglitch.pizza](mailto:bugreports@beautifulglitch.pizza) | - |
-| [BerserkBoy Games](https://berserkboygames.com) | - | Yes | - | - | [berserkboygames.com](https://berserkboygames.com) / [@BerserkBoyGame](https://x.com/BerserkBoyGame) / [bbgames.social@gmail.com](mailto:bbgames.social@gmail.com) | - |
-| [Berserk Games](https://www.berserk-games.com) | Yes | - | - | - | [@TabletopSim](https://x.com/TabletopSim) / [business@berserk-games.com](mailto:business@berserk-games.com) | - |
-| [Bethesda Softworks](https://bethesda.net) | - | Yes | - | - | [@bethesda](https://x.com/bethesda) / [support@bethesda.net](mailto:support@bethesda.net) | - |
-| [Blackbird Interactive](https://blackbirdinteractive.com) | - | Yes | - | - | [blackbirdinteractive.com/contact](https://blackbirdinteractive.com/contact) / [contact@blackbirdinteractive.com](mailto:contact@blackbirdinteractive.com) | - |
-| [BlankMediaGames](https://blankmediagames.com) | - | Yes | - | - | [@TownofSalemGame](https://x.com/TownofSalemGame) / [support@blankmediagames.com](mailto:support@blankmediagames.com) | - |
-| [Broken Arms Games](https://brokenarmsgames.com) | Yes | - | - | - | [@BrokenArmsGames](https://x.com/BrokenArmsGames) / [support@brokenarmsgames.com](mailto:support@brokenarmsgames.com) | - |
-| [Coconut Island Games](https://coconutislandgames.com) | - | Yes | - | - | [coconutislandgames.com](https://coconutislandgames.com) / [gamesupport@coconut.is](mailto:gamesupport@coconut.is) / [contact@coconut.is](mailto:contact@coconut.is) | - |
-| [Cold Beam Games](https://coldbeamgames.com) | Yes | - | - | - | [Discord](https://discord.gg/beathazard) / [@ColdBeamGames](https://x.com/ColdBeamGames) / [support@coldbeamgames.com](mailto:support@coldbeamgames.com) | Previous stock issues likely inadvertent |
-| [Coldwild Games](https://coldwild.com) | Yes | - | - | - | [@ColdwildGames](https://x.com/ColdwildGames) / [support@coldwild.com](mailto:support@coldwild.com) | - |
-| [COWCAT](https://cowcatgames.com) | - | Yes | - | - | [support@cowcatgames.com](mailto:support@cowcatgames.com) / [@COWCATGames](https://x.com/COWCATGames) | - |
-| [Cranky Watermelon](https://crankywatermelon.com) | Yes | - | - | - | [@CrankyWatermel0](https://x.com/CrankyWatermel0) / [support@crankywatermelon.com](mailto:support@crankywatermelon.com) | - |
-| [Crytek](https://www.crytek.com) | Yes | - | - | - | [@Crytek](https://x.com/Crytek) / [info@crytek.com](mailto:info@crytek.com) | - |
-| [Curve Games](https://www.curvegames.com) | Yes | Yes | - | - | [@curvegames](https://x.com/curvegames) / [support@curvegames.com](mailto:support@curvegames.com) | - |
-| [D3 Publisher](https://www.d3p.co.jp) | Yes | Yes | - | - | [Contact via website](https://www.d3p.co.jp/edf6/en) / [@D3Publisher](https://x.com/D3Publisher) | - |
-| [Daedalic Entertainment](https://www.daedalic.com) | Yes | Yes | - | - | [daedalicsupport.com](https://www.daedalicsupport.com) / [Discord](https://discord.gg/daedalic) / [@daedalic](https://x.com/daedalic) | - |
-| [DANGEN Entertainment](https://dangenentertainment.com) | - | Yes | - | - | [dangenentertainment.com](https://dangenentertainment.com) / [Discord](https://discord.gg/dangen) / [@Dangen_Ent](https://x.com/Dangen_Ent) / [support@dangenentertainment.com](mailto:support@dangenentertainment.com) | - |
-| [Dapper Dog Digital](https://biogungame.com) | - | Yes | - | - | [biogungame.com/contact](https://biogungame.com/contact) / [@DapperDogDigi](https://x.com/DapperDogDigi) | - |
-| [Dark Point Games](https://darkpointgames.com) | - | Yes | - | - | [@DarkPointGames](https://x.com/DarkPointGames) / [biuro@darkpointgames.com](mailto:biuro@darkpointgames.com) | - |
-| [Dear Villagers](https://dearvillagers.com) | Yes | - | - | Yes | [@DearVillagers](https://x.com/DearVillagers) / [contact@dearvillagers.com](mailto:contact@dearvillagers.com) | - |
-| [Deep Silver](https://www.deepsilver.com) | Yes | - | - | - | [@deepsilver](https://x.com/deepsilver) / [support@deepsilver.com](mailto:support@deepsilver.com) | - |
-| [Devolver Digital](https://www.devolverdigital.com) | Yes | Yes | - | - | [@devolverdigital](https://x.com/devolverdigital) / [support@devolverdigital.com](mailto:support@devolverdigital.com) | - |
-| [Dionic Software](https://store.steampowered.com/publisher/dionicsoftware) | Yes | - | - | - | [Steam Publisher Page](https://store.steampowered.com/publisher/dionicsoftware) | - |
-| [DON'T NOD](https://dont-nod.com) | Yes | - | - | - | [Support](https://support.dont-nod.com/hc/en-us) / [Contact](https://dont-nod.com/en/contact) | - |
-| [Door 407](https://door407.com) | Yes | - | - | Yes | [@Door407Games](https://x.com/Door407Games) / [support@door407.com](mailto:support@door407.com) | - |
-| [DreadXP](https://www.dreadxp.com) | Yes | - | - | - | [@DreadXPGames](https://x.com/DreadXPGames) / [support@dreadxp.com](mailto:support@dreadxp.com) | - |
-| [Dry Cactus](https://drycactus.com) | - | Yes | - | - | [drycactus.com](https://drycactus.com) / [support@drycactus.com](mailto:support@drycactus.com) / [info@drycactus.com](mailto:info@drycactus.com) | - |
-| [Fatshark](https://www.fatshark.se) | Yes | - | - | - | [@fatsharkgames](https://x.com/fatsharkgames) / [support@fatshark.se](mailto:support@fatshark.se) | - |
-| [Feardemic](https://feardemic.com) | Yes | - | - | - | [@feardemicgames](https://x.com/feardemicgames) / [support@feardemic.com](mailto:support@feardemic.com) | - |
-| [Fellow Traveller](https://www.fellowtraveller.games) | - | Yes | - | - | [fellowtraveller.games/contact](https://www.fellowtraveller.games/contact) / [@FellowTravellers](https://x.com/FellowTravellers) / [support@fellowtraveller.games](mailto:support@fellowtraveller.games) / [ftg@doublejump.com.au](mailto:ftg@doublejump.com.au) | - |
-| [Focus Entertainment](https://www.focus-entmt.com) | Yes | - | Yes | - | [@Focus_entmt](https://x.com/Focus_entmt) / [support@focusent.com](mailto:support@focusent.com) | - |
-| [Foreign Gnomes](https://x.com/EverhoodGame) | - | Yes | - | - | [Press kit](https://everhoodgame.com/presskit) / [Discord](https://discord.com/invite/everhood) / [@EverhoodGame](https://x.com/EverhoodGame) / [everhood.contact@gmail.com](mailto:everhood.contact@gmail.com) | - |
-| [FreeMind S.A.](https://www.freemindsa.com) | Yes | - | - | - | [@FreeMindSA](https://x.com/FreeMindSA) / [contact@freemindsa.com](mailto:contact@freemindsa.com) | - |
-| [Frogwares](https://frogwares.com) | - | Yes | - | - | [@Frogwares](https://x.com/Frogwares) / [support@frogwares.com](mailto:support@frogwares.com) | Sometimes adds expirations while their bundles are still live |
-| [Frontier Developments](https://www.frontier.co.uk) | Yes | - | - | - | [@FrontierDev](https://x.com/FrontierDev) / [support@frontier.co.uk](mailto:support@frontier.co.uk) | - |
-| [Frozenbyte](https://www.frozenbyte.com) | - | Yes | - | - | [Contact](https://www.frozenbyte.com/contact) / [support@frozenbyte.com](mailto:support@frozenbyte.com) | - |
-| [Fulqrum Publishing](https://fulqrumpublishing.com) | Yes | - | - | Yes | [@FulqrumGames](https://x.com/FulqrumGames) / [info@fulqrumpublishing.com](mailto:info@fulqrumpublishing.com) | - |
-| [Funcom](https://www.funcom.com) | Yes | - | - | - | [help.funcom.com](https://help.funcom.com) / [@Funcom](https://x.com/Funcom) | - |
-| [Gaming Company](https://www.gamingcompany.pl) | Yes | - | - | - | [@GameCompanyGC](https://x.com/GameCompanyGC) / [support@gamingcompany.pl](mailto:support@gamingcompany.pl) | - |
-| [Gearbox Publishing](https://www.gearboxpublishing.com) | Yes | Yes | - | - | [@GBXPublishing](https://x.com/GearboxOfficial) / [support@gearboxpublishing.com](mailto:support@gearboxpublishing.com) | - |
-| [Goblinz Publishing](https://goblinzstudio.com) | Yes | Yes | - | - | [Discord](https://discord.gg/GoblinzStudio) / [@GoblinzPub](https://x.com/GoblinzPub) / [contact@goblinzstudio.com](mailto:contact@goblinzstudio.com) | - |
-| [Half Mermaid](https://halfmermaid.co) | - | Yes | - | - | [Contact](https://halfmermaid.co/contact) / [@halfmermaid](https://x.com/halfmermaid) | - |
-| [HandyGames](https://handy-games.com) | - | Yes | - | - | [@handy_games](https://x.com/handy_games) / [support@handy-games.com](mailto:support@handy-games.com) / [info@handy-games.com](mailto:info@handy-games.com) | - |
-| [Headup](https://headupgames.com) | Yes | Yes | - | - | [@headupgames](https://x.com/headupgames) / [support@headupgames.com](mailto:support@headupgames.com) / [info@headupgames.com](mailto:info@headupgames.com) | - |
-| [Holy Wow Studios LLC](https://holywowstudios.com) | - | Yes | - | - | [holywowstudios.com](https://holywowstudios.com) / [@HolyWowStudios](https://x.com/HolyWowStudios) | - |
-| [Hooded Horse](https://hoodedhorse.com) | Yes | - | - | - | [Contact](https://hoodedhorse.com/submit-your-game) / [general@hoodedhorse.com](mailto:general@hoodedhorse.com) | - |
-| [Humble Games](https://www.humblegames.com) | Yes | Yes | - | - | [@HumbleGames](https://x.com/HumbleGames) / [support@humblegames.com](mailto:support@humblegames.com) | - |
-| [Hyperstrange](https://hyperstrange.com) | - | Yes | - | - | [hyperstrange.com](https://hyperstrange.com) / [@hyperstrange](https://x.com/hyperstrange) | - |
-| [Hypetrain Digital](https://hypetraindigital.com) | Yes | Yes | - | Yes | [@HypeTrainD](https://x.com/HypeTrainD) / [publishing@hypetraindigital.com](mailto:publishing@hypetraindigital.com) | - |
-| [Iceberg Interactive](https://www.iceberg-games.com) | - | Yes | - | - | [@Iceberg_Games](https://x.com/Iceberg_Games) / [support@iceberg-games.com](mailto:support@iceberg-games.com) | - |
-| [ILIKESCIFI Games](https://www.ilikescifi.com) | Yes | - | - | - | [ilikescifi.com/contact.html](https://www.ilikescifi.com/contact.html) / [@IlikescifiGames](https://x.com/IlikescifiGames) / [contact@ilikescifi.com](mailto:contact@ilikescifi.com) | - |
-| [indie.io](https://indie.io) | Yes | Yes | - | - | [Support](https://support.indie.io/hc/en-us) / [support@indie.io](mailto:support@indie.io) | - |
-| [Kepler Interactive](https://kepler-interactive.com) | Yes | - | Yes | - | [@Kepler_Interact](https://x.com/Kepler_Interact) / [pr@kepler-interactive.com](mailto:pr@kepler-interactive.com) | Have given replacement keys in the past |
-| [Krafton](https://www.krafton.com) | Yes | - | - | - | [@Krafton_inc](https://x.com/Krafton_inc) / [info@krafton.com](mailto:info@krafton.com) | - |
-| [Landfall](https://landfall.se) | - | Yes | - | - | [landfall.se/contact](https://landfall.se/contact) / [@LandfallGames](https://x.com/LandfallGames) / [contact@landfall.se](mailto:contact@landfall.se) | - |
-| [Maddy Makes Games](https://www.maddymakesgames.com) | - | Yes | - | - | [Contact](https://exok.com/contact.html) / [contact@exok.com](mailto:contact@exok.com) | - |
-| [Maple Whispering Limited](https://www.maplewhispering.com) | Yes | - | - | - | [@MapleWhispering](https://x.com/MapleWhispering) / [support@maplewhispering.com](mailto:support@maplewhispering.com) | - |
-| [Merge Games](https://mergegames.com) | Yes | - | - | - | [@MergeGames](https://x.com/MergeGames) / [support@mergegames.com](mailto:support@mergegames.com) | - |
-| [MicroProse Software](https://www.microprose.com) | Yes | - | - | - | [microprose.com/helpdesk](https://www.microprose.com/helpdesk) / [@micro_prose](https://x.com/micro_prose) / [contact@microprose.co.uk](mailto:contact@microprose.co.uk) | - |
-| [Might and Delight](https://mightanddelight.com) | Yes | - | - | - | [@MightandDelight](https://x.com/MightandDelight) / [support@mightanddelight.com](mailto:support@mightanddelight.com) | - |
-| [Mixtvision](https://mixtvision.de) | - | Yes | - | - | [mixtvision.de/kontakt](https://mixtvision.de/kontakt) / [info@mixtvision.de](mailto:info@mixtvision.de) | - |
-| [Modularity](https://modularity.studio) | Yes | - | - | - | [@ModularitySTD](https://x.com/ModularitySTD) / [support@modularity.studio](mailto:support@modularity.studio) | - |
-| [Modus Games](https://modusgames.com) | Yes | - | - | - | [@Modus_Games](https://x.com/Modus_Games) / [support@modusgames.com](mailto:support@modusgames.com) | - |
-| [Nacon](https://www.nacongaming.com/en-US) | Yes | Yes | - | - | [@NACON](https://x.com/NACON) / [assistance.nacon@games.fr](mailto:assistance.nacon@games.fr) | - |
-| [New Blood Interactive](https://newblood.games) | - | Yes | - | - | [Contact](https://newblood.games) | - |
-| [No More Robots](https://nomorerobots.io) | Yes | - | - | Yes | [@NoMoreRobots](https://x.com/NoMoreRobots) / [info@nomorerobots.io](mailto:info@nomorerobots.io) | - |
-| [Noctiluca Studio](https://store.steampowered.com/search/?publisher=Noctiluca+Studio) | Yes | - | - | - | [Discord](https://discord.gg/Uf8EpWsFts) / [@remnant_records](https://x.com/remnant_records?lang=en) | - |
-| [Nomad Games](https://www.nomadgames.co.uk) | Yes | - | - | - | [@NomadGames](https://x.com/NomadGames) / [support@nomadgames.co.uk](mailto:support@nomadgames.co.uk) | - |
-| [OMEGAMES STUDIO](https://www.facebook.com/OmegamesStudio) | - | Yes | - | - | [Facebook](https://www.facebook.com/OmegamesStudio) / [toby.chen@itaotuo.com](mailto:toby.chen@itaotuo.com) | - |
-| [Out of the Blue Games](https://outbluegames.com) | - | Yes | - | - | [@OutBlueGames](https://x.com/OutBlueGames) / [info@outbluegames.com](mailto:info@outbluegames.com) | - |
-| [Outlier Games](https://outlier.games) | Yes | - | - | - | [@OutlierGames](https://x.com/OutlierGames) / [support@outlier.games](mailto:support@outlier.games) | - |
-| [Outright Games](https://outrightgames.com) | - | Yes | - | - | [Contact](https://outrightgames.com/contact) / [@Outright_Games](https://x.com/Outright_Games) / [support@outrightgames.com](mailto:support@outrightgames.com) | - |
-| [Overseer Games](https://www.overseergames.com) | Yes | - | - | - | [@OverseerGames](https://x.com/OverseerGames) / [support@overseergames.com](mailto:support@overseergames.com) | - |
-| [Paradox Interactive](https://www.paradoxinteractive.com) | Yes | - | - | - | [support.paradoxplaza.com](https://support.paradoxplaza.com) / [@PdxInteractive](https://x.com/PdxInteractive) | - |
-| [Playtonic Friends](https://www.playtonic.games) | - | Yes | - | - | [@PlaytonicGames](https://x.com/PlaytonicGames) / [support@playtonic.games](mailto:support@playtonic.games) | - |
-| [Poncle](https://poncle.club) | Yes | Yes | - | - | [@PoncleGames](https://x.com/PoncleGames) / [contact@poncle.club](mailto:contact@poncle.club) | - |
-| [Prismatika](https://prismatika.games) | Yes | - | - | - | [@PrismatikaGames](https://x.com/PrismatikaGames) | - |
-| [Private Division](https://www.privatedivision.com) | Yes | - | - | - | [@PrivateDivision](https://x.com/PrivateDivision) / [support@privatedivision.com](mailto:support@privatedivision.com) | - |
-| [Quantic Dream](https://quanticdream.com) | - | Yes | - | - | [support.quanticdream.com](https://support.quanticdream.com) / [quanticdream.com/contact](https://quanticdream.com/en/contact) / [@Quantic_Dream](https://x.com/Quantic_Dream) / [support@quanticdream.com](mailto:support@quanticdream.com) | - |
-| [QubicGames](https://qubicgames.com) | Yes | - | - | - | [@QubicGames](https://x.com/QubicGames) / [support@qubicgames.com](mailto:support@qubicgames.com) | - |
-| [Ravenscourt](https://www.ravenscourt.com) | Yes | - | - | - | [@Ravenscourt](https://x.com/Ravenscourt) / [support@ravenscourt.com](mailto:support@ravenscourt.com) | - |
-| [Raw Fury](https://rawfury.com) | Yes | Yes | - | Yes | [Discord](https://discord.gg/rawfury) / [@RawFury](https://x.com/RawFury) / [press@rawfury.com](mailto:press@rawfury.com) | - |
-| [Relic Entertainment](https://relic.com) | Yes | - | - | - | [help.relic.com](https://help.relic.com/hc/en-us) / [@relicgames](https://x.com/relicgames?lang=en) | - |
-| [rittzler](https://x.com/rittzler) | - | Yes | - | - | [Discord](https://discord.com/invite/DKa5XwJjVC) / [@rittzler](https://x.com/rittzler) | - |
-| [Santa Ragione](https://www.santaragione.com) | Yes | - | - | - | [@santaragione](https://x.com/santaragione) / [info@santaragione.com](mailto:info@santaragione.com) | - |
-| [Secret Base](https://secretbase.sg) | - | Yes | - | - | [Discord](https://discord.com/invite/wiredp) / [@SecretBaseGS](https://x.com/SecretBaseGS) / [team@secretbase.sg](mailto:team@secretbase.sg) | - |
-| [Secret Mode](https://wearesecretmode.com) | Yes | Yes | - | - | [Discord](https://discord.gg/TYXxVxbvCC) / [@WeAreSecretMode](https://x.com/WeAreSecretMode) / [info@secretmode.games](mailto:info@secretmode.games) | - |
-| [SEGA](https://www.sega.com) | Yes | - | - | - | [Support](https://support.sega.com) / [@SEGA](https://x.com/SEGA) | - |
-| [Serenity Forge](https://www.serenityforge.com) | Yes | - | - | - | [@SerenityForge](https://x.com/SerenityForge) / [support@serenityforge.com](mailto:support@serenityforge.com) | - |
-| [Sierra Entertainment](https://www.sierra.com) | Yes | - | - | - | [@SierraGamers](https://x.com/SierraGamers) / [support@sierra.com](mailto:support@sierra.com) | - |
-| [Signal Studios](https://www.signalstudios.net) | Yes | - | - | - | [@SignalStudios](https://x.com/SignalStudios) / [support@signalstudios.net](mailto:support@signalstudios.net) | - |
-| [Ska Studios](https://skastudios.com) | - | Yes | - | - | [skastudios.com/contact](https://skastudios.com/contact) / [@skastudios](https://x.com/skastudios) / [james@ska-studios.com](mailto:james@ska-studios.com) | - |
-| [Skybound Games](https://skybound.com) | - | Yes | - | - | [help.skybound.com](https://help.skybound.com) / [skybound.com/contact](https://skybound.com/contact) / [@SkyboundGames](https://x.com/SkyboundGames) | - |
-| [Slitherine Ltd.](https://www.slitherine.com) | Yes | - | - | - | [@Slitherine](https://x.com/Slitherine) / [support@slitherine.co.uk](mailto:support@slitherine.co.uk) | - |
-| [Sloclap](https://www.sloclap.com) | Yes | - | - | - | [@sloclap](https://x.com/sloclap) / [press@sloclap.com](mailto:press@sloclap.com) | - |
-| [Spiderling Studios](https://spiderlinggames.com) | - | Yes | - | - | [spiderlinggames.com](https://spiderlinggames.com) / [Contact](https://spiderlinggames.com/contact) | - |
-| [Squanch Games, Inc.](https://squanchgames.com) | Yes | - | - | - | [Contact](https://squanchgames.com/contact) | - |
-| [Starbreeze Publishing](https://www.starbreeze.com) | Yes | - | - | - | [@StarbreezeAB](https://x.com/StarbreezeAB) / [support@starbreeze.com](mailto:support@starbreeze.com) | - |
-| [Studio Evil](https://www.studioevil.net) | Yes | - | - | - | [@StudioEvilGames](https://x.com/StudioEvilGames) / [contact@studioevil.net](mailto:contact@studioevil.net) | - |
-| [Studio MDHR](https://www.studiomdhr.com) | Yes | - | - | - | [@StudioMDHR](https://x.com/StudioMDHR) / [press@studiomdhr.com](mailto:press@studiomdhr.com) | - |
-| [SuperGG.com](https://www.supergg.com) | - | Yes | - | - | [@SuperGG_com](https://x.com/SuperGG_com) / [support@supergg.com](mailto:support@supergg.com) | - |
-| [Superku](https://www.pogostuck.com) | - | Yes | - | - | [Steam Discussions](https://steamcommunity.com/app/688130/discussions) / [Discord](https://discord.gg/jKaA7EX) / [@realSuperku](https://x.com/realSuperku) | - |
-| [Sven Ahlgrimm](https://oddada.com) | - | Yes | - | - | [Press kit](https://oddada.com/press/sheet.php?p=ODDADA) / [@SvenAhlgrimm](https://x.com/SvenAhlgrimm) / [sven.ahlg@gmail.com](mailto:sven.ahlg@gmail.com) | - |
-| [Tate Multimedia](https://www.tatemultimedia.com) | - | Yes | - | - | [Contact](https://www.tatemultimedia.com/contact.html) / [Discord](https://discord.com/invite/tatemultimedia) / [@TateMultimedia](https://x.com/TateMultimedia) / [contact@tatemultimedia.com](mailto:contact@tatemultimedia.com) | - |
-| [Team Reptile](https://team-reptile.com) | Yes | - | - | - | [@ReptileGames](https://x.com/ReptileGames) / [contact@team-reptile.com](mailto:contact@team-reptile.com) | - |
-| [Team17](https://team17.com) | Yes | Yes | - | - | [Support](https://www.team17.com/support) / [Discord](https://discordapp.com/invite/team17) / [@Team17Help](https://x.com/Team17Help) / [support@team17.com](mailto:support@team17.com) | - |
-| [Techland](https://www.techland.pl) | Yes | - | - | - | [@TechlandGames](https://x.com/TechlandGames) / [support@techland.pl](mailto:support@techland.pl) | - |
-| [Third Spirit Games](https://thirdspiritgames.com) | - | Yes | - | - | [Contact](https://thirdspiritgames.com/contact) | - |
-| [THQ Nordic](https://www.thqnordic.com) | Yes | Yes | - | - | [Contact Page](https://thqnordic.com/company/contact) / [@THQNordic](https://x.com/THQNordic) / [support@thqnordic.com](mailto:support@thqnordic.com) | - |
-| [tinyBuild](https://www.tinybuild.com) | Yes | Yes | - | - | [@tinyBuild](https://x.com/tinyBuild) / [contact@tinybuild.com](mailto:contact@tinybuild.com) | - |
-| [Toge Productions](https://togeproductions.com) | - | Yes | - | - | [Contact](https://togeproductions.com/contact) / [@togeproductions](https://x.com/togeproductions) / [contact@togeproductions.com](mailto:contact@togeproductions.com) | - |
-| [Toplitz Productions](https://www.toplitz-productions.com) | Yes | Yes | - | - | [@Toplitz_Prod](https://x.com/Toplitz_Prod) / [support@toplitz-productions.com](mailto:support@toplitz-productions.com) | - |
-| [Total Mayhem Games](https://totalmayhemgames.com) | Yes | - | - | - | [Support](https://totalmayhemgames.zendesk.com) / [Contact](https://totalmayhemgames.com/contact) | - |
-| [Triband](https://triband.net) | - | Yes | - | - | [triband.net](https://triband.net) / [hello@triband.net](mailto:hello@triband.net) | - |
-| [Tripwire Interactive](https://www.tripwireinteractive.com) | Yes | Yes | - | - | [@TripwireInt](https://x.com/TripwireInt) / [support@tripwireinteractive.com](mailto:support@tripwireinteractive.com) | - |
-| [Twin Sails Interactive](https://twinsails.com) | Yes | - | - | - | [@TwinSails](https://x.com/TwinSails) / [support@twinsails.com](mailto:support@twinsails.com) | - |
-| [Versus Evil](https://www.versusevil.com) | Yes | Yes | - | - | [@VersusEvil](https://x.com/VersusEvil) / [support@versusevil.com](mailto:support@versusevil.com) | - |
-| [Wales Interactive](https://www.walesinteractive.com) | Yes | - | - | - | [@WalesInter](https://x.com/WalesInter) / [info@walesinteractive.com](mailto:info@walesinteractive.com) | - |
-| [Walkabout Games](https://walkaboutgames.com) | Yes | - | - | - | [@WalkaboutGames](https://x.com/WalkaboutGames) / [support@walkaboutgames.com](mailto:support@walkaboutgames.com) | - |
-| [WanadevStudio](https://wanadevstudio.com) | - | Yes | - | - | [wanadevstudio.com/contact](https://wanadevstudio.com/contact) / [contact@wanadevstudio.com](mailto:contact@wanadevstudio.com) | - |
-| [WayForward](https://wayforward.com) | - | Yes | - | - | [support.wayforward.com](https://support.wayforward.com) / [wayforward.com/support](https://wayforward.com/support) / [@WayForward](https://x.com/WayForward) | - |
-| [WB Games](https://warnerbrosgames.com) | Yes | Yes | - | - | [@WBGames](https://x.com/WBGames) / [wbgamessupport@wbgames.com](mailto:wbgamessupport@wbgames.com) | - |
-| [Whitethorn Games](https://whitethorndigital.com) | Yes | - | - | - | [@WhitethornGames](https://x.com/WhitethornGames) / [support@whitethorndigital.com](mailto:support@whitethorndigital.com) | Claims Valve won't provide keys for certain games, but still sells those games on the Humble Store |
-| [Wired Productions](https://www.wiredproductions.com) | Yes | - | - | Yes | [Support](https://support.wiredproductions.com) / [Discord](https://discord.com/invite/wiredp) / [@WiredP](https://x.com/WiredP) / [info@wiredproductions.com](mailto:info@wiredproductions.com) | - |
-| [Xbox Game Studios](https://www.xbox.com/games/xbox-game-studios) | - | Yes | - | - | [support.xbox.com](https://support.xbox.com) / [@Xbox](https://x.com/Xbox) | - |
-| [Yogscast Games](https://www.yogscast.games) | Yes | - | Yes | - | [@YogscastGames](https://x.com/YogscastGames) / [contact@yogscast.com](mailto:contact@yogscast.com) | - |
-| [ZA/UM](https://zaumstudio.com) | - | Yes | - | - | [zaumstudio.com](https://zaumstudio.com) / [@studiozaum](https://x.com/studiozaum) / [support@zaumstudio.com](mailto:support@zaumstudio.com) / [info@zaumstudio.com](mailto:info@zaumstudio.com) | - |
-
+| Publisher | Current/Previous Stock Issues | Retroactive Expirations | Past Expirations Without Restock | DRM Switching | Fraudulent Recycling | Contact | Notes |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| [2K](https://2k.com) | Yes | Yes | - | - | - | [support.2k.com](https://support.2k.com) / [@2K](https://x.com/2K) | - |
+| [505 Games](https://505games.com) | Yes | Yes | - | Yes | - | [support.505games.com](https://support.505games.com) / [@505_Games](https://x.com/505_Games) | - |
+| [5minlab Corp.](https://5minlab.com) | - | Yes | - | - | - | [5minlab.com/contact](https://5minlab.com/en/contact_us) / [contact@5minlab.com](mailto:contact@5minlab.com) / [biz@5minlab.com](mailto:biz@5minlab.com) | - |
+| [Abylight Studios](https://abylightstudios.com) | Yes | - | - | - | - | [abylight.com/contact](https://abylight.com/contact) / [team@abylight.com](mailto:team@abylight.com) | - |
+| [Aether Studios](https://aetherstudios.com) | - | Yes | - | - | - | [Support](https://aetherstudios.com/supporting/i-found-a-bug-where-can-i-report-it-2) / [Discord](https://discord.com/invite/roa) / [@StudiosOfAether](https://x.com/StudiosOfAether) | - |
+| [AGM PLAYISM](https://playism.com) | Yes | - | - | - | - | [@playismEN](https://x.com/playismEN) / [support@playism.com](mailto:support@playism.com) | - |
+| [Akupara Games](https://www.akuparagames.com) | Yes | Yes | Yes | Yes | - | [@AkuparaGames](https://x.com/AkuparaGames) / [team@akuparagames.com](mailto:team@akuparagames.com) | - |
+| [Alawar](https://alawar.com) | - | Yes | - | - | - | [support.alawar.com](https://support.alawar.com) / [alawar.com](https://alawar.com) | - |
+| [Amanita Design](https://amanita-design.net) | - | Yes | - | - | - | [@Amanita_Design](https://x.com/Amanita_Design) / [support@amanita-design.net](mailto:support@amanita-design.net) | - |
+| [AMPLITUDE Studios](https://amplitude-studios.com) | Yes | - | - | - | - | [cs@amplitude-studios.com](mailto:cs@amplitude-studios.com) | - |
+| [Arc Games](https://www.arcgames.com) | Yes | - | - | - | - | [@ArcGames](https://x.com/ArcGames) / [support@arcgames.com](mailto:support@arcgames.com) | - |
+| [Armor Games Studios](https://armorgamesstudios.com) | - | Yes | - | - | - | [Support Forum](https://armorgames.com/community/forum/34/support-forum) / [Discord](https://discord.gg/zZzgJKn) / [@ArmorGameStudio](https://x.com/ArmorGameStudio) / [presskits@armorgames.com](mailto:PressKits@ArmorGames.com) | - |
+| [Assemble Entertainment](https://assemble-ent.com) | Yes | Yes | - | - | - | [@AssembleTeam](https://x.com/AssembleTeam) / [support@assemble-ent.com](mailto:support@assemble-ent.com) | - |
+| [Aspyr](https://www.aspyr.com) | Yes | - | - | - | - | [@AspyrMedia](https://x.com/AspyrMedia) / [support@aspyr.com](mailto:support@aspyr.com) | - |
+| [Astra Publishing](https://astrapublishing.com) | Yes | - | - | - | - | [@AstraPublish](https://x.com/AstraPublish) / [support@astrapublishing.com](mailto:support@astrapublishing.com) | - |
+| [Avalanche Studios](https://avalanchestudios.com) | Yes | - | - | - | - | [Support](https://avalanchestudios.com/support) / [Contact](https://avalanchestudios.com/connect) | - |
+| [BANDAI NAMCO Entertainment](https://www.bandainamcoent.com) | Yes | - | - | - | - | [support.bandainamcoent.com](https://support.bandainamcoent.com) / [@BandaiNamcoUS](https://x.com/BandaiNamcoUS) | - |
+| [Beautiful Glitch](https://beautifulglitch.pizza) | Yes | - | - | - | - | [Contact](https://beautifulglitch.pizza/contact) / [hello@beautifulglitch.pizza](mailto:hello@beautifulglitch.pizza) / [bugreports@beautifulglitch.pizza](mailto:bugreports@beautifulglitch.pizza) | - |
+| [BerserkBoy Games](https://berserkboygames.com) | - | Yes | - | - | - | [berserkboygames.com](https://berserkboygames.com) / [@BerserkBoyGame](https://x.com/BerserkBoyGame) / [bbgames.social@gmail.com](mailto:bbgames.social@gmail.com) | - |
+| [Berserk Games](https://www.berserk-games.com) | Yes | - | - | - | - | [@TabletopSim](https://x.com/TabletopSim) / [business@berserk-games.com](mailto:business@berserk-games.com) | - |
+| [Bethesda Softworks](https://bethesda.net) | - | Yes | - | - | - | [@bethesda](https://x.com/bethesda) / [support@bethesda.net](mailto:support@bethesda.net) | - |
+| [Blackbird Interactive](https://blackbirdinteractive.com) | - | Yes | - | - | - | [blackbirdinteractive.com/contact](https://blackbirdinteractive.com/contact) / [contact@blackbirdinteractive.com](mailto:contact@blackbirdinteractive.com) | - |
+| [BlankMediaGames](https://blankmediagames.com) | - | Yes | - | - | - | [@TownofSalemGame](https://x.com/TownofSalemGame) / [support@blankmediagames.com](mailto:support@blankmediagames.com) | - |
+| [Broken Arms Games](https://brokenarmsgames.com) | Yes | - | - | - | - | [@BrokenArmsGames](https://x.com/BrokenArmsGames) / [support@brokenarmsgames.com](mailto:support@brokenarmsgames.com) | - |
+| [Coconut Island Games](https://coconutislandgames.com) | - | Yes | - | - | - | [coconutislandgames.com](https://coconutislandgames.com) / [gamesupport@coconut.is](mailto:gamesupport@coconut.is) / [contact@coconut.is](mailto:contact@coconut.is) | - |
+| [Cold Beam Games](https://coldbeamgames.com) | Yes | - | - | - | - | [Discord](https://discord.gg/beathazard) / [@ColdBeamGames](https://x.com/ColdBeamGames) / [support@coldbeamgames.com](mailto:support@coldbeamgames.com) | Previous stock issues likely inadvertent |
+| [Coldwild Games](https://coldwild.com) | Yes | - | - | - | - | [@ColdwildGames](https://x.com/ColdwildGames) / [support@coldwild.com](mailto:support@coldwild.com) | - |
+| [COWCAT](https://cowcatgames.com) | - | Yes | - | - | - | [support@cowcatgames.com](mailto:support@cowcatgames.com) / [@COWCATGames](https://x.com/COWCATGames) | - |
+| [Cranky Watermelon](https://crankywatermelon.com) | Yes | - | - | - | - | [@CrankyWatermel0](https://x.com/CrankyWatermel0) / [support@crankywatermelon.com](mailto:support@crankywatermelon.com) | - |
+| [Crytek](https://www.crytek.com) | Yes | - | - | - | - | [@Crytek](https://x.com/Crytek) / [info@crytek.com](mailto:info@crytek.com) | - |
+| [Curve Games](https://www.curvegames.com) | Yes | Yes | - | - | - | [@curvegames](https://x.com/curvegames) / [support@curvegames.com](mailto:support@curvegames.com) | - |
+| [D3 Publisher](https://www.d3p.co.jp) | Yes | Yes | - | - | - | [Contact via website](https://www.d3p.co.jp/edf6/en) / [@D3Publisher](https://x.com/D3Publisher) | - |
+| [Daedalic Entertainment](https://www.daedalic.com) | Yes | Yes | - | - | - | [daedalicsupport.com](https://www.daedalicsupport.com) / [Discord](https://discord.gg/daedalic) / [@daedalic](https://x.com/daedalic) | - |
+| [DANGEN Entertainment](https://dangenentertainment.com) | - | Yes | - | - | - | [dangenentertainment.com](https://dangenentertainment.com) / [Discord](https://discord.gg/dangen) / [@Dangen_Ent](https://x.com/Dangen_Ent) / [support@dangenentertainment.com](mailto:support@dangenentertainment.com) | - |
+| [Dapper Dog Digital](https://biogungame.com) | - | Yes | - | - | - | [biogungame.com/contact](https://biogungame.com/contact) / [@DapperDogDigi](https://x.com/DapperDogDigi) | - |
+| [Dark Point Games](https://darkpointgames.com) | - | Yes | - | - | - | [@DarkPointGames](https://x.com/DarkPointGames) / [biuro@darkpointgames.com](mailto:biuro@darkpointgames.com) | - |
+| [Dear Villagers](https://dearvillagers.com) | Yes | - | - | Yes | - | [@DearVillagers](https://x.com/DearVillagers) / [contact@dearvillagers.com](mailto:contact@dearvillagers.com) | - |
+| [Deep Silver](https://www.deepsilver.com) | Yes | - | - | - | - | [@deepsilver](https://x.com/deepsilver) / [support@deepsilver.com](mailto:support@deepsilver.com) | - |
+| [Devolver Digital](https://www.devolverdigital.com) | Yes | Yes | - | - | - | [@devolverdigital](https://x.com/devolverdigital) / [support@devolverdigital.com](mailto:support@devolverdigital.com) | - |
+| [Dionic Software](https://store.steampowered.com/publisher/dionicsoftware) | Yes | - | - | - | - | [Steam Publisher Page](https://store.steampowered.com/publisher/dionicsoftware) | - |
+| [DON'T NOD](https://dont-nod.com) | Yes | - | - | - | - | [Support](https://support.dont-nod.com/hc/en-us) / [Contact](https://dont-nod.com/en/contact) | - |
+| [Door 407](https://door407.com) | Yes | - | - | Yes | - | [@Door407Games](https://x.com/Door407Games) / [support@door407.com](mailto:support@door407.com) | - |
+| [DreadXP](https://www.dreadxp.com) | Yes | - | - | - | - | [@DreadXPGames](https://x.com/DreadXPGames) / [support@dreadxp.com](mailto:support@dreadxp.com) | - |
+| [Dry Cactus](https://drycactus.com) | - | Yes | - | - | - | [drycactus.com](https://drycactus.com) / [support@drycactus.com](mailto:support@drycactus.com) / [info@drycactus.com](mailto:info@drycactus.com) | - |
+| [Fatshark](https://www.fatshark.se) | Yes | - | - | - | - | [@fatsharkgames](https://x.com/fatsharkgames) / [support@fatshark.se](mailto:support@fatshark.se) | - |
+| [Feardemic](https://feardemic.com) | Yes | - | - | - | - | [@feardemicgames](https://x.com/feardemicgames) / [support@feardemic.com](mailto:support@feardemic.com) | - |
+| [Fellow Traveller](https://www.fellowtraveller.games) | - | Yes | - | - | - | [fellowtraveller.games/contact](https://www.fellowtraveller.games/contact) / [@FellowTravellers](https://x.com/FellowTravellers) / [support@fellowtraveller.games](mailto:support@fellowtraveller.games) / [ftg@doublejump.com.au](mailto:ftg@doublejump.com.au) | - |
+| [Focus Entertainment](https://www.focus-entmt.com) | Yes | - | Yes | - | - | [@Focus_entmt](https://x.com/Focus_entmt) / [support@focusent.com](mailto:support@focusent.com) | - |
+| [Foreign Gnomes](https://x.com/EverhoodGame) | - | Yes | - | - | - | [Press kit](https://everhoodgame.com/presskit) / [Discord](https://discord.com/invite/everhood) / [@EverhoodGame](https://x.com/EverhoodGame) / [everhood.contact@gmail.com](mailto:everhood.contact@gmail.com) | - |
+| [FreeMind S.A.](https://www.freemindsa.com) | Yes | - | - | - | - | [@FreeMindSA](https://x.com/FreeMindSA) / [contact@freemindsa.com](mailto:contact@freemindsa.com) | - |
+| [Frogwares](https://frogwares.com) | - | Yes | - | - | - | [@Frogwares](https://x.com/Frogwares) / [support@frogwares.com](mailto:support@frogwares.com) | Sometimes adds expirations while their bundles are still live |
+| [Frontier Developments](https://www.frontier.co.uk) | Yes | - | - | - | - | [@FrontierDev](https://x.com/FrontierDev) / [support@frontier.co.uk](mailto:support@frontier.co.uk) | - |
+| [Frozenbyte](https://www.frozenbyte.com) | - | Yes | - | - | - | [Contact](https://www.frozenbyte.com/contact) / [support@frozenbyte.com](mailto:support@frozenbyte.com) | - |
+| [Fulqrum Publishing](https://fulqrumpublishing.com) | Yes | - | - | Yes | - | [@FulqrumGames](https://x.com/FulqrumGames) / [info@fulqrumpublishing.com](mailto:info@fulqrumpublishing.com) | - |
+| [Funcom](https://www.funcom.com) | Yes | - | - | - | - | [help.funcom.com](https://help.funcom.com) / [@Funcom](https://x.com/Funcom) | - |
+| [Gaming Company](https://www.gamingcompany.pl) | Yes | - | - | - | - | [@GameCompanyGC](https://x.com/GameCompanyGC) / [support@gamingcompany.pl](mailto:support@gamingcompany.pl) | - |
+| [Gearbox Publishing](https://www.gearboxpublishing.com) | Yes | Yes | - | - | - | [@GBXPublishing](https://x.com/GearboxOfficial) / [support@gearboxpublishing.com](mailto:support@gearboxpublishing.com) | - |
+| [Goblinz Publishing](https://goblinzstudio.com) | Yes | Yes | - | - | - | [Discord](https://discord.gg/GoblinzStudio) / [@GoblinzPub](https://x.com/GoblinzPub) / [contact@goblinzstudio.com](mailto:contact@goblinzstudio.com) | - |
+| [Half Mermaid](https://halfmermaid.co) | - | Yes | - | - | - | [Contact](https://halfmermaid.co/contact) / [@halfmermaid](https://x.com/halfmermaid) | - |
+| [HandyGames](https://handy-games.com) | - | Yes | - | - | - | [@handy_games](https://x.com/handy_games) / [support@handy-games.com](mailto:support@handy-games.com) / [info@handy-games.com](mailto:info@handy-games.com) | - |
+| [Headup](https://headupgames.com) | Yes | Yes | - | - | - | [@headupgames](https://x.com/headupgames) / [support@headupgames.com](mailto:support@headupgames.com) / [info@headupgames.com](mailto:info@headupgames.com) | - |
+| [Holy Wow Studios LLC](https://holywowstudios.com) | - | Yes | - | - | - | [holywowstudios.com](https://holywowstudios.com) / [@HolyWowStudios](https://x.com/HolyWowStudios) | - |
+| [Hooded Horse](https://hoodedhorse.com) | Yes | - | - | - | - | [Contact](https://hoodedhorse.com/submit-your-game) / [general@hoodedhorse.com](mailto:general@hoodedhorse.com) | - |
+| [Humble Games](https://www.humblegames.com) | Yes | Yes | - | - | - | [@HumbleGames](https://x.com/HumbleGames) / [support@humblegames.com](mailto:support@humblegames.com) | - |
+| [Hyperstrange](https://hyperstrange.com) | - | Yes | - | - | - | [hyperstrange.com](https://hyperstrange.com) / [@hyperstrange](https://x.com/hyperstrange) | - |
+| [Hypetrain Digital](https://hypetraindigital.com) | Yes | Yes | - | Yes | - | [@HypeTrainD](https://x.com/HypeTrainD) / [publishing@hypetraindigital.com](mailto:publishing@hypetraindigital.com) | - |
+| [Iceberg Interactive](https://www.iceberg-games.com) | - | Yes | - | - | - | [@Iceberg_Games](https://x.com/Iceberg_Games) / [support@iceberg-games.com](mailto:support@iceberg-games.com) | - |
+| [ILIKESCIFI Games](https://www.ilikescifi.com) | Yes | - | - | - | - | [ilikescifi.com/contact.html](https://www.ilikescifi.com/contact.html) / [@IlikescifiGames](https://x.com/IlikescifiGames) / [contact@ilikescifi.com](mailto:contact@ilikescifi.com) | - |
+| [indie.io](https://indie.io) | Yes | Yes | - | - | - | [Support](https://support.indie.io/hc/en-us) / [support@indie.io](mailto:support@indie.io) | - |
+| [Kepler Interactive](https://kepler-interactive.com) | Yes | - | Yes | - | - | [@Kepler_Interact](https://x.com/Kepler_Interact) / [pr@kepler-interactive.com](mailto:pr@kepler-interactive.com) | Have given replacement keys in the past |
+| [Krafton](https://www.krafton.com) | Yes | - | - | - | - | [@Krafton_inc](https://x.com/Krafton_inc) / [info@krafton.com](mailto:info@krafton.com) | - |
+| [Landfall](https://landfall.se) | - | Yes | - | - | - | [landfall.se/contact](https://landfall.se/contact) / [@LandfallGames](https://x.com/LandfallGames) / [contact@landfall.se](mailto:contact@landfall.se) | - |
+| [Maddy Makes Games](https://www.maddymakesgames.com) | - | Yes | - | - | - | [Contact](https://exok.com/contact.html) / [contact@exok.com](mailto:contact@exok.com) | - |
+| [Maple Whispering Limited](https://www.maplewhispering.com) | Yes | - | - | - | - | [@MapleWhispering](https://x.com/MapleWhispering) / [support@maplewhispering.com](mailto:support@maplewhispering.com) | - |
+| [Merge Games](https://mergegames.com) | Yes | - | - | - | - | [@MergeGames](https://x.com/MergeGames) / [support@mergegames.com](mailto:support@mergegames.com) | - |
+| [MicroProse Software](https://www.microprose.com) | Yes | - | - | - | - | [microprose.com/helpdesk](https://www.microprose.com/helpdesk) / [@micro_prose](https://x.com/micro_prose) / [contact@microprose.co.uk](mailto:contact@microprose.co.uk) | - |
+| [Might and Delight](https://mightanddelight.com) | Yes | - | - | - | - | [@MightandDelight](https://x.com/MightandDelight) / [support@mightanddelight.com](mailto:support@mightanddelight.com) | - |
+| [Mixtvision](https://mixtvision.de) | - | Yes | - | - | - | [mixtvision.de/kontakt](https://mixtvision.de/kontakt) / [info@mixtvision.de](mailto:info@mixtvision.de) | - |
+| [Modularity](https://modularity.studio) | Yes | - | - | - | - | [@ModularitySTD](https://x.com/ModularitySTD) / [support@modularity.studio](mailto:support@modularity.studio) | - |
+| [Modus Games](https://modusgames.com) | Yes | - | - | - | - | [@Modus_Games](https://x.com/Modus_Games) / [support@modusgames.com](mailto:support@modusgames.com) | - |
+| [Nacon](https://www.nacongaming.com/en-US) | Yes | Yes | - | - | - | [@NACON](https://x.com/NACON) / [assistance.nacon@games.fr](mailto:assistance.nacon@games.fr) | - |
+| [New Blood Interactive](https://newblood.games) | - | Yes | - | - | - | [Contact](https://newblood.games) | - |
+| [No More Robots](https://nomorerobots.io) | Yes | - | - | Yes | - | [@NoMoreRobots](https://x.com/NoMoreRobots) / [info@nomorerobots.io](mailto:info@nomorerobots.io) | - |
+| [Noctiluca Studio](https://store.steampowered.com/search/?publisher=Noctiluca+Studio) | Yes | - | - | - | - | [Discord](https://discord.gg/Uf8EpWsFts) / [@remnant_records](https://x.com/remnant_records?lang=en) | - |
+| [Nomad Games](https://www.nomadgames.co.uk) | Yes | - | - | - | - | [@NomadGames](https://x.com/NomadGames) / [support@nomadgames.co.uk](mailto:support@nomadgames.co.uk) | - |
+| [OMEGAMES STUDIO](https://www.facebook.com/OmegamesStudio) | - | Yes | - | - | - | [Facebook](https://www.facebook.com/OmegamesStudio) / [toby.chen@itaotuo.com](mailto:toby.chen@itaotuo.com) | - |
+| [Out of the Blue Games](https://outbluegames.com) | - | Yes | - | - | - | [@OutBlueGames](https://x.com/OutBlueGames) / [info@outbluegames.com](mailto:info@outbluegames.com) | - |
+| [Outlier Games](https://outlier.games) | Yes | - | - | - | - | [@OutlierGames](https://x.com/OutlierGames) / [support@outlier.games](mailto:support@outlier.games) | - |
+| [Outright Games](https://outrightgames.com) | - | Yes | - | - | - | [Contact](https://outrightgames.com/contact) / [@Outright_Games](https://x.com/Outright_Games) / [support@outrightgames.com](mailto:support@outrightgames.com) | - |
+| [Overseer Games](https://www.overseergames.com) | Yes | - | - | - | - | [@OverseerGames](https://x.com/OverseerGames) / [support@overseergames.com](mailto:support@overseergames.com) | - |
+| [Paradox Interactive](https://www.paradoxinteractive.com) | Yes | - | - | - | - | [support.paradoxplaza.com](https://support.paradoxplaza.com) / [@PdxInteractive](https://x.com/PdxInteractive) | - |
+| [Playtonic Friends](https://www.playtonic.games) | - | Yes | - | - | - | [@PlaytonicGames](https://x.com/PlaytonicGames) / [support@playtonic.games](mailto:support@playtonic.games) | - |
+| [Poncle](https://poncle.club) | Yes | Yes | - | - | - | [@PoncleGames](https://x.com/PoncleGames) / [contact@poncle.club](mailto:contact@poncle.club) | - |
+| [Prismatika](https://prismatika.games) | Yes | - | - | - | - | [@PrismatikaGames](https://x.com/PrismatikaGames) | - |
+| [Private Division](https://www.privatedivision.com) | Yes | - | - | - | - | [@PrivateDivision](https://x.com/PrivateDivision) / [support@privatedivision.com](mailto:support@privatedivision.com) | - |
+| [Quantic Dream](https://quanticdream.com) | - | Yes | - | - | - | [support.quanticdream.com](https://support.quanticdream.com) / [quanticdream.com/contact](https://quanticdream.com/en/contact) / [@Quantic_Dream](https://x.com/Quantic_Dream) / [support@quanticdream.com](mailto:support@quanticdream.com) | - |
+| [QubicGames](https://qubicgames.com) | Yes | - | - | - | - | [@QubicGames](https://x.com/QubicGames) / [support@qubicgames.com](mailto:support@qubicgames.com) | - |
+| [Ravenscourt](https://www.ravenscourt.com) | Yes | - | - | - | - | [@Ravenscourt](https://x.com/Ravenscourt) / [support@ravenscourt.com](mailto:support@ravenscourt.com) | - |
+| [Raw Fury](https://rawfury.com) | Yes | Yes | - | Yes | - | [Discord](https://discord.gg/rawfury) / [@RawFury](https://x.com/RawFury) / [press@rawfury.com](mailto:press@rawfury.com) | - |
+| [Relic Entertainment](https://relic.com) | Yes | - | - | - | - | [help.relic.com](https://help.relic.com/hc/en-us) / [@relicgames](https://x.com/relicgames?lang=en) | - |
+| [rittzler](https://x.com/rittzler) | - | Yes | - | - | - | [Discord](https://discord.com/invite/DKa5XwJjVC) / [@rittzler](https://x.com/rittzler) | - |
+| [Santa Ragione](https://www.santaragione.com) | Yes | - | - | - | - | [@santaragione](https://x.com/santaragione) / [info@santaragione.com](mailto:info@santaragione.com) | - |
+| [Secret Base](https://secretbase.sg) | - | Yes | - | - | - | [Discord](https://discord.com/invite/wiredp) / [@SecretBaseGS](https://x.com/SecretBaseGS) / [team@secretbase.sg](mailto:team@secretbase.sg) | - |
+| [Secret Mode](https://wearesecretmode.com) | Yes | Yes | - | - | - | [Discord](https://discord.gg/TYXxVxbvCC) / [@WeAreSecretMode](https://x.com/WeAreSecretMode) / [info@secretmode.games](mailto:info@secretmode.games) | - |
+| [SEGA](https://www.sega.com) | Yes | - | - | - | - | [Support](https://support.sega.com) / [@SEGA](https://x.com/SEGA) | - |
+| [Serenity Forge](https://www.serenityforge.com) | Yes | - | - | - | - | [@SerenityForge](https://x.com/SerenityForge) / [support@serenityforge.com](mailto:support@serenityforge.com) | - |
+| [Sierra Entertainment](https://www.sierra.com) | Yes | - | - | - | - | [@SierraGamers](https://x.com/SierraGamers) / [support@sierra.com](mailto:support@sierra.com) | - |
+| [Signal Studios](https://www.signalstudios.net) | Yes | - | - | - | - | [@SignalStudios](https://x.com/SignalStudios) / [support@signalstudios.net](mailto:support@signalstudios.net) | - |
+| [Ska Studios](https://skastudios.com) | - | Yes | - | - | - | [skastudios.com/contact](https://skastudios.com/contact) / [@skastudios](https://x.com/skastudios) / [james@ska-studios.com](mailto:james@ska-studios.com) | - |
+| [Skybound Games](https://skybound.com) | - | Yes | - | - | - | [help.skybound.com](https://help.skybound.com) / [skybound.com/contact](https://skybound.com/contact) / [@SkyboundGames](https://x.com/SkyboundGames) | - |
+| [Slitherine Ltd.](https://www.slitherine.com) | Yes | - | - | - | - | [@Slitherine](https://x.com/Slitherine) / [support@slitherine.co.uk](mailto:support@slitherine.co.uk) | - |
+| [Sloclap](https://www.sloclap.com) | Yes | - | - | - | - | [@sloclap](https://x.com/sloclap) / [press@sloclap.com](mailto:press@sloclap.com) | - |
+| [Spiderling Studios](https://spiderlinggames.com) | - | Yes | - | - | - | [spiderlinggames.com](https://spiderlinggames.com) / [Contact](https://spiderlinggames.com/contact) | - |
+| [Squanch Games, Inc.](https://squanchgames.com) | Yes | - | - | - | - | [Contact](https://squanchgames.com/contact) | - |
+| [Starbreeze Publishing](https://www.starbreeze.com) | Yes | - | - | - | - | [@StarbreezeAB](https://x.com/StarbreezeAB) / [support@starbreeze.com](mailto:support@starbreeze.com) | - |
+| [Studio Evil](https://www.studioevil.net) | Yes | - | - | - | - | [@StudioEvilGames](https://x.com/StudioEvilGames) / [contact@studioevil.net](mailto:contact@studioevil.net) | - |
+| [Studio MDHR](https://www.studiomdhr.com) | Yes | - | - | - | - | [@StudioMDHR](https://x.com/StudioMDHR) / [press@studiomdhr.com](mailto:press@studiomdhr.com) | - |
+| [SuperGG.com](https://www.supergg.com) | - | Yes | - | - | - | [@SuperGG_com](https://x.com/SuperGG_com) / [support@supergg.com](mailto:support@supergg.com) | - |
+| [Superku](https://www.pogostuck.com) | - | Yes | - | - | - | [Steam Discussions](https://steamcommunity.com/app/688130/discussions) / [Discord](https://discord.gg/jKaA7EX) / [@realSuperku](https://x.com/realSuperku) | - |
+| [Sven Ahlgrimm](https://oddada.com) | - | Yes | - | - | - | [Press kit](https://oddada.com/press/sheet.php?p=ODDADA) / [@SvenAhlgrimm](https://x.com/SvenAhlgrimm) / [sven.ahlg@gmail.com](mailto:sven.ahlg@gmail.com) | - |
+| [Tate Multimedia](https://www.tatemultimedia.com) | - | Yes | - | - | - | [Contact](https://www.tatemultimedia.com/contact.html) / [Discord](https://discord.com/invite/tatemultimedia) / [@TateMultimedia](https://x.com/TateMultimedia) / [contact@tatemultimedia.com](mailto:contact@tatemultimedia.com) | - |
+| [Team Reptile](https://team-reptile.com) | Yes | - | - | - | - | [@ReptileGames](https://x.com/ReptileGames) / [contact@team-reptile.com](mailto:contact@team-reptile.com) | - |
+| [Team17](https://team17.com) | Yes | Yes | - | - | - | [Support](https://www.team17.com/support) / [Discord](https://discordapp.com/invite/team17) / [@Team17Help](https://x.com/Team17Help) / [support@team17.com](mailto:support@team17.com) | - |
+| [Techland](https://www.techland.pl) | Yes | - | - | - | - | [@TechlandGames](https://x.com/TechlandGames) / [support@techland.pl](mailto:support@techland.pl) | - |
+| [Third Spirit Games](https://thirdspiritgames.com) | - | Yes | - | - | - | [Contact](https://thirdspiritgames.com/contact) | - |
+| [THQ Nordic](https://www.thqnordic.com) | Yes | Yes | - | - | - | [Contact Page](https://thqnordic.com/company/contact) / [@THQNordic](https://x.com/THQNordic) / [support@thqnordic.com](mailto:support@thqnordic.com) | - |
+| [tinyBuild](https://www.tinybuild.com) | Yes | Yes | - | - | - | [@tinyBuild](https://x.com/tinyBuild) / [contact@tinybuild.com](mailto:contact@tinybuild.com) | - |
+| [Toge Productions](https://togeproductions.com) | - | Yes | - | - | - | [Contact](https://togeproductions.com/contact) / [@togeproductions](https://x.com/togeproductions) / [contact@togeproductions.com](mailto:contact@togeproductions.com) | - |
+| [Toplitz Productions](https://www.toplitz-productions.com) | Yes | Yes | - | - | - | [@Toplitz_Prod](https://x.com/Toplitz_Prod) / [support@toplitz-productions.com](mailto:support@toplitz-productions.com) | - |
+| [Total Mayhem Games](https://totalmayhemgames.com) | Yes | - | - | - | - | [Support](https://totalmayhemgames.zendesk.com) / [Contact](https://totalmayhemgames.com/contact) | - |
+| [Triband](https://triband.net) | - | Yes | - | - | - | [triband.net](https://triband.net) / [hello@triband.net](mailto:hello@triband.net) | - |
+| [Tripwire Interactive](https://www.tripwireinteractive.com) | Yes | Yes | - | - | - | [@TripwireInt](https://x.com/TripwireInt) / [support@tripwireinteractive.com](mailto:support@tripwireinteractive.com) | - |
+| [Twin Sails Interactive](https://twinsails.com) | Yes | - | - | - | - | [@TwinSails](https://x.com/TwinSails) / [support@twinsails.com](mailto:support@twinsails.com) | - |
+| [Versus Evil](https://www.versusevil.com) | Yes | Yes | - | - | - | [@VersusEvil](https://x.com/VersusEvil) / [support@versusevil.com](mailto:support@versusevil.com) | - |
+| [Wales Interactive](https://www.walesinteractive.com) | Yes | - | - | - | - | [@WalesInter](https://x.com/WalesInter) / [info@walesinteractive.com](mailto:info@walesinteractive.com) | - |
+| [Walkabout Games](https://walkaboutgames.com) | Yes | - | - | - | - | [@WalkaboutGames](https://x.com/WalkaboutGames) / [support@walkaboutgames.com](mailto:support@walkaboutgames.com) | - |
+| [WanadevStudio](https://wanadevstudio.com) | - | Yes | - | - | - | [wanadevstudio.com/contact](https://wanadevstudio.com/contact) / [contact@wanadevstudio.com](mailto:contact@wanadevstudio.com) | - |
+| [WayForward](https://wayforward.com) | - | Yes | - | - | - | [support.wayforward.com](https://support.wayforward.com) / [wayforward.com/support](https://wayforward.com/support) / [@WayForward](https://x.com/WayForward) | - |
+| [WB Games](https://warnerbrosgames.com) | Yes | Yes | - | - | - | [@WBGames](https://x.com/WBGames) / [wbgamessupport@wbgames.com](mailto:wbgamessupport@wbgames.com) | - |
+| [Whitethorn Games](https://whitethorndigital.com) | Yes | - | - | - | - | [@WhitethornGames](https://x.com/WhitethornGames) / [support@whitethorndigital.com](mailto:support@whitethorndigital.com) | Claims Valve won't provide keys for certain games, but still sells those games on the Humble Store |
+| [Wired Productions](https://www.wiredproductions.com) | Yes | - | - | Yes | - | [Support](https://support.wiredproductions.com) / [Discord](https://discord.com/invite/wiredp) / [@WiredP](https://x.com/WiredP) / [info@wiredproductions.com](mailto:info@wiredproductions.com) | - |
+| [Xbox Game Studios](https://www.xbox.com/games/xbox-game-studios) | - | Yes | - | - | - | [support.xbox.com](https://support.xbox.com) / [@Xbox](https://x.com/Xbox) | - |
+| [Yogscast Games](https://www.yogscast.games) | Yes | - | Yes | - | - | [@YogscastGames](https://x.com/YogscastGames) / [contact@yogscast.com](mailto:contact@yogscast.com) | - |
+| [ZA/UM](https://zaumstudio.com) | - | Yes | - | - | - | [zaumstudio.com](https://zaumstudio.com) / [@studiozaum](https://x.com/studiozaum) / [support@zaumstudio.com](mailto:support@zaumstudio.com) / [info@zaumstudio.com](mailto:info@zaumstudio.com) | - |
