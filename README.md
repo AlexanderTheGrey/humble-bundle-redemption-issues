@@ -766,7 +766,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Pegasus Expedition | 2025-10-27 | Switched DRM | - | January 2025 Humble Choice | Steam | [Raw Fury](https://rawfury.com) | - |
 | Dordogne | - | Permanent | 2026-02-01 | January 2025 Humble Choice | Steam | [Focus Entertainment](https://www.focus-entmt.com/en) | - |
 | Atlas Fallen: Reign of Sand | 2025-12-18 | - | - | December 2024 Humble Choice | Steam | [Focus Entertainment](https://www.focus-entmt.com/en) | - |
-| Bomb Rush Cyberfunk | 2025-10-28 | - | - | December 2024 Humble Choice | Steam | [Team Reptile](https://team-reptile.com) | - |
+| Bomb Rush Cyberfunk | 2025-10-28 | Permanent | - | December 2024 Humble Choice | Steam | [Team Reptile](https://team-reptile.com) | - |
 | Old World | 2026-01-15 | - | - | December 2024 Humble Choice | Steam | [Hooded Horse](https://hoodedhorse.com) | - |
 | Inkulinati | 2026-01-23 | - | - | December 2024 Humble Choice | Steam | [Daedalic Entertainment](https://daedalic.com) | - |
 | Monster Prom 3: Monster Roadtrip | 2026-01-16 | - | - | December 2024 Humble Choice | Steam | [Beautiful Glitch](https://beautifulglitch.pizza) | - |
