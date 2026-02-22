@@ -286,6 +286,10 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Lil Gator Game | 2026-09-02 | August 2025 Humble Choice | - | - | - | Steam | [Playtonic Friends](https://www.playtonic.games) | - |
 | Wildmender | 2026-09-02 | August 2025 Humble Choice | - | - | - | Steam | [Muse Games](https://www.musegames.com) | - |
 | Warpips | 2026-09-02 | August 2025 Humble Choice | - | - | - | Steam | [Skirmish Mode Games](https://www.skirmishmodegames.com) | - |
+| Bus Simulator 21 Next Stop | 2026-09-03 | February 2026 Humble Choice | - | - | - | Steam | [astragon Entertainment](https://www.astragon.com) | - |
+| Date Everything! | 2026-09-03 | February 2026 Humble Choice | - | - | - | Steam | [Team17](https://www.team17.com) | - |
+| Resident Evil Village | 2026-09-03 | February 2026 Humble Choice | - | - | - | Steam | [CAPCOM Co., Ltd.](https://www.capcom.com) | - |
+| Squirrel with a Gun | 2026-09-03 | February 2026 Humble Choice | - | - | - | Steam | [Maximum Entertainment](https://maximument.com) | - |
 | WWE 2K25 | 2026-10-07 | September 2025 Humble Choice | - | - | - | Steam | [2K](https://www.2k.com) | - |
 | Destiny 2: Legacy Collection (2025) | 2026-10-07 | September 2025 Humble Choice | - | - | - | Steam | [Bungie](https://www.bungie.net) | - |
 | The Plucky Squire | 2026-10-07 | September 2025 Humble Choice | - | - | - | Steam | [Devolver Digital](https://www.devolverdigital.com) | - |
@@ -705,6 +709,24 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Just Cause & Just Cause 2 + DLC | 2027-02-11 | Just Cause Complete Collection 2026 | - | - | - | Steam | [Square Enix](https://square-enix-games.com) | - |
 | Just Cause 3 + DLC | 2027-02-11 | Just Cause Complete Collection 2026 | - | - | - | Steam | [Square Enix](https://square-enix-games.com) | - |
 | Just Cause 4 Reloaded + DLC | 2027-02-11 | Just Cause Complete Collection 2026 | - | - | - | Steam | [Square Enix](https://square-enix-games.com) | - |
+| WRC 9 FIA World Rally Championship | 2027-02-18 | Catch My Drift | - | - | Yes | Steam | [Nacon](https://www.nacongaming.com) | - |
+| WRC 10 FIA World Rally Championship | 2027-02-18 | Catch My Drift | - | - | Yes | Steam | [Nacon](https://www.nacongaming.com) | - |
+| TT Isle of Man: Ride on the Edge 2 | 2027-02-18 | Nacon Motorsports: Drive & Thrive | - | - | Yes | Steam | [Nacon](https://www.nacongaming.com) | - |
+| V-Rally 4 | 2027-02-18 | Nacon Motorsports: Drive & Thrive | - | - | Yes | Steam | [Nacon](https://www.nacongaming.com) | - |
+| WRC 7 FIA World Rally Championship | 2027-02-18 | Nacon Motorsports: Drive & Thrive | - | - | Yes | Steam | [Nacon](https://www.nacongaming.com) | - |
+| WRC Generations - The FIA WRC Official Game | 2027-02-18 | Nacon Motorsports: Drive & Thrive | - | - | Yes | Steam | [Nacon](https://www.nacongaming.com) | - |
+| TT Isle Of Man: Ride on the Edge 3 | 2027-02-18 | Nacon Racing Collection 2026 | - | - | - | Steam | [Nacon](https://www.nacongaming.com) | - |
+| TT Isle of Man: Ride on the Edge 2 | 2027-02-18 | Nacon Racing Collection 2026 | - | - | - | Steam | [Nacon](https://www.nacongaming.com) | - |
+| V-Rally 4 | 2027-02-18 | Nacon Racing Collection 2026 | - | - | - | Steam | [Nacon](https://www.nacongaming.com) | - |
+| WRC 7 FIA World Rally Championship | 2027-02-18 | Nacon Racing Collection 2026 | - | - | - | Steam | [Nacon](https://www.nacongaming.com) | - |
+| WRC 8 FIA World Rally Championship | 2027-02-18 | Nacon Racing Collection 2026 | - | - | - | Steam | [Nacon](https://www.nacongaming.com) | - |
+| WRC 9 FIA World Rally Championship | 2027-02-18 | Nacon Racing Collection 2026 | - | - | - | Steam | [Nacon](https://www.nacongaming.com) | - |
+| WRC 10 FIA World Rally Championship | 2027-02-18 | Nacon Racing Collection 2026 | - | - | - | Steam | [Nacon](https://www.nacongaming.com) | - |
+| WRC Generations – The FIA WRC Official Game | 2027-02-18 | Nacon Racing Collection 2026 | - | - | - | Steam | [Nacon](https://www.nacongaming.com) | - |
+| Big Helmet Heroes | 2027-03-03 | February 2026 Humble Choice | - | - | - | Steam | [Dear Villagers](https://dearvillagers.com) | - |
+| Core Keeper | 2027-03-03 | February 2026 Humble Choice | - | - | - | Steam | [Fireshine Games](https://fireshinegames.co.uk) | - |
+| StarVaders | 2027-03-03 | February 2026 Humble Choice | - | - | - | Steam | [Joystick Ventures](https://www.joystickventures.com) | - |
+| SteamWorld Build | 2027-03-03 | February 2026 Humble Choice | - | - | - | Steam | [Thunderful Publishing](https://thunderfulgames.com) | - |
 | Disjunction | 2031-05-25 | June 2021 Humble Choice | - | - | - | GOG | [Fireshine Games](https://www.fireshinegames.co.uk) | - |
 | Encodya | 2031-07-28 | August 2021 Humble Choice | - | - | - | GOG | [Assemble Entertainment](https://assemble-entertainment.com) | - |
 | ~~Beneath Oresa~~ | ~~2026-02-02~~ | ~~January 2025 Humble Choice~~ | ~~-~~ | ~~-~~ | ~~-~~ | ~~Steam~~ | ~~[Goblinz Publishing](https://goblinzstudio.com)~~ | ~~-~~ |
