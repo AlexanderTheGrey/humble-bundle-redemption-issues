@@ -773,7 +773,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Moonstone Island | - | Switched DRM | 2026-01-06 | December 2024 Humble Choice | Steam | [Raw Fury](https://rawfury.com) | - |
 | The Bookwalker: Thief of Tales | 2025-10-22 | - | - | November 2024 Humble Choice | Steam | [tinyBuild](https://www.tinybuild.com) | - |
 | Cassette Beasts | - | - | 2026-10-08 | November 2024 Humble Choice | Steam | [Raw Fury](https://rawfury.com) | - |
-| Garden Life: A Cozy Simulator | 2026-02-04 | - | - | November 2024 Humble Choice | Steam | [Nacon](https://www.nacongaming.com/en-US) | - |
+| Garden Life: A Cozy Simulator | 2026-02-20 | - | - | November 2024 Humble Choice | Steam | [Nacon](https://www.nacongaming.com/en-US) | - |
 | Hexarchy | - | Permanent | 2025-12-05 | November 2024 Humble Choice | Steam | [Yogscast Games](https://www.yogscast.games) | Never restocked before expiration, and no replacement keys have been issued |
 | The Lamplighters League | - | - | - | November 2024 Humble Choice | Steam | [Paradox Interactive](https://www.paradoxinteractive.com) | - |
 | Warhammer 40,000: Darktide | 2025-10-20 | - | 2025-12-05 | November 2024 Humble Choice | Steam | [Fatshark](https://www.fatshark.se) | - |
@@ -963,8 +963,8 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | [Arc Games](https://www.arcgames.com) | - | Yes | - | - | - | [@ArcGames](https://x.com/ArcGames) / [support@arcgames.com](mailto:support@arcgames.com) | - |
 | [Armor Games Studios](https://armorgamesstudios.com) | - | - | Yes | - | - | [Support Forum](https://armorgames.com/community/forum/34/support-forum) / [Discord](https://discord.gg/zZzgJKn) / [@ArmorGameStudio](https://x.com/ArmorGameStudio) / [presskits@armorgames.com](mailto:PressKits@ArmorGames.com) | - |
 | [Assemble Entertainment](https://assemble-ent.com) | Yes | - | Yes | - | - | [@AssembleTeam](https://x.com/AssembleTeam) / [support@assemble-ent.com](mailto:support@assemble-ent.com) | - |
-| [Aspyr](https://www.aspyr.com) | Yes | - | - | - | - | [@AspyrMedia](https://x.com/AspyrMedia) / [support@aspyr.com](mailto:support@aspyr.com) | - |
-| [Astra Publishing](https://astrapublishing.com) | Yes | - | - | - | - | [@AstraPublish](https://x.com/AstraPublish) / [support@astrapublishing.com](mailto:support@astrapublishing.com) | - |
+| [Aspyr](https://www.aspyr.com) | Yes | Yes | - | - | - | [@AspyrMedia](https://x.com/AspyrMedia) / [support@aspyr.com](mailto:support@aspyr.com) | - |
+| [Astra Publishing](https://astrapublishing.com) | Yes | Yes | - | - | - | [@AstraPublish](https://x.com/AstraPublish) / [support@astrapublishing.com](mailto:support@astrapublishing.com) | - |
 | [Avalanche Studios](https://avalanchestudios.com) | Yes | - | - | - | - | [Support](https://avalanchestudios.com/support) / [Contact](https://avalanchestudios.com/connect) | - |
 | [BANDAI NAMCO Entertainment](https://www.bandainamcoent.com) | Yes | Yes | - | - | - | [support.bandainamcoent.com](https://support.bandainamcoent.com) / [@BandaiNamcoUS](https://x.com/BandaiNamcoUS) | - |
 | [Beautiful Glitch](https://beautifulglitch.pizza) | - | Yes | - | - | - | [Contact](https://beautifulglitch.pizza/contact) / [hello@beautifulglitch.pizza](mailto:hello@beautifulglitch.pizza) / [bugreports@beautifulglitch.pizza](mailto:bugreports@beautifulglitch.pizza) | - |
@@ -1020,10 +1020,10 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | [ILIKESCIFI Games](https://www.ilikescifi.com) | Yes | - | - | - | - | [ilikescifi.com/contact.html](https://www.ilikescifi.com/contact.html) / [@IlikescifiGames](https://x.com/IlikescifiGames) / [contact@ilikescifi.com](mailto:contact@ilikescifi.com) | - |
 | [indie.io](https://indie.io) | - | Yes | Yes | - | - | [Support](https://support.indie.io/hc/en-us) / [support@indie.io](mailto:support@indie.io) | - |
 | [Kepler Interactive](https://kepler-interactive.com) | Yes | - | - | Yes | - | [@Kepler_Interact](https://x.com/Kepler_Interact) / [pr@kepler-interactive.com](mailto:pr@kepler-interactive.com) | Have given replacement keys in the past |
-| [Krafton](https://www.krafton.com) | Yes | - | - | - | - | [@Krafton_inc](https://x.com/Krafton_inc) / [info@krafton.com](mailto:info@krafton.com) | - |
+| [Krafton](https://www.krafton.com) | Yes | Yes | - | - | - | [@Krafton_inc](https://x.com/Krafton_inc) / [info@krafton.com](mailto:info@krafton.com) | - |
 | [Landfall](https://landfall.se) | - | - | Yes | - | - | [landfall.se/contact](https://landfall.se/contact) / [@LandfallGames](https://x.com/LandfallGames) / [contact@landfall.se](mailto:contact@landfall.se) | - |
 | [Maddy Makes Games](https://www.maddymakesgames.com) | - | - | Yes | - | - | [Contact](https://exok.com/contact.html) / [contact@exok.com](mailto:contact@exok.com) | - |
-| [Maple Whispering Limited](https://www.maplewhispering.com) | Yes | - | - | - | - | [@MapleWhispering](https://x.com/MapleWhispering) / [support@maplewhispering.com](mailto:support@maplewhispering.com) | - |
+| [Maple Whispering Limited](https://www.maplewhispering.com) | Yes | Yes | - | - | - | [@MapleWhispering](https://x.com/MapleWhispering) / [support@maplewhispering.com](mailto:support@maplewhispering.com) | - |
 | [Merge Games](https://mergegames.com) | Yes | - | - | - | - | [@MergeGames](https://x.com/MergeGames) / [support@mergegames.com](mailto:support@mergegames.com) | - |
 | [MicroProse Software](https://www.microprose.com) | Yes | - | - | - | - | [microprose.com/helpdesk](https://www.microprose.com/helpdesk) / [@micro_prose](https://x.com/micro_prose) / [contact@microprose.co.uk](mailto:contact@microprose.co.uk) | - |
 | [Might and Delight](https://mightanddelight.com) | Yes | Yes | - | - | - | [@MightandDelight](https://x.com/MightandDelight) / [support@mightanddelight.com](mailto:support@mightanddelight.com) | - |
