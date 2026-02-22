@@ -755,7 +755,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Potion Craft: Alchemist Simulator | 2025-10-20 | - | - | IGN Live 2025 | Steam | [tinyBuild](https://www.tinybuild.com) | - |
 | Diplomacy is Not an Option | - | Switched DRM | - | April 2025 Humble Choice | Steam | [Door 407](https://door407.com) | - |
 | Homeworld 3 | 2025-10-10 | - | - | March 2025 Humble Choice | Steam | [Gearbox Publishing](https://www.gearboxpublishing.com) | - |
-| Racine | - | - | - | March 2025 Humble Choice | Steam | [Raw Fury](https://rawfury.com) | - |
+| Racine | - | Switched DRM | - | March 2025 Humble Choice | Steam | [Raw Fury](https://rawfury.com) | - |
 | Pacific Drive | - | Permanent | 2025-10-03 | March 2025 Humble Choice | Steam | [Kepler Interactive](https://kepler-interactive.com) | Never restocked before expiration, but replacement keys were given for those who contacted Humble Support |
 | Lovecraft's Untold Stories | - | Switched DRM | - | February 2021 Humble Choice | Steam | [Fulqrum Publishing](https://fulqrumpublishing.com) | - |
 | Against the Storm | 2026-01-15 | - | - | January 2025 Humble Choice | Steam | [Hooded Horse](https://hoodedhorse.com) | - |
@@ -861,6 +861,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Just Die Already | - | - | - | February 2022 Humble Choice | Steam | [Curve Games](https://www.curvegames.com) | - |
 | Per Aspera | - | - | - | February 2022 Humble Choice | Steam | [Raw Fury](https://rawfury.com) | - |
 | Brothers: A Tale of Two Sons | 2025-12-23 | - | - | F*CK CANCER Bundle | Steam | [505 Games](https://505games.com) | - |
+| Dead in Vinland | - | Fraudulently Recycled | - | Survive or Die | Steam | [Ishtar Games](https://ishtar.games) | - |
 | Bloodstained | 2025-12-09 | - | - | August 2021 Humble Choice | Steam | [505 Games](https://505games.com) | - |
 | S.W.I.N.E. HD Remaster | - | - | - | July 2021 Humble Choice | Steam | [Assemble Entertainment](https://assemble-ent.com) | - |
 | The Surge 2 | - | - | - | July 2021 Humble Choice | Steam | [Focus Entertainment](https://www.focus-entmt.com/en) | - |
@@ -888,6 +889,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Vampyr | - | - | - | August 2020 Humble Choice | Steam | [Focus Entertainment](https://www.focus-entmt.com/en) | - |
 | We Were Here Together | - | - | - | August 2020 Humble Choice | Steam | [Total Mayhem Games](https://totalmayhemgames.com) | - |
 | Project Warlock | - | - | - | February 2020 Humble Choice | Steam | [Gaming Company](https://www.gamingcompany.pl) | - |
+| Dead in Vinland | - | Fraudulently Recycled | - | December 2019 Humble Choice | Steam | [Ishtar Games](https://ishtar.games) | - |
 | SOULCALIBUR VI | - | - | - | December 2019 Humble Monthly | Steam | [BANDAI NAMCO Entertainment](https://www.bandainamcoent.com) | - |
 | 11-11 Memories Retold | - | - | - | November 2019 Humble Monthly | Steam | [BANDAI NAMCO Entertainment](https://www.bandainamcoent.com) | - |
 | God's Trigger | - | - | - | September 2019 Humble Monthly | Steam | [Techland](https://www.techland.pl) | - |
@@ -932,6 +934,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | Game | Replacement Platform | Expiration | Bundle | Publisher | Notes |
 |---|---|---|---|---|---|
 | Diplomacy is Not an Option | Epic | - | April 2025 Humble Choice | [Door 407](https://door407.com) | - |
+| Racine | GOG | - | March 2025 Humble Choice | [Goblinz Publishing](https://www.goblinz.com) | - |
 | Fort Solis | Epic | - | January 2025 Humble Choice | [Dear Villagers](https://dearvillagers.com) | - |
 | Pegasus Expedition | Epic | - | January 2025 Humble Choice | [Fulqrum Publishing](https://fulqrumpublishing.com) | - |
 | Moonstone Island | GOG | 2026-01-06 | December 2024 Humble Choice | [Raw Fury](https://rawfury.com) | - |
@@ -1009,7 +1012,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | [Funcom](https://www.funcom.com) | Yes | - | - | - | - | [help.funcom.com](https://help.funcom.com) / [@Funcom](https://x.com/Funcom) | - |
 | [Gaming Company](https://www.gamingcompany.pl) | Yes | - | - | - | - | [@GameCompanyGC](https://x.com/GameCompanyGC) / [support@gamingcompany.pl](mailto:support@gamingcompany.pl) | - |
 | [Gearbox Publishing](https://www.gearboxpublishing.com) | Yes | Yes | - | - | - | [@GBXPublishing](https://x.com/GearboxOfficial) / [support@gearboxpublishing.com](mailto:support@gearboxpublishing.com) | - |
-| [Goblinz Publishing](https://goblinzstudio.com) | Yes | Yes | - | - | - | [Discord](https://discord.gg/GoblinzStudio) / [@GoblinzPub](https://x.com/GoblinzPub) / [contact@goblinzstudio.com](mailto:contact@goblinzstudio.com) | - |
+| [Goblinz Publishing](https://goblinzstudio.com) | Yes | Yes | - | Yes | - | [Discord](https://discord.gg/GoblinzStudio) / [@GoblinzPub](https://x.com/GoblinzPub) / [contact@goblinzstudio.com](mailto:contact@goblinzstudio.com) | - |
 | [Half Mermaid](https://halfmermaid.co) | - | Yes | - | - | - | [Contact](https://halfmermaid.co/contact) / [@halfmermaid](https://x.com/halfmermaid) | - |
 | [HandyGames](https://handy-games.com) | - | Yes | - | - | - | [@handy_games](https://x.com/handy_games) / [support@handy-games.com](mailto:support@handy-games.com) / [info@handy-games.com](mailto:info@handy-games.com) | - |
 | [Headup](https://headupgames.com) | Yes | Yes | - | - | - | [@headupgames](https://x.com/headupgames) / [support@headupgames.com](mailto:support@headupgames.com) / [info@headupgames.com](mailto:info@headupgames.com) | - |
@@ -1021,6 +1024,7 @@ This tutorial shows how to export all your revealed game keys from Humble Bundle
 | [Iceberg Interactive](https://www.iceberg-games.com) | - | Yes | - | - | - | [@Iceberg_Games](https://x.com/Iceberg_Games) / [support@iceberg-games.com](mailto:support@iceberg-games.com) | - |
 | [ILIKESCIFI Games](https://www.ilikescifi.com) | Yes | - | - | - | - | [ilikescifi.com/contact.html](https://www.ilikescifi.com/contact.html) / [@IlikescifiGames](https://x.com/IlikescifiGames) / [contact@ilikescifi.com](mailto:contact@ilikescifi.com) | - |
 | [indie.io](https://indie.io) | Yes | Yes | - | - | - | [Support](https://support.indie.io/hc/en-us) / [support@indie.io](mailto:support@indie.io) | - |
+| [Ishtar Games](https://ishtar.games) | Yes | - | - | - | Yes | [Contact Page](https://ishtar.games/contact) / [@ishtar_games](https://x.com/ishtar_games) / [support@ishtar.games](mailto:support@ishtar.games) / [contact@ishtar.games](mailto:contact@ishtar.games) | - |
 | [Kepler Interactive](https://kepler-interactive.com) | Yes | - | Yes | - | - | [@Kepler_Interact](https://x.com/Kepler_Interact) / [pr@kepler-interactive.com](mailto:pr@kepler-interactive.com) | Have given replacement keys in the past |
 | [Krafton](https://www.krafton.com) | Yes | - | - | - | - | [@Krafton_inc](https://x.com/Krafton_inc) / [info@krafton.com](mailto:info@krafton.com) | - |
 | [Landfall](https://landfall.se) | - | Yes | - | - | - | [landfall.se/contact](https://landfall.se/contact) / [@LandfallGames](https://x.com/LandfallGames) / [contact@landfall.se](mailto:contact@landfall.se) | - |
